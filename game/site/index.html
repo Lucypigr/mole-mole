@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>賽爾號 單機版</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <canvas id="world" width="640" height="448"></canvas>
+  <div id="hud">
+    <span id="hud-zone"></span>
+    <span id="hud-money"></span>
+    <button data-act="party">精靈</button>
+    <button data-act="bag">背包</button>
+    <button data-act="dex">圖鑑</button>
+    <button data-act="save">存檔</button>
+  </div>
+  <div id="pad">
+    <button data-dir="up">▲</button>
+    <button data-dir="left">◀</button>
+    <button data-dir="right">▶</button>
+    <button data-dir="down">▼</button>
+    <button data-dir="act" class="act">A</button>
+  </div>
+  <div id="battle" hidden>
+    <div class="side foe">
+      <div class="info"><b class="name"></b> <span class="lv"></span> <span class="type"></span> <span class="status"></span>
+        <div class="bar"><i></i></div><small class="hp"></small></div>
+      <img class="sprite" alt="">
+    </div>
+    <div class="side me">
+      <img class="sprite" alt="">
+      <div class="info"><b class="name"></b> <span class="lv"></span> <span class="type"></span> <span class="status"></span>
+        <div class="bar"><i></i></div><small class="hp"></small>
+        <div class="bar exp"><i></i></div></div>
+    </div>
+    <div id="log"></div>
+    <div id="cmd"></div>
+  </div>
+  <div id="modal" hidden><div class="box"></div></div>
+  <div id="toast"></div>
+</div>
+<script src="game.js"></script>
+</body>
+</html>
