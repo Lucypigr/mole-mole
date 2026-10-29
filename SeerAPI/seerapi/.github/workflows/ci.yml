@@ -1,0 +1,125 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint-python:
+    name: Lint & type-check (${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: [ "3.10", "3.11", "3.12", "3.13" ]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Set up Python ${{ matrix.python-version }}
+        run: uv python install ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: uv sync --all-packages
+
+      - name: Ruff check
+        run: uv run ruff check packages/seerapi-models packages/seerapi-python
+          packages/solaris
+
+      - name: Ruff format check
+        run: uv run ruff format --check packages/seerapi-models packages/seerapi-python
+          packages/solaris
+
+  test-python:
+    name: Tests (${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: [ "3.10", "3.11", "3.12", "3.13", "3.14" ]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Set up Python ${{ matrix.python-version }}
+        run: uv python install ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: uv sync --all-packages
+
+      - name: Run pytest
+        run: uv run pytest packages/seerapi-models/tests packages/seerapi-python/tests packages/solaris/tests -v
+
+  generate-schema:
+    name: Generate schema data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install 3.13
+
+      - name: Install dependencies
+        run: uv sync --all-packages
+
+      - name: Generate OpenAPI schema
+        run: uv run solaris analyze openapi --api-url https://api.seerapi.com --api-version v1
+
+      - name: Generate schema-only DB
+        run: uv run python scripts/create_schema_db.py
+
+      - name: Upload schema artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: solaris-schema-data
+          path: |
+            output/v1/openapi.json
+            schema-only.db
+          retention-days: 1
+
+  check-ts:
+    name: TypeScript check & build
+    needs: generate-schema
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download schema artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: solaris-schema-data
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build (openapi-ts + orm-sync + tsc)
+        env:
+          OPENAPI_INPUT: ${{ github.workspace }}/output/v1/openapi.json
+          DB_FILE_NAME: file:${{ github.workspace }}/schema-only.db
+        run: pnpm -r run build

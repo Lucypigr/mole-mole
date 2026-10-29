@@ -1,0 +1,424 @@
+{
+  "item": [
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 1,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 1,
+      "title": "累计抽取10次",
+      "value": 10
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 2,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 2,
+      "title": "累计抽取20次",
+      "value": 20
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 3,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 3,
+      "title": "累计抽取30次",
+      "value": 30
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 4,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 4,
+      "title": "累计抽取40次",
+      "value": 40
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 5,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 5,
+      "title": "累计抽取50次",
+      "value": 50
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 6,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 6,
+      "title": "累计抽取60次",
+      "value": 60
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 7,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 7,
+      "title": "累计抽取70次",
+      "value": 70
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 8,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_2",
+      "taskid": 8,
+      "title": "累计抽取80次",
+      "value": 80
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 9,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 9,
+      "title": "累计抽取90次",
+      "value": 90
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 10,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 10,
+      "title": "累计抽取100次",
+      "value": 100
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 11,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 11,
+      "title": "累计抽取110次",
+      "value": 110
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 12,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 12,
+      "title": "累计抽取120次",
+      "value": 120
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 13,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_1",
+      "taskid": 13,
+      "title": "累计抽取130次",
+      "value": 130
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 14,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_2",
+      "taskid": 14,
+      "title": "累计抽取140次",
+      "value": 140
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 15,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 15,
+      "title": "累计抽取150次",
+      "value": 150
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 16,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 16,
+      "title": "累计抽取160次",
+      "value": 160
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 17,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 17,
+      "title": "累计抽取170次",
+      "value": 170
+    },
+    {
+      "new_msglog_id": -1693816696,
+      "endtime": "2026_12_04 10:00:00",
+      "id": 18,
+      "poolid": 1,
+      "rewardinfo": "1_1727665_3",
+      "taskid": 18,
+      "title": "累计抽取180次",
+      "value": 180
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 19,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_2",
+      "taskid": 1,
+      "title": "新春扭蛋机累计抽取10次",
+      "value": 10
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 20,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 2,
+      "title": "新春扭蛋机累计抽取20次",
+      "value": 20
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 21,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 3,
+      "title": "新春扭蛋机累计抽取30次",
+      "value": 30
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 22,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 4,
+      "title": "新春扭蛋机累计抽取40次",
+      "value": 40
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 23,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 5,
+      "title": "新春扭蛋机累计抽取50次",
+      "value": 50
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 24,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_9",
+      "taskid": 6,
+      "title": "新春扭蛋机累计抽取60次",
+      "value": 60
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 25,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_2",
+      "taskid": 7,
+      "title": "新春扭蛋机累计抽取70次",
+      "value": 70
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 26,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 8,
+      "title": "新春扭蛋机累计抽取80次",
+      "value": 80
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 27,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 9,
+      "title": "新春扭蛋机累计抽取90次",
+      "value": 90
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 28,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 10,
+      "title": "新春扭蛋机累计抽取100次",
+      "value": 100
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 29,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 11,
+      "title": "新春扭蛋机累计抽取110次",
+      "value": 110
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 30,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_9",
+      "taskid": 12,
+      "title": "新春扭蛋机累计抽取120次",
+      "value": 120
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 31,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_2",
+      "taskid": 13,
+      "title": "新春扭蛋机累计抽取130次",
+      "value": 130
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 32,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 14,
+      "title": "新春扭蛋机累计抽取140次",
+      "value": 140
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 33,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 15,
+      "title": "新春扭蛋机累计抽取150次",
+      "value": 150
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 34,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 16,
+      "title": "新春扭蛋机累计抽取160次",
+      "value": 160
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 35,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 17,
+      "title": "新春扭蛋机累计抽取170次",
+      "value": 170
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 36,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_9",
+      "taskid": 18,
+      "title": "新春扭蛋机累计抽取180次",
+      "value": 180
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 37,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_2",
+      "taskid": 19,
+      "title": "新春扭蛋机累计抽取190次",
+      "value": 190
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 38,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 20,
+      "title": "新春扭蛋机累计抽取200次",
+      "value": 200
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 39,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 21,
+      "title": "新春扭蛋机累计抽取210次",
+      "value": 210
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 40,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 22,
+      "title": "新春扭蛋机累计抽取220次",
+      "value": 220
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 41,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 23,
+      "title": "新春扭蛋机累计抽取230次",
+      "value": 230
+    },
+    {
+      "new_msglog_id": -1692834296,
+      "endtime": "2026_03_06 10:00:00",
+      "id": 42,
+      "poolid": 2,
+      "rewardinfo": "1_1727742_1",
+      "taskid": 24,
+      "title": "新春扭蛋机累计抽取240次",
+      "value": 240
+    }
+  ]
+}

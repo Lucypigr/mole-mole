@@ -1,0 +1,17 @@
+{
+  "data": {
+    "556": {
+      "id": 556,
+      "name": "混沌魔使",
+      "start_time": null,
+      "end_time": null,
+      "is_show": false,
+      "sort_order": 8,
+      "type": {
+        "id": 1,
+        "url": "https://api.seerapi.com/v1/activity_type/1"
+      }
+    }
+  },
+  "hash": "2c6e505a"
+}

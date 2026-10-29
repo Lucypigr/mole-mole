@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "boss_list": "5582_5584_5581",
+      "id": 1,
+      "raid_unlock_arg": 0,
+      "raid_unlock_text": "出战精灵全部存活的情况下击败所有BOSS，即可开启本层扫荡功能",
+      "reward_id": "9_1",
+      "reward_num": "50_1000",
+      "reward_type": "1_1",
+      "se_boss_id": "17517_17518_17516"
+    },
+    {
+      "boss_list": "5582_5584_5581",
+      "id": 2,
+      "raid_unlock_arg": 0,
+      "raid_unlock_text": "出战精灵全部存活的情况下击败所有BOSS，即可开启本层扫荡功能",
+      "reward_id": "9_1",
+      "reward_num": "60_2000",
+      "reward_type": "1_1",
+      "se_boss_id": "17520_17521_17519"
+    },
+    {
+      "boss_list": "5584_5581_5583_5586",
+      "id": 3,
+      "raid_unlock_arg": 10,
+      "raid_unlock_text": "10回合内击败所有BOSS，即可开启本层扫荡功能",
+      "reward_id": "9_1",
+      "reward_num": "70_3000",
+      "reward_type": "1_1",
+      "se_boss_id": "17524_17522_17523_17525"
+    },
+    {
+      "boss_list": "5584_5581_5583_5586",
+      "id": 4,
+      "raid_unlock_arg": 400,
+      "raid_unlock_text": "自身出战精灵血量不低于400时击败最终BOSS，即可开启本层扫荡功能",
+      "reward_id": "9_1",
+      "reward_num": "80_4000",
+      "reward_type": "1_1",
+      "se_boss_id": "17528_17526_17527_17529"
+    },
+    {
+      "boss_list": "5584_5585_5583_5586_5587",
+      "id": 5,
+      "raid_unlock_arg": 8,
+      "raid_unlock_text": "8回合内击败所有BOSS，即可开启本层扫荡功能",
+      "reward_id": "9_1",
+      "reward_num": "90_5000",
+      "reward_type": "1_1",
+      "se_boss_id": "17531_17532_17530_17533_17534"
+    },
+    {
+      "boss_list": "5584_5585_5583_5586_5587",
+      "id": 6,
+      "raid_unlock_arg": 500,
+      "raid_unlock_text": "自身出战精灵血量不低于500时击败最终BOSS，即可开启本层扫荡功能",
+      "reward_id": "9_1",
+      "reward_num": "100_6000",
+      "reward_type": "1_1",
+      "se_boss_id": "17536_17537_17535_17538_17539"
+    }
+  ]
+}

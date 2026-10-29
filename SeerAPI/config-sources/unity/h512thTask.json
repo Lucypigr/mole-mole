@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "is_daily_task": 1,
+      "task_description": "获得6次spt普通难度关卡的胜利",
+      "task_schedule": 6,
+      "task_tags": "SPT",
+      "task_type": 1,
+      "user_info": 201301,
+      "id": 1,
+      "reward_cnt": "400_3",
+      "reward_id": "1723696_120750",
+      "reward_type": "1_3"
+    },
+    {
+      "is_daily_task": 1,
+      "task_description": "获得3次spt困难难度关卡的胜利",
+      "task_schedule": 3,
+      "task_tags": "SPT+",
+      "task_type": 2,
+      "user_info": 201302,
+      "id": 2,
+      "reward_cnt": "450_4",
+      "reward_id": "1723696_120750",
+      "reward_type": "1_3"
+    },
+    {
+      "is_daily_task": 1,
+      "task_description": "在h5端参与精灵王的试炼10次 ",
+      "task_schedule": 10,
+      "task_tags": "K",
+      "task_type": 3,
+      "user_info": 201303,
+      "id": 3,
+      "reward_cnt": "500_5",
+      "reward_id": "1723696_120750",
+      "reward_type": "1_3"
+    },
+    {
+      "is_daily_task": 1,
+      "task_description": "在h5端完成X战队密室副本   ",
+      "task_schedule": 1,
+      "task_tags": "X",
+      "task_type": 4,
+      "user_info": 201304,
+      "id": 4,
+      "reward_cnt": "350_2",
+      "reward_id": "1723696_120750",
+      "reward_type": "1_3"
+    },
+    {
+      "is_daily_task": 0,
+      "task_description": "在h5端开启3次星际迷航",
+      "task_schedule": 3,
+      "task_tags": "M",
+      "task_type": 5,
+      "user_info": 20231,
+      "id": 5,
+      "reward_cnt": "2100_50",
+      "reward_id": "1723696_120750",
+      "reward_type": "1_3"
+    },
+    {
+      "is_daily_task": 0,
+      "task_description": "在h5端领取X战队密室周礼包",
+      "task_schedule": 1,
+      "task_tags": "X+",
+      "task_type": 6,
+      "user_info": 20232,
+      "id": 6,
+      "reward_cnt": "2100_40",
+      "reward_id": "1723696_120750",
+      "reward_type": "1_3"
+    }
+  ]
+}

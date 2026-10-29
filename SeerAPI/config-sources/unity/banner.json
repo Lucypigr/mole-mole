@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "finish_time": "",
+      "id": 1,
+      "image": "xianfengceshi",
+      "is_show": 0,
+      "sort": 3,
+      "start_time": "",
+      "target": 112001
+    },
+    {
+      "finish_time": "",
+      "id": 2,
+      "image": "dianfengmoshi",
+      "is_show": 0,
+      "sort": 2,
+      "start_time": "",
+      "target": 204000
+    },
+    {
+      "finish_time": "",
+      "id": 3,
+      "image": "AdastraActivity",
+      "is_show": 0,
+      "sort": 1,
+      "start_time": "",
+      "target": 1
+    },
+    {
+      "finish_time": "",
+      "id": 4,
+      "image": "MonthlyPetIn2026",
+      "is_show": 1,
+      "sort": 4,
+      "start_time": "",
+      "target": 350000
+    },
+    {
+      "finish_time": "",
+      "id": 5,
+      "image": "GodofPiBanner",
+      "is_show": 0,
+      "sort": 5,
+      "start_time": "",
+      "target": 150070
+    },
+    {
+      "finish_time": "",
+      "id": 6,
+      "image": "summerHolidaySign",
+      "is_show": 0,
+      "sort": 6,
+      "start_time": "",
+      "target": 113026
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "difficulty": 1,
+      "id": 1,
+      "imagine": 1,
+      "inspiration": 4,
+      "observe": 1,
+      "obstacles_num": 1,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 2,
+      "unlock_time": 1754618400
+    },
+    {
+      "difficulty": 1,
+      "id": 2,
+      "imagine": 1,
+      "inspiration": 2,
+      "observe": 1,
+      "obstacles_num": 1,
+      "reward": "1_1723855_20000|1_300075_2",
+      "skill": 3,
+      "unlock_time": 1754618400
+    },
+    {
+      "difficulty": 1,
+      "id": 3,
+      "imagine": 1,
+      "inspiration": 6,
+      "observe": 1,
+      "obstacles_num": 1,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 3,
+      "unlock_time": 1754618400
+    },
+    {
+      "difficulty": 2,
+      "id": 4,
+      "imagine": 2,
+      "inspiration": 3,
+      "observe": 2,
+      "obstacles_num": 1,
+      "reward": "1_2500004_2",
+      "skill": 3,
+      "unlock_time": 1754668800
+    },
+    {
+      "difficulty": 2,
+      "id": 5,
+      "imagine": 1,
+      "inspiration": 5,
+      "observe": 2,
+      "obstacles_num": 1,
+      "reward": "1_1723855_20000|1_300075_2",
+      "skill": 3,
+      "unlock_time": 1754668800
+    },
+    {
+      "difficulty": 2,
+      "id": 6,
+      "imagine": 2,
+      "inspiration": 6,
+      "observe": 2,
+      "obstacles_num": 1,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 4,
+      "unlock_time": 1754755200
+    },
+    {
+      "difficulty": 2,
+      "id": 7,
+      "imagine": 3,
+      "inspiration": 8,
+      "observe": 2,
+      "obstacles_num": 1,
+      "reward": "2_4802_1",
+      "skill": 5,
+      "unlock_time": 1754755200
+    },
+    {
+      "difficulty": 3,
+      "id": 8,
+      "imagine": 2,
+      "inspiration": 10,
+      "observe": 2,
+      "obstacles_num": 2,
+      "reward": "1_1723855_20000|1_300075_2",
+      "skill": 4,
+      "unlock_time": 1754841600
+    },
+    {
+      "difficulty": 3,
+      "id": 9,
+      "imagine": 3,
+      "inspiration": 3,
+      "observe": 3,
+      "obstacles_num": 2,
+      "reward": "3_156_1|1_300075_2",
+      "skill": 6,
+      "unlock_time": 1754928000
+    },
+    {
+      "difficulty": 3,
+      "id": 10,
+      "imagine": 5,
+      "inspiration": 6,
+      "observe": 2,
+      "obstacles_num": 2,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 2,
+      "unlock_time": 1755014400
+    },
+    {
+      "difficulty": 3,
+      "id": 11,
+      "imagine": 2,
+      "inspiration": 6,
+      "observe": 5,
+      "obstacles_num": 2,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 2,
+      "unlock_time": 1755100800
+    },
+    {
+      "difficulty": 4,
+      "id": 12,
+      "imagine": 3,
+      "inspiration": 5,
+      "observe": 3,
+      "obstacles_num": 2,
+      "reward": "1_2500004_2",
+      "skill": 5,
+      "unlock_time": 1755187200
+    },
+    {
+      "difficulty": 4,
+      "id": 13,
+      "imagine": 3,
+      "inspiration": 10,
+      "observe": 3,
+      "obstacles_num": 2,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 3,
+      "unlock_time": 1755273600
+    },
+    {
+      "difficulty": 4,
+      "id": 14,
+      "imagine": 4,
+      "inspiration": 8,
+      "observe": 4,
+      "obstacles_num": 2,
+      "reward": "1_1723855_20000|1_2500004_1",
+      "skill": 2,
+      "unlock_time": 1755360000
+    },
+    {
+      "difficulty": 5,
+      "id": 15,
+      "imagine": 5,
+      "inspiration": 4,
+      "observe": 4,
+      "obstacles_num": 3,
+      "reward": "3_157_1|1_300075_2",
+      "skill": 5,
+      "unlock_time": 1755446400
+    },
+    {
+      "difficulty": 5,
+      "id": 16,
+      "imagine": 5,
+      "inspiration": 5,
+      "observe": 5,
+      "obstacles_num": 3,
+      "reward": "1_2500004_1",
+      "skill": 5,
+      "unlock_time": 1755532800
+    },
+    {
+      "difficulty": 5,
+      "id": 17,
+      "imagine": 6,
+      "inspiration": 4,
+      "observe": 6,
+      "obstacles_num": 1,
+      "reward": "1_1723855_20000",
+      "skill": 4,
+      "unlock_time": 1755619200
+    }
+  ]
+}

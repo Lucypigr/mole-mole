@@ -1,0 +1,14 @@
+{
+  "id": 92,
+  "name": "待补",
+  "desc": "待补",
+  "kind": 1,
+  "link": null,
+  "pet": [
+    {
+      "id": 3661,
+      "url": "https://api.seerapi.com/v1/pet/3661"
+    }
+  ],
+  "hash": "d6250e05"
+}

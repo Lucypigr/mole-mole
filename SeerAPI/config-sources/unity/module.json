@@ -1,0 +1,6816 @@
+{
+  "data": [
+    {
+      "curr_app_do": 2,
+      "id": 1,
+      "is_full_screen": 1,
+      "module_name": "exchangeAwardPromptView",
+      "res_config": [
+        "exchange_clt",
+        "boxordinary",
+        "BuyPopup",
+        "profilephoto"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 2,
+      "is_full_screen": 1,
+      "module_name": "peakWarAwardExchange",
+      "res_config": [
+        "exchange_clt"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 3,
+      "is_full_screen": 1,
+      "module_name": "pveExpTraining",
+      "res_config": [
+        "PveBossExperienceTraining",
+        "boxordinary",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 4,
+      "is_full_screen": 1,
+      "module_name": "warehouse",
+      "res_config": [
+        "brave_lv",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 5,
+      "is_full_screen": 1,
+      "module_name": "markCenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 6,
+      "is_full_screen": 0,
+      "module_name": "mail",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 7,
+      "is_full_screen": 1,
+      "module_name": "handbook",
+      "res_config": [
+        "archivesStory"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 8,
+      "is_full_screen": 1,
+      "module_name": "peakJihadFirstPage",
+      "res_config": [
+        "help_tips",
+        "pvp_ban",
+        "pvp_reward",
+        "pvp_shop",
+        "pass_reward",
+        "pvp_task",
+        "pvp_StageConfig",
+        "pass_shop",
+        "pvp_achieve",
+        "pvp_vote"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 10,
+      "is_full_screen": 1,
+      "module_name": "petBag",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 12,
+      "is_full_screen": 0,
+      "module_name": "personalInformation",
+      "res_config": [
+        "profilephoto"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 13,
+      "is_full_screen": 1,
+      "module_name": "peakJihadNewTask",
+      "res_config": [
+        "help_tips",
+        "pvp_task"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 14,
+      "is_full_screen": 1,
+      "module_name": "towerOfCouragePanel",
+      "res_config": [
+        "PveBossBraveTower",
+        "boxordinary",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 15,
+      "is_full_screen": 1,
+      "module_name": "itemWarehouse",
+      "res_config": [
+        "boxordinary",
+        "treasure_chest_gift"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 16,
+      "is_full_screen": 1,
+      "module_name": "pveTitanHole",
+      "res_config": [
+        "titanMineReward"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 17,
+      "is_full_screen": 1,
+      "module_name": "studytraining",
+      "res_config": [
+        "PveBossLearningTraining",
+        "boxordinary",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 18,
+      "is_full_screen": 1,
+      "module_name": "pveEnterPanel",
+      "res_config": [
+        "pveEnter",
+        "SPTtask",
+        "SPTstar",
+        "SPTreward",
+        "btl_condition",
+        "Dungeon_enter",
+        "exchange_clt",
+        "medaltask"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 19,
+      "is_full_screen": 1,
+      "module_name": "pveElvenKingTrial",
+      "res_config": [
+        "boxordinary"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 20,
+      "is_full_screen": 1,
+      "module_name": "pveXTeamRoom",
+      "res_config": [
+        "X_Team",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 21,
+      "is_full_screen": 1,
+      "module_name": "mainPanel",
+      "res_config": [
+        "shop"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 22,
+      "is_full_screen": 1,
+      "module_name": "login",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 23,
+      "is_full_screen": 1,
+      "module_name": "pveNinjutsuClub",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 24,
+      "is_full_screen": 0,
+      "module_name": "friend",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 25,
+      "is_full_screen": 1,
+      "module_name": "pveStarTrek",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 26,
+      "is_full_screen": 0,
+      "module_name": "eggWarehouse",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 27,
+      "is_full_screen": 1,
+      "module_name": "personalInformation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 29,
+      "is_full_screen": 1,
+      "module_name": "studyPetAttribute",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 31,
+      "is_full_screen": 1,
+      "module_name": "learningabilityChoosePanle",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 32,
+      "is_full_screen": 1,
+      "module_name": "natureChoosePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 33,
+      "is_full_screen": 1,
+      "module_name": "itemUsePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 34,
+      "is_full_screen": 1,
+      "module_name": "petChooseAttributePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 35,
+      "is_full_screen": 0,
+      "module_name": "headFrame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 38,
+      "is_full_screen": 1,
+      "module_name": "highLadderRank",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 42,
+      "is_full_screen": 0,
+      "module_name": "reconnectionPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 43,
+      "is_full_screen": 0,
+      "module_name": "peakJihadMatchWaitModePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 44,
+      "is_full_screen": 1,
+      "module_name": "thepeakofJihadModePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 45,
+      "is_full_screen": 0,
+      "module_name": "thepeakofJihadModePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 46,
+      "is_full_screen": 1,
+      "module_name": "peakJihadBanPickList",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 47,
+      "is_full_screen": 1,
+      "module_name": "peakJihadVote",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 48,
+      "is_full_screen": 0,
+      "module_name": "bagStorageSwitchChoosePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 50,
+      "is_full_screen": 1,
+      "module_name": "achieve",
+      "res_config": [
+        "achievementbonus"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 51,
+      "is_full_screen": 0,
+      "module_name": "seerTitleChangeVIew",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 52,
+      "is_full_screen": 0,
+      "module_name": "seerSuitClothesView",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 53,
+      "is_full_screen": 0,
+      "module_name": "activityAnnouncement",
+      "res_config": [
+        "announcement"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 54,
+      "is_full_screen": 0,
+      "module_name": "seerClothesWarehouse",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 56,
+      "is_full_screen": 1,
+      "module_name": "pveSpt",
+      "res_config": [
+        "SPTtask",
+        "SPTstar",
+        "SPTreward",
+        "btl_condition",
+        "help_tips",
+        "exchange_clt"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 57,
+      "is_full_screen": 1,
+      "module_name": "pveTrek",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 58,
+      "is_full_screen": 1,
+      "module_name": "puniFight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 59,
+      "is_full_screen": 1,
+      "module_name": "wishFloating",
+      "res_config": [
+        "WishFloating",
+        "help_tips",
+        "exchange_clt"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 60,
+      "is_full_screen": 0,
+      "module_name": "militaryBook",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 61,
+      "is_full_screen": 0,
+      "module_name": "pvpPunishPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 62,
+      "is_full_screen": 0,
+      "module_name": "pvpPunishPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 63,
+      "is_full_screen": 1,
+      "module_name": "mall",
+      "res_config": [
+        "shop",
+        "recharge"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 64,
+      "is_full_screen": 0,
+      "module_name": "mapChangeSelectPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 65,
+      "is_full_screen": 1,
+      "module_name": "pveJiehuang",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 66,
+      "is_full_screen": 1,
+      "module_name": "pveJiehuangPowerup",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 67,
+      "is_full_screen": 1,
+      "module_name": "pveAoliaPop",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 68,
+      "is_full_screen": 1,
+      "module_name": "pveAoliaPanel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 69,
+      "is_full_screen": 1,
+      "module_name": "kingHamorPop",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 70,
+      "is_full_screen": 1,
+      "module_name": "kingHamorLevel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 71,
+      "is_full_screen": 0,
+      "module_name": "comic",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 72,
+      "is_full_screen": 0,
+      "module_name": "systemSet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 73,
+      "is_full_screen": 0,
+      "module_name": "teamCreate",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 74,
+      "is_full_screen": 1,
+      "module_name": "team",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 76,
+      "is_full_screen": 1,
+      "module_name": "petIntroducePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 77,
+      "is_full_screen": 0,
+      "module_name": "team",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 78,
+      "is_full_screen": 0,
+      "module_name": "team",
+      "res_config": [
+        "TeamResource"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 79,
+      "is_full_screen": 0,
+      "module_name": "team",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 80,
+      "is_full_screen": 0,
+      "module_name": "team",
+      "res_config": [
+        "TeamTaskInfo"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 81,
+      "is_full_screen": 1,
+      "module_name": "pveYiFuLiSha",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 82,
+      "is_full_screen": 1,
+      "module_name": "battleTestMachine",
+      "res_config": [
+        "help_tips",
+        "fightTestStageConfig",
+        "fightTestBossConfig",
+        "fightTestMonsterConfig"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 83,
+      "is_full_screen": 1,
+      "module_name": "pveEncarlose",
+      "res_config": [
+        "help_tips",
+        "talk"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 84,
+      "is_full_screen": 0,
+      "module_name": "nonoMgrPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 85,
+      "is_full_screen": 1,
+      "module_name": "pveSorensen",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 87,
+      "is_full_screen": 1,
+      "module_name": "holyPuni",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 88,
+      "is_full_screen": 1,
+      "module_name": "bruteSorensen",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 90,
+      "is_full_screen": 1,
+      "module_name": "pveLanLu",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 91,
+      "is_full_screen": 1,
+      "module_name": "pveMainPet",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 92,
+      "is_full_screen": 1,
+      "module_name": "sorensenFinal",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 93,
+      "is_full_screen": 1,
+      "module_name": "pveYingKaLuoSi",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 94,
+      "is_full_screen": 1,
+      "module_name": "pveZhanZhiKuangRe",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 95,
+      "is_full_screen": 1,
+      "module_name": "pveAiXiaLa",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 97,
+      "is_full_screen": 1,
+      "module_name": "destroyMecha",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 98,
+      "is_full_screen": 1,
+      "module_name": "mechaFrenzy",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 99,
+      "is_full_screen": 1,
+      "module_name": "jianBiMecha",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 100,
+      "is_full_screen": 0,
+      "module_name": "yongzhezhengcheng",
+      "res_config": [
+        "brave_task",
+        "brave_lv",
+        "brave_guide"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 101,
+      "is_full_screen": 1,
+      "module_name": "devilZax",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 102,
+      "is_full_screen": 1,
+      "module_name": "demonKingGirod",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 103,
+      "is_full_screen": 1,
+      "module_name": "divineDomain4Kings",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 104,
+      "is_full_screen": 1,
+      "module_name": "evilKingWesk",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 105,
+      "is_full_screen": 1,
+      "module_name": "pveDragonKillerAiMoLiSha",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 106,
+      "is_full_screen": 1,
+      "module_name": "mingYi",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 107,
+      "is_full_screen": 1,
+      "module_name": "godEmperorHuting",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 108,
+      "is_full_screen": 1,
+      "module_name": "mainLine",
+      "res_config": [
+        "profilephoto"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 109,
+      "is_full_screen": 1,
+      "module_name": "iceContractAksia",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 110,
+      "is_full_screen": 1,
+      "module_name": "activityCenter",
+      "res_config": [
+        "help_tips",
+        "ActivityCenter"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 111,
+      "is_full_screen": 0,
+      "module_name": "preferentialBest",
+      "res_config": [
+        "PreferentialBest"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 112,
+      "is_full_screen": 1,
+      "module_name": "shengTingReay",
+      "res_config": [
+        "help_tips",
+        "New_monster_level"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 113,
+      "is_full_screen": 1,
+      "module_name": "qianShang",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 114,
+      "is_full_screen": 1,
+      "module_name": "sixRealmsGodKingHall",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 116,
+      "is_full_screen": 1,
+      "module_name": "holyLightMonica",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 117,
+      "is_full_screen": 1,
+      "module_name": "createAvatar",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 118,
+      "is_full_screen": 1,
+      "module_name": "moonShiningStarSoul",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 119,
+      "is_full_screen": 1,
+      "module_name": "godOfDream",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 120,
+      "is_full_screen": 1,
+      "module_name": "godOfStorm",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 121,
+      "is_full_screen": 1,
+      "module_name": "godOfFear",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 122,
+      "is_full_screen": 1,
+      "module_name": "worldMap",
+      "res_config": [
+        "starmaplist",
+        "starmap"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 123,
+      "is_full_screen": 1,
+      "module_name": "rapidMecha",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 124,
+      "is_full_screen": 1,
+      "module_name": "petLevelPanel",
+      "res_config": [
+        "New_monster_level"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 125,
+      "is_full_screen": 1,
+      "module_name": "pveAoliaPanel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 126,
+      "is_full_screen": 1,
+      "module_name": "pveAoliaPanel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 127,
+      "is_full_screen": 1,
+      "module_name": "pveEncarlose",
+      "res_config": [
+        "help_tips",
+        "talk"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 128,
+      "is_full_screen": 0,
+      "module_name": "guideMainPetsOutPut",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 129,
+      "is_full_screen": 0,
+      "module_name": "guideJimiOutPut",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 130,
+      "is_full_screen": 0,
+      "module_name": "guideSuitOutPut",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 131,
+      "is_full_screen": 0,
+      "module_name": "guideAresAllianceOutPut",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 132,
+      "is_full_screen": 0,
+      "module_name": "guideFeturePetsOutPut",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 133,
+      "is_full_screen": 0,
+      "module_name": "passGuideAward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 134,
+      "is_full_screen": 0,
+      "module_name": "holidaySign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 135,
+      "is_full_screen": 1,
+      "module_name": "markDraw",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 136,
+      "is_full_screen": 0,
+      "module_name": "newSeerToolbarGuide",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 137,
+      "is_full_screen": 1,
+      "module_name": "vip",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 138,
+      "is_full_screen": 1,
+      "module_name": "springActivity2022",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 139,
+      "is_full_screen": 1,
+      "module_name": "fightlab",
+      "res_config": [
+        "fightLabMonsterConfig",
+        "fightLabLevelConfig",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 140,
+      "is_full_screen": 1,
+      "module_name": "login202202",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 141,
+      "is_full_screen": 1,
+      "module_name": "newSeerWelfare",
+      "res_config": [
+        "NewSeerWelfare"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 142,
+      "is_full_screen": 1,
+      "module_name": "newSeer7Sign",
+      "res_config": [
+        "newSeer7Sign"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 143,
+      "is_full_screen": 0,
+      "module_name": "qingMingSign2022",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 144,
+      "is_full_screen": 1,
+      "module_name": "petRecruit",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 145,
+      "is_full_screen": 1,
+      "module_name": "signIn20220501",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 146,
+      "is_full_screen": 1,
+      "module_name": "firstPay",
+      "res_config": [
+        "privateShop",
+        "privateCostDiamondReward",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 147,
+      "is_full_screen": 0,
+      "module_name": "dragonBoatSign2022",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 148,
+      "is_full_screen": 1,
+      "module_name": "markWheel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 149,
+      "is_full_screen": 1,
+      "module_name": "diamondTask",
+      "res_config": [
+        "retrieve",
+        "dailytask",
+        "dailytask_gift",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 150,
+      "is_full_screen": 0,
+      "module_name": "battleFirePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 151,
+      "is_full_screen": 1,
+      "module_name": "pvePetYinzi",
+      "res_config": [
+        "help_tips",
+        "New_monster_level"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 152,
+      "is_full_screen": 0,
+      "module_name": "mainLinePop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 153,
+      "is_full_screen": 0,
+      "module_name": "roomEditPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 154,
+      "is_full_screen": 0,
+      "module_name": "seerComplain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 155,
+      "is_full_screen": 0,
+      "module_name": "roomVisitPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 156,
+      "is_full_screen": 0,
+      "module_name": "roomVisitorInfoPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 157,
+      "is_full_screen": 0,
+      "module_name": "roomInformationPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 158,
+      "is_full_screen": 1,
+      "module_name": "roomShop",
+      "res_config": [
+        "baseShop"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 159,
+      "is_full_screen": 0,
+      "module_name": "team",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 160,
+      "is_full_screen": 0,
+      "module_name": "team",
+      "res_config": [
+        "help_tips",
+        "teamTrader"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 161,
+      "is_full_screen": 0,
+      "module_name": "mAF2022SignPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 162,
+      "is_full_screen": 1,
+      "module_name": "newWorldMap",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 163,
+      "is_full_screen": 0,
+      "module_name": "spacecraftManual",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 164,
+      "is_full_screen": 1,
+      "module_name": "contractCall",
+      "res_config": [
+        "partner",
+        "partnerEffectUpgrade"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 165,
+      "is_full_screen": 0,
+      "module_name": "nationalDay2022SignPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 166,
+      "is_full_screen": 1,
+      "module_name": "seerFactory",
+      "res_config": [
+        "seerFactory"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 167,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesMain",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 168,
+      "is_full_screen": 0,
+      "module_name": "petMonthlyLoginGiftPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 169,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesPanel2015",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 170,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesPanel2016",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 171,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesPanel2017",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 172,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesPanel2018",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 173,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesPanel2019",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 174,
+      "is_full_screen": 1,
+      "module_name": "kappaTravel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 175,
+      "is_full_screen": 1,
+      "module_name": "OnekeyUltimate",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 176,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesDrawPanel",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 177,
+      "is_full_screen": 0,
+      "module_name": "templeHeroesBuyPetPop",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 178,
+      "is_full_screen": 0,
+      "module_name": "templeHeroesBuySkinPop",
+      "res_config": [
+        "templeHeroes",
+        "templeHeroesMain"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 179,
+      "is_full_screen": 0,
+      "module_name": "oneKeyTheBestPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 180,
+      "is_full_screen": 1,
+      "module_name": "learningAbilityChoosePop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 181,
+      "is_full_screen": 1,
+      "module_name": "learningAbilityInputPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 182,
+      "is_full_screen": 1,
+      "module_name": "diamondAward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 183,
+      "is_full_screen": 1,
+      "module_name": "latestActivities",
+      "res_config": [
+        "latestActivity"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 184,
+      "is_full_screen": 1,
+      "module_name": "yearVip2022",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 185,
+      "is_full_screen": 1,
+      "module_name": "blessOfDivineAnimals",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 186,
+      "is_full_screen": 0,
+      "module_name": "taoLeFestivalSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 187,
+      "is_full_screen": 1,
+      "module_name": "oracleAdvance",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 188,
+      "is_full_screen": 1,
+      "module_name": "energyResearchStation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 189,
+      "is_full_screen": 0,
+      "module_name": "backflow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 190,
+      "is_full_screen": 0,
+      "module_name": "militaryReward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 191,
+      "is_full_screen": 1,
+      "module_name": "learningAbilityInputAndBtnPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 192,
+      "is_full_screen": 1,
+      "module_name": "christmas2022",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 193,
+      "is_full_screen": 1,
+      "module_name": "wishChristmasTree",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 194,
+      "is_full_screen": 1,
+      "module_name": "peakWeeklyReward",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 195,
+      "is_full_screen": 1,
+      "module_name": "christmasPet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 196,
+      "is_full_screen": 0,
+      "module_name": "newYearSignPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 197,
+      "is_full_screen": 0,
+      "module_name": "choosePetPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 198,
+      "is_full_screen": 0,
+      "module_name": "fixCloth",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 199,
+      "is_full_screen": 1,
+      "module_name": "yearvip2025",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 200,
+      "is_full_screen": 1,
+      "module_name": "aresAlliance",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 201,
+      "is_full_screen": 1,
+      "module_name": "girodRabidPanel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 202,
+      "is_full_screen": 1,
+      "module_name": "holyMuse",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 203,
+      "is_full_screen": 1,
+      "module_name": "fusionMonster",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 204,
+      "is_full_screen": 1,
+      "module_name": "holyGaia",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 205,
+      "is_full_screen": 1,
+      "module_name": "holyCassius",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 206,
+      "is_full_screen": 1,
+      "module_name": "chaoticBlake",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 207,
+      "is_full_screen": 1,
+      "module_name": "kingGaia",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 208,
+      "is_full_screen": 1,
+      "module_name": "achieveNotice",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 209,
+      "is_full_screen": 0,
+      "module_name": "signInActivityPopUpPanel",
+      "res_config": [
+        "Popup"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 210,
+      "is_full_screen": 1,
+      "module_name": "kingMuse",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 211,
+      "is_full_screen": 1,
+      "module_name": "peakJihadOrderPanel",
+      "res_config": [
+        "help_tips",
+        "pvp_task",
+        "pass_shop",
+        "pass_reward"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 212,
+      "is_full_screen": 1,
+      "module_name": "peakJihadOrderPanel",
+      "res_config": [
+        "help_tips",
+        "pvp_task",
+        "pass_shop",
+        "pass_reward"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 213,
+      "is_full_screen": 1,
+      "module_name": "newSeerGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 214,
+      "is_full_screen": 1,
+      "module_name": "kingCassius",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 215,
+      "is_full_screen": 1,
+      "module_name": "treeSignIn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 216,
+      "is_full_screen": 1,
+      "module_name": "kingRay",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 217,
+      "is_full_screen": 1,
+      "module_name": "communityCenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 218,
+      "is_full_screen": 1,
+      "module_name": "redPupilMuse",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 219,
+      "is_full_screen": 1,
+      "module_name": "godOfWarGaia",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 220,
+      "is_full_screen": 1,
+      "module_name": "godOfEarthCassius",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 221,
+      "is_full_screen": 1,
+      "module_name": "phoenixPassPanel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 222,
+      "is_full_screen": 1,
+      "module_name": "militaryInfo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 223,
+      "is_full_screen": 1,
+      "module_name": "tortoisePassPanel",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 224,
+      "is_full_screen": 0,
+      "module_name": "memoryArchivesPop",
+      "res_config": [
+        "help_tips",
+        "archivesStory",
+        "archivesBook"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 225,
+      "is_full_screen": 1,
+      "module_name": "memoryArchivesPanel",
+      "res_config": [
+        "help_tips",
+        "archivesStory",
+        "archivesBook"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 226,
+      "is_full_screen": 0,
+      "module_name": "memoryArchivesPet",
+      "res_config": [
+        "help_tips",
+        "archivesStory",
+        "archivesBook"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 227,
+      "is_full_screen": 1,
+      "module_name": "petInfoPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 228,
+      "is_full_screen": 1,
+      "module_name": "holyHowlBaiHu",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 229,
+      "is_full_screen": 1,
+      "module_name": "godOfNightDemonBlake",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 230,
+      "is_full_screen": 1,
+      "module_name": "godOfThunderRay",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 231,
+      "is_full_screen": 1,
+      "module_name": "cassiusSuperEvo",
+      "res_config": [
+        "help_tips",
+        "new_monster_level"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 232,
+      "is_full_screen": 1,
+      "module_name": "museSuperEvo",
+      "res_config": [
+        "help_tips",
+        "new_monster_level"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 233,
+      "is_full_screen": 1,
+      "module_name": "godReay",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 234,
+      "is_full_screen": 1,
+      "module_name": "holyKylin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 235,
+      "is_full_screen": 0,
+      "module_name": "anniversarySignIn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 236,
+      "is_full_screen": 0,
+      "module_name": "anniversarySignWeiyue",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 237,
+      "is_full_screen": 0,
+      "module_name": "anniversaryDrainage",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 238,
+      "is_full_screen": 1,
+      "module_name": "museSpecialTraining",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 239,
+      "is_full_screen": 1,
+      "module_name": "blackEvo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 240,
+      "is_full_screen": 1,
+      "module_name": "blakeSpecialTraining",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 241,
+      "is_full_screen": 1,
+      "module_name": "leiyiSpecialTraining",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 242,
+      "is_full_screen": 1,
+      "module_name": "cassiusSpecialTraining",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 243,
+      "is_full_screen": 1,
+      "module_name": "gaiyaSpecialTraining",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 244,
+      "is_full_screen": 0,
+      "module_name": "anniversarySignWuxinchan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 245,
+      "is_full_screen": 0,
+      "module_name": "wishingBlessingPopView",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 246,
+      "is_full_screen": 1,
+      "module_name": "godofWarGaiaSuperevo",
+      "res_config": [
+        "help_tips",
+        "new_monster_level"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 247,
+      "is_full_screen": 1,
+      "module_name": "qingLong",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 248,
+      "is_full_screen": 1,
+      "module_name": "sixGod",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 249,
+      "is_full_screen": 1,
+      "module_name": "helpBook",
+      "res_config": [
+        "helper"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 250,
+      "is_full_screen": 0,
+      "module_name": "summerSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 251,
+      "is_full_screen": 0,
+      "module_name": "holyHowlBless",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 252,
+      "is_full_screen": 0,
+      "module_name": "qixiGiftSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 253,
+      "is_full_screen": 1,
+      "module_name": "petGetPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 254,
+      "is_full_screen": 0,
+      "module_name": "schoolBeginSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 255,
+      "is_full_screen": 1,
+      "module_name": "peakJihadShopPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 256,
+      "is_full_screen": 1,
+      "module_name": "peakJihadRankPanel",
+      "res_config": [
+        "pvp_task"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 257,
+      "is_full_screen": 1,
+      "module_name": "peakJihad6V6BanPickModePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 258,
+      "is_full_screen": 1,
+      "module_name": "peakJihadFreeWar",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 259,
+      "is_full_screen": 1,
+      "module_name": "peakjihadlimitpanel",
+      "res_config": [
+        "help_tips",
+        "pvp_ban"
+      ]
+    },
+    {
+      "curr_app_do": 0,
+      "id": 260,
+      "is_full_screen": 0,
+      "module_name": "battleResultPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 261,
+      "is_full_screen": 0,
+      "module_name": "npcDialog",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 262,
+      "is_full_screen": 1,
+      "module_name": "petHandbookInfo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 263,
+      "is_full_screen": 1,
+      "module_name": "twelveYearsPromise",
+      "res_config": [
+        "twelveYearsPromise",
+        "twelveYearsPromise_Bonus"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 264,
+      "is_full_screen": 1,
+      "module_name": "advancedPetBackStore",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 265,
+      "is_full_screen": 0,
+      "module_name": "petbookAttRelationShip",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 266,
+      "is_full_screen": 1,
+      "module_name": "peakEndReward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 267,
+      "is_full_screen": 1,
+      "module_name": "personalInformation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 268,
+      "is_full_screen": 1,
+      "module_name": "teamDefence",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 269,
+      "is_full_screen": 0,
+      "module_name": "petNewSkillPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 270,
+      "is_full_screen": 0,
+      "module_name": "springFestivalSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 271,
+      "is_full_screen": 1,
+      "module_name": "contractPanel",
+      "res_config": [
+        "partner",
+        "partnerEffectUpgrade"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 272,
+      "is_full_screen": 1,
+      "module_name": "petEffect",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 273,
+      "is_full_screen": 1,
+      "module_name": "heroTemple",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 274,
+      "is_full_screen": 0,
+      "module_name": "crewHandbook",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 275,
+      "is_full_screen": 1,
+      "module_name": "peakJihadExpertModeBanPickPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 276,
+      "is_full_screen": 0,
+      "module_name": "Survey",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 277,
+      "is_full_screen": 0,
+      "module_name": "BilibiliModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 278,
+      "is_full_screen": 0,
+      "module_name": "OfficialGroupModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 279,
+      "is_full_screen": 0,
+      "module_name": "WebviewModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 280,
+      "is_full_screen": 1,
+      "module_name": "adAstra",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 281,
+      "is_full_screen": 0,
+      "module_name": "petCompetitorInfo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 282,
+      "is_full_screen": 0,
+      "module_name": "mainStoryLine",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 283,
+      "is_full_screen": 1,
+      "module_name": "adAstraActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 284,
+      "is_full_screen": 1,
+      "module_name": "starlightHidden",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 285,
+      "is_full_screen": 1,
+      "module_name": "starlightHiddenAward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 286,
+      "is_full_screen": 1,
+      "module_name": "markBacktrack",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 287,
+      "is_full_screen": 1,
+      "module_name": "awakeActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 288,
+      "is_full_screen": 1,
+      "module_name": "petAwakeMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 289,
+      "is_full_screen": 1,
+      "module_name": "seerInterstellarPassport",
+      "res_config": [
+        "help_tips",
+        "battlepass_task",
+        "battlepass_shop",
+        "battlepass_reward"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 290,
+      "is_full_screen": 1,
+      "module_name": "vipMonthPet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 291,
+      "is_full_screen": 1,
+      "module_name": "anHunSuoBiLaTe",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 292,
+      "is_full_screen": 1,
+      "module_name": "elderHelkasOutput",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 293,
+      "is_full_screen": 0,
+      "module_name": "weeklyUpdateGuidelines",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 294,
+      "is_full_screen": 1,
+      "module_name": "piGodLevel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 295,
+      "is_full_screen": 1,
+      "module_name": "piGodJump",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 296,
+      "is_full_screen": 1,
+      "module_name": "signIn7Days",
+      "res_config": [
+        "LoginGift"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 297,
+      "is_full_screen": 1,
+      "module_name": "battleTestFight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 298,
+      "is_full_screen": 1,
+      "module_name": "laidashenzhiEntrance",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 299,
+      "is_full_screen": 1,
+      "module_name": "laidashenzhiMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 300,
+      "is_full_screen": 1,
+      "module_name": "lightUpHandBook",
+      "res_config": [
+        "light_book"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 301,
+      "is_full_screen": 0,
+      "module_name": "getDaNaoTianGong",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 302,
+      "is_full_screen": 1,
+      "module_name": "happyBingoSofy",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 303,
+      "is_full_screen": 1,
+      "module_name": "dreamyHotSpringRoad",
+      "res_config": [
+        "help_tips",
+        "dreamyHotSpringRoadLevelConfig",
+        "bitBuffer"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 304,
+      "is_full_screen": 1,
+      "module_name": "angerDilke",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 305,
+      "is_full_screen": 1,
+      "module_name": "cangyueShadowLegendSkinSale",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 306,
+      "is_full_screen": 1,
+      "module_name": "oneKeyBestLimitDiscount",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 307,
+      "is_full_screen": 1,
+      "module_name": "oneKeyBestDiscountMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 308,
+      "is_full_screen": 1,
+      "module_name": "nadoresJourneyofRecovery",
+      "res_config": [
+        "help_tips",
+        "natolesJourneyOfRevivalEventConfig",
+        "Activity_ShopConfig",
+        "Activity_TaskConfig"
+      ]
+    },
+    {
+      "curr_app_do": 0,
+      "id": 309,
+      "is_full_screen": 0,
+      "module_name": "ExploreUndergroundCavesPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 400,
+      "is_full_screen": 1,
+      "module_name": "zhiMingActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 401,
+      "is_full_screen": 1,
+      "module_name": "zhiMingActivityMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 402,
+      "is_full_screen": 0,
+      "module_name": "newfightsuit",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 403,
+      "is_full_screen": 0,
+      "module_name": "ArtemisCompletePopPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 404,
+      "is_full_screen": 1,
+      "module_name": "ArtemisCompletePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 405,
+      "is_full_screen": 1,
+      "module_name": "ArtemisSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 406,
+      "is_full_screen": 1,
+      "module_name": "skinShopActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 407,
+      "is_full_screen": 1,
+      "module_name": "gotoTapTap_1",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 408,
+      "is_full_screen": 1,
+      "module_name": "gotoTapTap_2",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 409,
+      "is_full_screen": 0,
+      "module_name": "peakJihadAutoOpen",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 410,
+      "is_full_screen": 1,
+      "module_name": "NewSeasonCompletePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 411,
+      "is_full_screen": 1,
+      "module_name": "repairSpaceStation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 412,
+      "is_full_screen": 1,
+      "module_name": "repairSpaceStation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 413,
+      "is_full_screen": 1,
+      "module_name": "HideMovesShop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 414,
+      "is_full_screen": 1,
+      "module_name": "activityListPreview",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 415,
+      "is_full_screen": 1,
+      "module_name": "perviousYearvip",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 416,
+      "is_full_screen": 1,
+      "module_name": "shawnsMission",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 417,
+      "is_full_screen": 1,
+      "module_name": "DangerousDataCabinEntry",
+      "res_config": [
+        "Activity_TaskConfig",
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 418,
+      "is_full_screen": 1,
+      "module_name": "shawnsMissionActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 419,
+      "is_full_screen": 1,
+      "module_name": "DangerousDataCabinMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 420,
+      "is_full_screen": 1,
+      "module_name": "braveTowerReverseDefense",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 421,
+      "is_full_screen": 1,
+      "module_name": "luoKaiShop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 422,
+      "is_full_screen": 1,
+      "module_name": "castleSeriesSkinSales",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 423,
+      "is_full_screen": 0,
+      "module_name": "castleSeriesSkinSalesPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 424,
+      "is_full_screen": 1,
+      "module_name": "PetBattleMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 425,
+      "is_full_screen": 1,
+      "module_name": "taikongzhanFight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 426,
+      "is_full_screen": 1,
+      "module_name": "yinKaLuoShiSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 427,
+      "is_full_screen": 1,
+      "module_name": "puniGodChallengeEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 428,
+      "is_full_screen": 1,
+      "module_name": "puniGodChallenge",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 2,
+      "id": 429,
+      "is_full_screen": 0,
+      "module_name": "privateSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 430,
+      "is_full_screen": 0,
+      "module_name": "godWeaponKenzhate",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 431,
+      "is_full_screen": 0,
+      "module_name": "petBattleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 432,
+      "is_full_screen": 0,
+      "module_name": "darkArenaLegends",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 433,
+      "is_full_screen": 1,
+      "module_name": "ShizulingshouNewForm",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 434,
+      "is_full_screen": 0,
+      "module_name": "ShizulingshouNewForm-tan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 435,
+      "is_full_screen": 0,
+      "module_name": "newPlayerGuild",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 436,
+      "is_full_screen": 0,
+      "module_name": "interstellarArena",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 437,
+      "is_full_screen": 0,
+      "module_name": "godWeaponKenzhateRec",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 438,
+      "is_full_screen": 0,
+      "module_name": "newerMainSelect",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 439,
+      "is_full_screen": 1,
+      "module_name": "holyWarCompleteBody",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 440,
+      "is_full_screen": 1,
+      "module_name": "petKingBattleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 441,
+      "is_full_screen": 1,
+      "module_name": "petKingBattle ",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 442,
+      "is_full_screen": 0,
+      "module_name": "firstPayPopUp",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 443,
+      "is_full_screen": 1,
+      "module_name": "newBrave",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 444,
+      "is_full_screen": 1,
+      "module_name": "destinyWheel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 445,
+      "is_full_screen": 1,
+      "module_name": "activityCenterCommon",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 446,
+      "is_full_screen": 1,
+      "module_name": "vippetSalesMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 447,
+      "is_full_screen": 0,
+      "module_name": "resistPirateAttacks",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 448,
+      "is_full_screen": 1,
+      "module_name": "vehicleDiscountedSales",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 449,
+      "is_full_screen": 1,
+      "module_name": "powerSupportGame",
+      "res_config": [
+        "help_tips"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 450,
+      "is_full_screen": 1,
+      "module_name": "limitedAdastraActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 451,
+      "is_full_screen": 1,
+      "module_name": "seerPainting",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 452,
+      "is_full_screen": 0,
+      "module_name": "cdkey",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 453,
+      "is_full_screen": 1,
+      "module_name": "originRecall",
+      "res_config": [
+        "help_tips",
+        "OriginRecall_Main"
+      ]
+    },
+    {
+      "curr_app_do": 1,
+      "id": 454,
+      "is_full_screen": 1,
+      "module_name": "AnniversaryVaultEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 455,
+      "is_full_screen": 1,
+      "module_name": "AnniversaryVaultMall",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 456,
+      "is_full_screen": 0,
+      "module_name": "exploreMysteriousRealmEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 457,
+      "is_full_screen": 0,
+      "module_name": "exploreMysteriousRealm",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 458,
+      "is_full_screen": 1,
+      "module_name": "journeyWithTheStarlight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 459,
+      "is_full_screen": 1,
+      "module_name": "wishList",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 471,
+      "is_full_screen": 1,
+      "module_name": "stgBossshare",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 472,
+      "is_full_screen": 0,
+      "module_name": "stgstage",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 474,
+      "is_full_screen": 1,
+      "module_name": "legendOfDiceEntrance",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 475,
+      "is_full_screen": 1,
+      "module_name": "legendOfDice",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 476,
+      "is_full_screen": 1,
+      "module_name": "sixteenYearsEntrance",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 477,
+      "is_full_screen": 1,
+      "module_name": "LeiyiGaiyaEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 478,
+      "is_full_screen": 1,
+      "module_name": "LeiyiGaiyaMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 479,
+      "is_full_screen": 1,
+      "module_name": "obtLoginSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 480,
+      "is_full_screen": 1,
+      "module_name": "xingguangpetskin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 483,
+      "is_full_screen": 0,
+      "module_name": "SixteenyearsFateRevealsPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 484,
+      "is_full_screen": 1,
+      "module_name": "interstellarPrivilege",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 485,
+      "is_full_screen": 1,
+      "module_name": "gaoKaoSupport",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 486,
+      "is_full_screen": 1,
+      "module_name": "getLiumengSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 487,
+      "is_full_screen": 1,
+      "module_name": "zhakesiSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 488,
+      "is_full_screen": 0,
+      "module_name": "seer16thAnniversaryHelpsGetGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 489,
+      "is_full_screen": 0,
+      "module_name": "16thLoginReward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 490,
+      "is_full_screen": 0,
+      "module_name": "zhakesiSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 491,
+      "is_full_screen": 0,
+      "module_name": "fightWorldBossZacks",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 492,
+      "is_full_screen": 1,
+      "module_name": "leiyiSecondOrder",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 493,
+      "is_full_screen": 0,
+      "module_name": "getyounasiskinpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 494,
+      "is_full_screen": 1,
+      "module_name": "exploreLuciou",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 495,
+      "is_full_screen": 1,
+      "module_name": "exploreLuciou",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 496,
+      "is_full_screen": 1,
+      "module_name": "gaiyaSecondOrder",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 498,
+      "is_full_screen": 1,
+      "module_name": "unusPayReturn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 499,
+      "is_full_screen": 1,
+      "module_name": "rayGaiaPetSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 500,
+      "is_full_screen": 0,
+      "module_name": "exploreLuciouGame1",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 501,
+      "is_full_screen": 0,
+      "module_name": "exploreLuciouGame2",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 502,
+      "is_full_screen": 1,
+      "module_name": "yuehuaGainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 503,
+      "is_full_screen": 0,
+      "module_name": "sixteenThMarkSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 504,
+      "is_full_screen": 1,
+      "module_name": "mintstonesellpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 505,
+      "is_full_screen": 1,
+      "module_name": "liumengClassicsSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 506,
+      "is_full_screen": 1,
+      "module_name": "getTOH",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 507,
+      "is_full_screen": 0,
+      "module_name": "thirteenYearSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 508,
+      "is_full_screen": 0,
+      "module_name": "diamondMonthlyCard",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 509,
+      "is_full_screen": 1,
+      "module_name": "summerDrinkSupply",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 510,
+      "is_full_screen": 1,
+      "module_name": "sharkMouthCleaning",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 511,
+      "is_full_screen": 1,
+      "module_name": "sharkMouthCleaning",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 512,
+      "is_full_screen": 1,
+      "module_name": "activityAttireMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 513,
+      "is_full_screen": 0,
+      "module_name": "oceanstargame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 514,
+      "is_full_screen": 1,
+      "module_name": "summerSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 515,
+      "is_full_screen": 1,
+      "module_name": "summerSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 516,
+      "is_full_screen": 1,
+      "module_name": "deepSeaMonsterFight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 517,
+      "is_full_screen": 1,
+      "module_name": "colderEvolution",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 518,
+      "is_full_screen": 1,
+      "module_name": "KulatakeSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 519,
+      "is_full_screen": 1,
+      "module_name": "oreProspect",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 520,
+      "is_full_screen": 1,
+      "module_name": "dihuangzhiyuSummerSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 521,
+      "is_full_screen": 0,
+      "module_name": "turma",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 522,
+      "is_full_screen": 0,
+      "module_name": "turma",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 523,
+      "is_full_screen": 0,
+      "module_name": "OceanPlanetHermit",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 524,
+      "is_full_screen": 0,
+      "module_name": "OceanPlanetCook",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 525,
+      "is_full_screen": 1,
+      "module_name": "deepSeaGameMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 526,
+      "is_full_screen": 0,
+      "module_name": "deepSeaGamePlay",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 527,
+      "is_full_screen": 1,
+      "module_name": "hunDunDiWang",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 528,
+      "is_full_screen": 0,
+      "module_name": "pveAutoFight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 529,
+      "is_full_screen": 1,
+      "module_name": "resistanceItemShop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 530,
+      "is_full_screen": 1,
+      "module_name": "mechSharpedo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 531,
+      "is_full_screen": 0,
+      "module_name": "summerHolidaySign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 532,
+      "is_full_screen": 1,
+      "module_name": "dragonbingoGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 533,
+      "is_full_screen": 1,
+      "module_name": "getReinhardtSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 534,
+      "is_full_screen": 0,
+      "module_name": "webglToApp",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 535,
+      "is_full_screen": 1,
+      "module_name": "moleculeIntensification",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 536,
+      "is_full_screen": 1,
+      "module_name": "shenHaiGuLong",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 537,
+      "is_full_screen": 1,
+      "module_name": "fightshark",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 538,
+      "is_full_screen": 1,
+      "module_name": "mainLineDeepSeaDragonPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 539,
+      "is_full_screen": 1,
+      "module_name": "getDS001Module",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 540,
+      "is_full_screen": 1,
+      "module_name": "langlangMountainPreSignPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 541,
+      "is_full_screen": 1,
+      "module_name": "llsWorking",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 542,
+      "is_full_screen": 1,
+      "module_name": "langlangshanArtCourse",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 543,
+      "is_full_screen": 1,
+      "module_name": "s86AnkaMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 544,
+      "is_full_screen": 1,
+      "module_name": "LlsFarm",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 545,
+      "is_full_screen": 1,
+      "module_name": "LlsTrip",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 546,
+      "is_full_screen": 0,
+      "module_name": "jiangHuSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 547,
+      "is_full_screen": 1,
+      "module_name": "langlangshanEmoji",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 548,
+      "is_full_screen": 1,
+      "module_name": "misticSuperevolution",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 549,
+      "is_full_screen": 1,
+      "module_name": "huangMeiPetSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 550,
+      "is_full_screen": 1,
+      "module_name": "huangMeiSkinSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 551,
+      "is_full_screen": 1,
+      "module_name": "llsDuelEntrance",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 552,
+      "is_full_screen": 1,
+      "module_name": "llsDuelGameMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 553,
+      "is_full_screen": 1,
+      "module_name": "canglan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 554,
+      "is_full_screen": 1,
+      "module_name": "fightmousepanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 555,
+      "is_full_screen": 0,
+      "module_name": "canglanCompleteActivityCenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 556,
+      "is_full_screen": 0,
+      "module_name": "langlangshanfightpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 557,
+      "is_full_screen": 1,
+      "module_name": "langlangshanCyberWoodenFishEnter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 558,
+      "is_full_screen": 1,
+      "module_name": "team",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 559,
+      "is_full_screen": 1,
+      "module_name": "getAncientdragonking",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 560,
+      "is_full_screen": 1,
+      "module_name": "team",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 561,
+      "is_full_screen": 1,
+      "module_name": "kuixingjieqiao",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 562,
+      "is_full_screen": 1,
+      "module_name": "zhenXinGongMingSkinSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 563,
+      "is_full_screen": 1,
+      "module_name": "luolinkaPreviewPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 564,
+      "is_full_screen": 1,
+      "module_name": "shengzhanRuiersi",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 565,
+      "is_full_screen": 1,
+      "module_name": "shengzhanRuiersi",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 566,
+      "is_full_screen": 1,
+      "module_name": "mixiuliNewForm",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 567,
+      "is_full_screen": 1,
+      "module_name": "qiQiaoXinYuSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 568,
+      "is_full_screen": 1,
+      "module_name": "RoadConnectionActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 569,
+      "is_full_screen": 1,
+      "module_name": "RoadConnectionGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 570,
+      "is_full_screen": 1,
+      "module_name": "luoLinKaFuKePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 571,
+      "is_full_screen": 0,
+      "module_name": "FlyingKingVansStrongEntrancePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 572,
+      "is_full_screen": 0,
+      "module_name": "flyingKingVansStrongMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 573,
+      "is_full_screen": 1,
+      "module_name": "industryAndMagic",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 574,
+      "is_full_screen": 1,
+      "module_name": "epicTreasure",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 575,
+      "is_full_screen": 1,
+      "module_name": "colourmatchGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 576,
+      "is_full_screen": 1,
+      "module_name": "aoliaFeatureUpgrade",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 577,
+      "is_full_screen": 1,
+      "module_name": "PeakAssemblySale",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 578,
+      "is_full_screen": 1,
+      "module_name": "goldShiningPegasusNationalBroadcasting",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 579,
+      "is_full_screen": 1,
+      "module_name": "goldShiningPegasusNationalBroadcasting",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 580,
+      "is_full_screen": 0,
+      "module_name": "goldenLightPegasusSuperEvolution",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 581,
+      "is_full_screen": 0,
+      "module_name": "goldenLightPegasusSuperEvolution",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 582,
+      "is_full_screen": 1,
+      "module_name": "wrenchBroSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 583,
+      "is_full_screen": 1,
+      "module_name": "luolinkaCommunicate",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 584,
+      "is_full_screen": 0,
+      "module_name": "DeepSpaceEnterPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 585,
+      "is_full_screen": 1,
+      "module_name": "shenluoShenghuaSkin1",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 586,
+      "is_full_screen": 0,
+      "module_name": "shenluoShenghuaSkin3",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 587,
+      "is_full_screen": 0,
+      "module_name": "HelpingGodPetPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 588,
+      "is_full_screen": 1,
+      "module_name": "securityCheck",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 589,
+      "is_full_screen": 1,
+      "module_name": "securityCheck",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 590,
+      "is_full_screen": 1,
+      "module_name": "BlueMoonModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 591,
+      "is_full_screen": 1,
+      "module_name": "ShuoxingCeremony",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 597,
+      "is_full_screen": 0,
+      "module_name": "xitalunAstronautSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 598,
+      "is_full_screen": 0,
+      "module_name": "wujishengwuModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 599,
+      "is_full_screen": 1,
+      "module_name": "luckyrocketGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 600,
+      "is_full_screen": 1,
+      "module_name": "XitalunGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 601,
+      "is_full_screen": 1,
+      "module_name": "NationalDayGoldCard",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 602,
+      "is_full_screen": 1,
+      "module_name": "OrganizeEndgameActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 603,
+      "is_full_screen": 1,
+      "module_name": "OrganizeEndgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 604,
+      "is_full_screen": 1,
+      "module_name": "sweetOsmanthusActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 605,
+      "is_full_screen": 1,
+      "module_name": "sweetOsmanthus",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 606,
+      "is_full_screen": 1,
+      "module_name": "s67NihunPTFD",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 607,
+      "is_full_screen": 1,
+      "module_name": "anniversary15thMarkSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 608,
+      "is_full_screen": 1,
+      "module_name": "yifuPveLevel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 609,
+      "is_full_screen": 1,
+      "module_name": "yifuPveLevel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 610,
+      "is_full_screen": 1,
+      "module_name": "gearAndStarBrilliant",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 611,
+      "is_full_screen": 1,
+      "module_name": "gearAndStarKrefeld",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 612,
+      "is_full_screen": 1,
+      "module_name": "qunxingSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 613,
+      "is_full_screen": 1,
+      "module_name": "keleibeiliOldSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 614,
+      "is_full_screen": 0,
+      "module_name": "keleibeiliSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 615,
+      "is_full_screen": 0,
+      "module_name": "DeathBlackEnergy",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 616,
+      "is_full_screen": 1,
+      "module_name": "treasureOfBamPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 617,
+      "is_full_screen": 1,
+      "module_name": "midAutumnSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 618,
+      "is_full_screen": 1,
+      "module_name": "xiaohuohouTraining",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 619,
+      "is_full_screen": 1,
+      "module_name": "BlazeMonopolyGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 620,
+      "is_full_screen": 1,
+      "module_name": "peakJihadHonorPantheon",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 621,
+      "is_full_screen": 1,
+      "module_name": "sPetMoerae",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 622,
+      "is_full_screen": 1,
+      "module_name": "vipGiftBoxPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 623,
+      "is_full_screen": 1,
+      "module_name": "badboyswork",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 624,
+      "is_full_screen": 1,
+      "module_name": "giantDuelModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 625,
+      "is_full_screen": 0,
+      "module_name": "spiderDetectiveMoneyBox",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 650,
+      "is_full_screen": 1,
+      "module_name": "chessGameMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 651,
+      "is_full_screen": 1,
+      "module_name": "chessGameActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 652,
+      "is_full_screen": 1,
+      "module_name": "kabutackAppointmentPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 653,
+      "is_full_screen": 1,
+      "module_name": "tiejiaxiaobaoBattlePass",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 654,
+      "is_full_screen": 1,
+      "module_name": "kaBuDaEvolvePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 655,
+      "is_full_screen": 1,
+      "module_name": "shayulajiaoSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 656,
+      "is_full_screen": 1,
+      "module_name": "WanziLongCellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 657,
+      "is_full_screen": 1,
+      "module_name": "kabutackSportsMeeting",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 658,
+      "is_full_screen": 1,
+      "module_name": "peaceMedalMarkModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 659,
+      "is_full_screen": 1,
+      "module_name": "cobranderFoodChallenge",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 660,
+      "is_full_screen": 1,
+      "module_name": "zhenshiQTLD",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 661,
+      "is_full_screen": 0,
+      "module_name": "HuodeerHalloweenModule",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 662,
+      "is_full_screen": 0,
+      "module_name": "starDiamondShopEntryPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 663,
+      "is_full_screen": 0,
+      "module_name": "seerActiveDaysPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 664,
+      "is_full_screen": 0,
+      "module_name": "sixThousandCelebration",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 665,
+      "is_full_screen": 1,
+      "module_name": "omniCoetusActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 700,
+      "is_full_screen": 1,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 701,
+      "is_full_screen": 1,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 702,
+      "is_full_screen": 1,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 703,
+      "is_full_screen": 0,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 704,
+      "is_full_screen": 0,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 705,
+      "is_full_screen": 0,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 706,
+      "is_full_screen": 1,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 707,
+      "is_full_screen": 1,
+      "module_name": "dangoSlot",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 708,
+      "is_full_screen": 1,
+      "module_name": "dangofire",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 709,
+      "is_full_screen": 1,
+      "module_name": "sixthousandReturn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 710,
+      "is_full_screen": 1,
+      "module_name": "BuyMiCard",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 711,
+      "is_full_screen": 1,
+      "module_name": "LotteryGiftPuni",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 712,
+      "is_full_screen": 1,
+      "module_name": "CommemorativeGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 713,
+      "is_full_screen": 1,
+      "module_name": "sixthousandSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 714,
+      "is_full_screen": 0,
+      "module_name": "seerActiveDaysMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 715,
+      "is_full_screen": 0,
+      "module_name": "anniversaryBirthdayPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 716,
+      "is_full_screen": 1,
+      "module_name": "yearPet26Preview",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 717,
+      "is_full_screen": 0,
+      "module_name": "explorenewstar",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 718,
+      "is_full_screen": 0,
+      "module_name": "gamaxinghunSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 719,
+      "is_full_screen": 1,
+      "module_name": "sunmoonActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 720,
+      "is_full_screen": 0,
+      "module_name": "explorenewstar",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 721,
+      "is_full_screen": 1,
+      "module_name": "xingLiNewFormSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 722,
+      "is_full_screen": 1,
+      "module_name": "miniCivilizationGamePlay",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 723,
+      "is_full_screen": 1,
+      "module_name": "sunmoonActitvity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 724,
+      "is_full_screen": 0,
+      "module_name": "matchgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 725,
+      "is_full_screen": 1,
+      "module_name": "oopSuitSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 726,
+      "is_full_screen": 1,
+      "module_name": "opheliaEpicSkinSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 727,
+      "is_full_screen": 1,
+      "module_name": "malorne",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 728,
+      "is_full_screen": 1,
+      "module_name": "mldsMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 729,
+      "is_full_screen": 1,
+      "module_name": "snowBallJenga",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 730,
+      "is_full_screen": 1,
+      "module_name": "moshidiluChallenge",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 731,
+      "is_full_screen": 1,
+      "module_name": "yearvip2025Leave",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 732,
+      "is_full_screen": 0,
+      "module_name": "yearVIP2026Reserve",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 733,
+      "is_full_screen": 0,
+      "module_name": "feiLiangCompleteMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 734,
+      "is_full_screen": 0,
+      "module_name": "feiLiangCompleteMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 735,
+      "is_full_screen": 0,
+      "module_name": "packWinterGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 736,
+      "is_full_screen": 0,
+      "module_name": "ChristmasSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 737,
+      "is_full_screen": 1,
+      "module_name": "competition",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 738,
+      "is_full_screen": 1,
+      "module_name": "goldeneggSmashingGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 739,
+      "is_full_screen": 0,
+      "module_name": "newyearsign2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 740,
+      "is_full_screen": 1,
+      "module_name": "yearvip2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 741,
+      "is_full_screen": 1,
+      "module_name": "yearvip2026PV",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 742,
+      "is_full_screen": 0,
+      "module_name": "yearvip2026Alert",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 743,
+      "is_full_screen": 1,
+      "module_name": "goldeneggSmashingEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 744,
+      "is_full_screen": 1,
+      "module_name": "Protectstatepanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 745,
+      "is_full_screen": 1,
+      "module_name": "christmasskinback",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 746,
+      "is_full_screen": 1,
+      "module_name": "mehwiitLegendSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 747,
+      "is_full_screen": 1,
+      "module_name": "connectLinesGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 748,
+      "is_full_screen": 1,
+      "module_name": "cipherJigsawPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 749,
+      "is_full_screen": 1,
+      "module_name": "cipherJigsawPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 750,
+      "is_full_screen": 1,
+      "module_name": "hhlandMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 751,
+      "is_full_screen": 0,
+      "module_name": "JiyuanSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 752,
+      "is_full_screen": 1,
+      "module_name": "undergroundescape_activity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 753,
+      "is_full_screen": 1,
+      "module_name": "undergroundescape",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 754,
+      "is_full_screen": 1,
+      "module_name": "ExploreYurisStore",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 755,
+      "is_full_screen": 1,
+      "module_name": "petTour",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 756,
+      "is_full_screen": 1,
+      "module_name": "insectFormationPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 757,
+      "is_full_screen": 1,
+      "module_name": "insectFormationPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 758,
+      "is_full_screen": 1,
+      "module_name": "landisStrong",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 759,
+      "is_full_screen": 1,
+      "module_name": "landisStrong",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 760,
+      "is_full_screen": 1,
+      "module_name": "equalShareGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 761,
+      "is_full_screen": 0,
+      "module_name": "FourTeenYearSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 762,
+      "is_full_screen": 1,
+      "module_name": "cavernShuttle",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 763,
+      "is_full_screen": 1,
+      "module_name": "markAdvanced",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 764,
+      "is_full_screen": 1,
+      "module_name": "campfightpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 765,
+      "is_full_screen": 1,
+      "module_name": "rizeEvolutionaryFormSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 766,
+      "is_full_screen": 0,
+      "module_name": "RedEnvelope2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 767,
+      "is_full_screen": 0,
+      "module_name": "WuweijuezheSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 768,
+      "is_full_screen": 1,
+      "module_name": "MoneyTree",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 769,
+      "is_full_screen": 1,
+      "module_name": "theCompleteEvoOfWanMoTianZunMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 770,
+      "is_full_screen": 0,
+      "module_name": "arianaSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 771,
+      "is_full_screen": 0,
+      "module_name": "buildHivePlanPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 772,
+      "is_full_screen": 0,
+      "module_name": "buildHivePlanPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 773,
+      "is_full_screen": 1,
+      "module_name": "getasbnskin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 774,
+      "is_full_screen": 1,
+      "module_name": "removeCubeGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 775,
+      "is_full_screen": 1,
+      "module_name": "getxgnpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 776,
+      "is_full_screen": 1,
+      "module_name": "dragonboatExploratio",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 777,
+      "is_full_screen": 0,
+      "module_name": "tetrisGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 778,
+      "is_full_screen": 0,
+      "module_name": "mintlevelsign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 779,
+      "is_full_screen": 0,
+      "module_name": "classicPetAssemblePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 780,
+      "is_full_screen": 1,
+      "module_name": "luojiSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 781,
+      "is_full_screen": 1,
+      "module_name": "mintmarkElevareReward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 782,
+      "is_full_screen": 1,
+      "module_name": "dangoHalma",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 783,
+      "is_full_screen": 1,
+      "module_name": "GetShangGuYanShou",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 784,
+      "is_full_screen": 1,
+      "module_name": "roamWriterReturn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 785,
+      "is_full_screen": 1,
+      "module_name": "StarsWhisper",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 786,
+      "is_full_screen": 1,
+      "module_name": "SpringFestivalCollection",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 787,
+      "is_full_screen": 1,
+      "module_name": "helkaTYMintmarkRerunCenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 788,
+      "is_full_screen": 1,
+      "module_name": "SpringFestivalSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 789,
+      "is_full_screen": 1,
+      "module_name": "cardDuelGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 801,
+      "is_full_screen": 1,
+      "module_name": "bagTower",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 802,
+      "is_full_screen": 1,
+      "module_name": "getchaofengpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 803,
+      "is_full_screen": 1,
+      "module_name": "springSkinGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 804,
+      "is_full_screen": 0,
+      "module_name": "theFifthBuddhaSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 805,
+      "is_full_screen": 0,
+      "module_name": "springFestivalDiamondPocketPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 806,
+      "is_full_screen": 0,
+      "module_name": "lunar2026ExclusivePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 807,
+      "is_full_screen": 0,
+      "module_name": "chizhoumarkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 808,
+      "is_full_screen": 0,
+      "module_name": "colorTrialGamePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 809,
+      "is_full_screen": 0,
+      "module_name": "colorTrialGamePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 810,
+      "is_full_screen": 0,
+      "module_name": "colorTrialGamePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 811,
+      "is_full_screen": 0,
+      "module_name": "mintstonesellpanel1",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 812,
+      "is_full_screen": 1,
+      "module_name": "purchaseBonus2026Panel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 813,
+      "is_full_screen": 1,
+      "module_name": "fireworkQuest",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 814,
+      "is_full_screen": 1,
+      "module_name": "lanternRiddles1",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 815,
+      "is_full_screen": 1,
+      "module_name": "lieaonidaSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 816,
+      "is_full_screen": 1,
+      "module_name": "clickspeedActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 817,
+      "is_full_screen": 1,
+      "module_name": "springSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 818,
+      "is_full_screen": 1,
+      "module_name": "hunDunAiLan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 819,
+      "is_full_screen": 1,
+      "module_name": "hunDunAiLan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 820,
+      "is_full_screen": 0,
+      "module_name": "newTermSeating",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 821,
+      "is_full_screen": 1,
+      "module_name": "EveSignin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 822,
+      "is_full_screen": 1,
+      "module_name": "clicksfpsActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 823,
+      "is_full_screen": 0,
+      "module_name": "skinsellstudentActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 824,
+      "is_full_screen": 1,
+      "module_name": "newTermSeating",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 825,
+      "is_full_screen": 1,
+      "module_name": "clicksfpsGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 826,
+      "is_full_screen": 1,
+      "module_name": "alphaBearFeatureUpgrade",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 827,
+      "is_full_screen": 1,
+      "module_name": "aiLanLevel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 828,
+      "is_full_screen": 1,
+      "module_name": "newPeakPetSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 829,
+      "is_full_screen": 1,
+      "module_name": "funnybubbleshoot",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 830,
+      "is_full_screen": 1,
+      "module_name": "skinsellstudent1Activity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 831,
+      "is_full_screen": 1,
+      "module_name": "tenDaysPetSign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 832,
+      "is_full_screen": 1,
+      "module_name": "Violet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 833,
+      "is_full_screen": 1,
+      "module_name": "schoolStartSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 834,
+      "is_full_screen": 1,
+      "module_name": "starSailPlan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 835,
+      "is_full_screen": 1,
+      "module_name": "initiallyRoutePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 836,
+      "is_full_screen": 1,
+      "module_name": "movegameActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 837,
+      "is_full_screen": 1,
+      "module_name": "skinsellstudentActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 838,
+      "is_full_screen": 1,
+      "module_name": "spiderSolitaireGame_activity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 839,
+      "is_full_screen": 1,
+      "module_name": "spiderSolitaireGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 840,
+      "is_full_screen": 1,
+      "module_name": "aprilFoolsDaySkinWarmPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 841,
+      "is_full_screen": 1,
+      "module_name": "doluotaitan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 842,
+      "is_full_screen": 1,
+      "module_name": "stellarGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 843,
+      "is_full_screen": 1,
+      "module_name": "pveEnterPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 844,
+      "is_full_screen": 1,
+      "module_name": "linesGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 845,
+      "is_full_screen": 1,
+      "module_name": "aprilFoolsDaySkinSellPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 846,
+      "is_full_screen": 1,
+      "module_name": "getdyspanelMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 847,
+      "is_full_screen": 1,
+      "module_name": "seafishingActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 848,
+      "is_full_screen": 1,
+      "module_name": "NewSkinStore",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1000,
+      "is_full_screen": 0,
+      "module_name": "autocard",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1001,
+      "is_full_screen": 0,
+      "module_name": "autocardSelectFirstPetPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1002,
+      "is_full_screen": 0,
+      "module_name": "autocardRulePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1003,
+      "is_full_screen": 0,
+      "module_name": "autocardActivityCenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1004,
+      "is_full_screen": 0,
+      "module_name": "autocardactivationCode",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1005,
+      "is_full_screen": 0,
+      "module_name": "autocardActivateEntrance",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1006,
+      "is_full_screen": 0,
+      "module_name": "autocardFristAppoint",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1007,
+      "is_full_screen": 0,
+      "module_name": "autocardaprilFoolsDayPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1008,
+      "is_full_screen": 0,
+      "module_name": "autocardInvitation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1009,
+      "is_full_screen": 0,
+      "module_name": "autocardHandBook",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1011,
+      "is_full_screen": 0,
+      "module_name": "autocardGetPet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1012,
+      "is_full_screen": 1,
+      "module_name": "autocardGetCardSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1013,
+      "is_full_screen": 1,
+      "module_name": "puchuShowActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1014,
+      "is_full_screen": 1,
+      "module_name": "puchuShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1015,
+      "is_full_screen": 1,
+      "module_name": "chaosTias",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1016,
+      "is_full_screen": 1,
+      "module_name": "chaosTias",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1017,
+      "is_full_screen": 1,
+      "module_name": "laidashenqientry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1018,
+      "is_full_screen": 1,
+      "module_name": "signinForMintmark",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1019,
+      "is_full_screen": 1,
+      "module_name": "rheaSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1020,
+      "is_full_screen": 1,
+      "module_name": "bulletTimeGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 849,
+      "is_full_screen": 1,
+      "module_name": "getlymwzkspanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 850,
+      "is_full_screen": 1,
+      "module_name": "getNewFightCloth",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 851,
+      "is_full_screen": 1,
+      "module_name": "rheaObtainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 852,
+      "is_full_screen": 0,
+      "module_name": "rheaObtainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 853,
+      "is_full_screen": 1,
+      "module_name": "carrygame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 854,
+      "is_full_screen": 0,
+      "module_name": "diceExpandGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 855,
+      "is_full_screen": 1,
+      "module_name": "diceExpandGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 856,
+      "is_full_screen": 1,
+      "module_name": "getSaTe",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 857,
+      "is_full_screen": 1,
+      "module_name": "ashesPathEntryPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 858,
+      "is_full_screen": 0,
+      "module_name": "aurumMinerShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 859,
+      "is_full_screen": 1,
+      "module_name": "aurumMinerShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 860,
+      "is_full_screen": 0,
+      "module_name": "diamondObligatioTips",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 861,
+      "is_full_screen": 1,
+      "module_name": "scratchCard",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 862,
+      "is_full_screen": 1,
+      "module_name": "getTXLH",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 863,
+      "is_full_screen": 1,
+      "module_name": "fourteen‌YearSellSk",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 864,
+      "is_full_screen": 1,
+      "module_name": "skinOfEvilDragonKingPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 865,
+      "is_full_screen": 1,
+      "module_name": "borucashop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 866,
+      "is_full_screen": 1,
+      "module_name": "gettxlwwqtmainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 867,
+      "is_full_screen": 1,
+      "module_name": "borucaStrategy",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 868,
+      "is_full_screen": 1,
+      "module_name": "PlaustrumFleeGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 869,
+      "is_full_screen": 0,
+      "module_name": "activity260424LastaBoxShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 870,
+      "is_full_screen": 1,
+      "module_name": "activity260424LastaBoxShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 871,
+      "is_full_screen": 0,
+      "module_name": "mayDaySkinMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 872,
+      "is_full_screen": 0,
+      "module_name": "timeSkinSale",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 873,
+      "is_full_screen": 0,
+      "module_name": "skinOfIceColde",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 874,
+      "is_full_screen": 1,
+      "module_name": "templeRunGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 875,
+      "is_full_screen": 0,
+      "module_name": "templeRunGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 876,
+      "is_full_screen": 1,
+      "module_name": "FireAndElectricityPet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 877,
+      "is_full_screen": 0,
+      "module_name": "VigilforLaikaSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 878,
+      "is_full_screen": 0,
+      "module_name": "Sign20260508",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 879,
+      "is_full_screen": 0,
+      "module_name": "SignSFW",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 880,
+      "is_full_screen": 0,
+      "module_name": "freepet0515",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 881,
+      "is_full_screen": 0,
+      "module_name": "fifteenyearsign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 882,
+      "is_full_screen": 0,
+      "module_name": "eyesOfLaikaActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 883,
+      "is_full_screen": 1,
+      "module_name": "eyesOfLaikaGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 884,
+      "is_full_screen": 1,
+      "module_name": "inkShadowStarSoul",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 885,
+      "is_full_screen": 0,
+      "module_name": "fifteenyearsignPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 886,
+      "is_full_screen": 0,
+      "module_name": "sareikaSkinMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 887,
+      "is_full_screen": 0,
+      "module_name": "17yearsstarlight",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 888,
+      "is_full_screen": 0,
+      "module_name": "seventeenthAnniversaryMintmark",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 889,
+      "is_full_screen": 1,
+      "module_name": "17yearspopup",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 890,
+      "is_full_screen": 0,
+      "module_name": "ChaoSuanSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 891,
+      "is_full_screen": 0,
+      "module_name": "versePetSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 892,
+      "is_full_screen": 0,
+      "module_name": "versePetSellPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 893,
+      "is_full_screen": 1,
+      "module_name": "SeventeenYearStarLightHint",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 894,
+      "is_full_screen": 0,
+      "module_name": "starAiouSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 895,
+      "is_full_screen": 0,
+      "module_name": "RweSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 896,
+      "is_full_screen": 0,
+      "module_name": "17yearKeyin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 897,
+      "is_full_screen": 1,
+      "module_name": "summer26",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 898,
+      "is_full_screen": 1,
+      "module_name": "getGLW",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 899,
+      "is_full_screen": 0,
+      "module_name": "getDhkj",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 900,
+      "is_full_screen": 0,
+      "module_name": "getDhkjSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 901,
+      "is_full_screen": 0,
+      "module_name": "getXlkj",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 902,
+      "is_full_screen": 0,
+      "module_name": "SuolunsenVoteSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 903,
+      "is_full_screen": 0,
+      "module_name": "DeathAngelMorty",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 904,
+      "is_full_screen": 1,
+      "module_name": "getWtslRay",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 905,
+      "is_full_screen": 1,
+      "module_name": "getBmzhGaia",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 906,
+      "is_full_screen": 1,
+      "module_name": "getRayGaiaChoose",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 907,
+      "is_full_screen": 1,
+      "module_name": "GetHdmz",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 908,
+      "is_full_screen": 1,
+      "module_name": "extremeIceAksia",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 909,
+      "is_full_screen": 0,
+      "module_name": "huanBack",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 910,
+      "is_full_screen": 0,
+      "module_name": "autoCardDialogS2",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 911,
+      "is_full_screen": 1,
+      "module_name": "zhenshixuanwu",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 912,
+      "is_full_screen": 0,
+      "module_name": "liumengSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 913,
+      "is_full_screen": 0,
+      "module_name": "sign260924",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 914,
+      "is_full_screen": 0,
+      "module_name": "getLySkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 915,
+      "is_full_screen": 1,
+      "module_name": "hundiTianxundao",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 916,
+      "is_full_screen": 1,
+      "module_name": "aolan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 917,
+      "is_full_screen": 0,
+      "module_name": "getHySkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 918,
+      "is_full_screen": 1,
+      "module_name": "aosilan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 919,
+      "is_full_screen": 1,
+      "module_name": "xuanminghunzhe",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1021,
+      "is_full_screen": 1,
+      "module_name": "zuma",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1022,
+      "is_full_screen": 1,
+      "module_name": "getAutomatedAI",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1023,
+      "is_full_screen": 1,
+      "module_name": "getAutomatedAI",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1024,
+      "is_full_screen": 1,
+      "module_name": "getblgdPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1025,
+      "is_full_screen": 1,
+      "module_name": "getblgdskinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1026,
+      "is_full_screen": 1,
+      "module_name": "autocardCareerPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1027,
+      "is_full_screen": 0,
+      "module_name": "autocardActivateTrial",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1028,
+      "is_full_screen": 0,
+      "module_name": "getblgdPanelAlert",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1029,
+      "is_full_screen": 0,
+      "module_name": "poxiaozheSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1030,
+      "is_full_screen": 1,
+      "module_name": "XzhanduiMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1031,
+      "is_full_screen": 1,
+      "module_name": "BrokenWorld",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1033,
+      "is_full_screen": 1,
+      "module_name": "bmdwSaruikaActivityCenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1032,
+      "is_full_screen": 1,
+      "module_name": "bmdwSaruikaMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1034,
+      "is_full_screen": 1,
+      "module_name": "watergame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1035,
+      "is_full_screen": 1,
+      "module_name": "jumpParkourGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1036,
+      "is_full_screen": 1,
+      "module_name": "storyAnniversary2026Activitycenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1037,
+      "is_full_screen": 1,
+      "module_name": "sanYgmActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1038,
+      "is_full_screen": 0,
+      "module_name": "newSeerToolbarGuide",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1039,
+      "is_full_screen": 1,
+      "module_name": "ChaosMagicEyeJerezMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1040,
+      "is_full_screen": 1,
+      "module_name": "getmagazinecenterpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1041,
+      "is_full_screen": 1,
+      "module_name": "storyAnniversary2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1042,
+      "is_full_screen": 1,
+      "module_name": "tiaoyinActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1043,
+      "is_full_screen": 1,
+      "module_name": "moneyageActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1044,
+      "is_full_screen": 1,
+      "module_name": "livesharepanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1045,
+      "is_full_screen": 0,
+      "module_name": "storyAnniversary2026Store",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1046,
+      "is_full_screen": 1,
+      "module_name": "happyTreasureGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1047,
+      "is_full_screen": 1,
+      "module_name": "FourNinePlusMine",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1048,
+      "is_full_screen": 1,
+      "module_name": "autoCardCollectionBook",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1049,
+      "is_full_screen": 1,
+      "module_name": "autocardBP",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1050,
+      "is_full_screen": 0,
+      "module_name": "autocardSeasonSettlePop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1051,
+      "is_full_screen": 0,
+      "module_name": "autocardFriend",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1052,
+      "is_full_screen": 0,
+      "module_name": "autoCardActivitycanglan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1053,
+      "is_full_screen": 0,
+      "module_name": "autocardItemAward",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1060,
+      "is_full_screen": 1,
+      "module_name": "aurumEndgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1061,
+      "is_full_screen": 0,
+      "module_name": "17thAnniversaryPerksPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1062,
+      "is_full_screen": 0,
+      "module_name": "buySuggerereCompilationActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1063,
+      "is_full_screen": 1,
+      "module_name": "weiSkinActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1064,
+      "is_full_screen": 1,
+      "module_name": "seer17thAnniversaryHelpsGetGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1065,
+      "is_full_screen": 1,
+      "module_name": "guntower",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1066,
+      "is_full_screen": 1,
+      "module_name": "getxmdnskin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1070,
+      "is_full_screen": 0,
+      "module_name": "autocardCollectionHreo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1071,
+      "is_full_screen": 0,
+      "module_name": "autocardHandbookEntrancePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1072,
+      "is_full_screen": 1,
+      "module_name": "autoCardDiduo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1073,
+      "is_full_screen": 1,
+      "module_name": "autoCardDiduo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1074,
+      "is_full_screen": 1,
+      "module_name": "autocardSubscribe",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1075,
+      "is_full_screen": 1,
+      "module_name": "autoCardBattleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1076,
+      "is_full_screen": 1,
+      "module_name": "atuocardPublicity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1100,
+      "is_full_screen": 1,
+      "module_name": "QteTimeline",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1101,
+      "is_full_screen": 0,
+      "module_name": "QteTimelineScene",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1102,
+      "is_full_screen": 1,
+      "module_name": "staraiouliyaMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1103,
+      "is_full_screen": 1,
+      "module_name": "getgkpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1104,
+      "is_full_screen": 1,
+      "module_name": "17thAnniversaryGiftPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1105,
+      "is_full_screen": 1,
+      "module_name": "ShengpAngleSkinMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1106,
+      "is_full_screen": 1,
+      "module_name": "StarrySky",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1107,
+      "is_full_screen": 1,
+      "module_name": "AnnivSkinCardMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1108,
+      "is_full_screen": 1,
+      "module_name": "mysteryBoxGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1109,
+      "is_full_screen": 1,
+      "module_name": "theFifthBuddhaRuturn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1110,
+      "is_full_screen": 1,
+      "module_name": "aolyTrial",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1111,
+      "is_full_screen": 1,
+      "module_name": "getszyhecenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1112,
+      "is_full_screen": 1,
+      "module_name": "UnreachableDreamSkinMegaPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1113,
+      "is_full_screen": 1,
+      "module_name": "goldentrailActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1114,
+      "is_full_screen": 1,
+      "module_name": "masterMind",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1115,
+      "is_full_screen": 1,
+      "module_name": "goldenChurchUp",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1116,
+      "is_full_screen": 1,
+      "module_name": "simoyadisMegaPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1117,
+      "is_full_screen": 1,
+      "module_name": "simoyadMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1118,
+      "is_full_screen": 1,
+      "module_name": "rayGaiaPetSkinRe2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1119,
+      "is_full_screen": 1,
+      "module_name": "simoyadKingMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1120,
+      "is_full_screen": 1,
+      "module_name": "simoyadKingMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1121,
+      "is_full_screen": 1,
+      "module_name": "giftFarFrom",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1122,
+      "is_full_screen": 1,
+      "module_name": "getFL",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1123,
+      "is_full_screen": 0,
+      "module_name": "seerShipChooseGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1124,
+      "is_full_screen": 1,
+      "module_name": "xuanwuRenascorActivitycenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1125,
+      "is_full_screen": 1,
+      "module_name": "gettxjsmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1126,
+      "is_full_screen": 1,
+      "module_name": "numbergame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1127,
+      "is_full_screen": 1,
+      "module_name": "dayDream",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1128,
+      "is_full_screen": 0,
+      "module_name": "minstonesaleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1129,
+      "is_full_screen": 0,
+      "module_name": "daanheitianMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1130,
+      "is_full_screen": 0,
+      "module_name": "daanheitianMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1131,
+      "is_full_screen": 1,
+      "module_name": "getSgglr",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1132,
+      "is_full_screen": 1,
+      "module_name": "getSgglr",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1133,
+      "is_full_screen": 0,
+      "module_name": "oceanCleanupPlan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1134,
+      "is_full_screen": 0,
+      "module_name": "dragonOfParadiseSalePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1135,
+      "is_full_screen": 1,
+      "module_name": "AbyssFisheryActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1136,
+      "is_full_screen": 1,
+      "module_name": "oceanfish",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1137,
+      "is_full_screen": 1,
+      "module_name": "seaFoamShop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1138,
+      "is_full_screen": 1,
+      "module_name": "xingliSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1139,
+      "is_full_screen": 1,
+      "module_name": "AbyssFisheryGameMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1140,
+      "is_full_screen": 1,
+      "module_name": "boboGetEnergy",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1141,
+      "is_full_screen": 1,
+      "module_name": "getdzjsmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1142,
+      "is_full_screen": 1,
+      "module_name": "gertrudeSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1143,
+      "is_full_screen": 1,
+      "module_name": "getljysmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1144,
+      "is_full_screen": 1,
+      "module_name": "seerInterstellarPassportActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1145,
+      "is_full_screen": 0,
+      "module_name": "oceantreasureActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1146,
+      "is_full_screen": 0,
+      "module_name": "claudiusSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1180,
+      "is_full_screen": 0,
+      "module_name": "peakJihadCostMode",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1181,
+      "is_full_screen": 1,
+      "module_name": "filmgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1182,
+      "is_full_screen": 1,
+      "module_name": "jellyfishJumpActivityCenterPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1183,
+      "is_full_screen": 1,
+      "module_name": "autocardXuanwu",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1184,
+      "is_full_screen": 1,
+      "module_name": "autocardYoyo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1185,
+      "is_full_screen": 1,
+      "module_name": "treasureOfKukuSharkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1186,
+      "is_full_screen": 1,
+      "module_name": "getthirteenskins",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1187,
+      "is_full_screen": 1,
+      "module_name": "autoCardActivityKaijia",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1188,
+      "is_full_screen": 1,
+      "module_name": "activityDuel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1189,
+      "is_full_screen": 1,
+      "module_name": "getDragonManPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1190,
+      "is_full_screen": 1,
+      "module_name": "armorHeroBattlePassMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1191,
+      "is_full_screen": 1,
+      "module_name": "kaijiayongshiEmoji",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1192,
+      "is_full_screen": 0,
+      "module_name": "kjysyypanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1193,
+      "is_full_screen": 0,
+      "module_name": "kaijiayongshiFramePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1194,
+      "is_full_screen": 1,
+      "module_name": "armorHeroXTGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1195,
+      "is_full_screen": 0,
+      "module_name": "kaijiayongshiMintmarkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1196,
+      "is_full_screen": 1,
+      "module_name": "asuraArmorShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1197,
+      "is_full_screen": 1,
+      "module_name": "armorHeroNWGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1198,
+      "is_full_screen": 1,
+      "module_name": "armorHeroNWGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1199,
+      "is_full_screen": 0,
+      "module_name": "niedaluoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1200,
+      "is_full_screen": 1,
+      "module_name": "getalktmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1201,
+      "is_full_screen": 1,
+      "module_name": "niedaluozhilianSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1202,
+      "is_full_screen": 0,
+      "module_name": "rayGaiaAssembleMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1203,
+      "is_full_screen": 1,
+      "module_name": "dangoFood",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1204,
+      "is_full_screen": 0,
+      "module_name": "countgameActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1205,
+      "is_full_screen": 1,
+      "module_name": "CyrenaicaMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1206,
+      "is_full_screen": 1,
+      "module_name": "assiyaHeroActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1207,
+      "is_full_screen": 1,
+      "module_name": "turnofLuckSkinActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1208,
+      "is_full_screen": 1,
+      "module_name": "LevantMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1209,
+      "is_full_screen": 1,
+      "module_name": "CatRun",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1210,
+      "is_full_screen": 1,
+      "module_name": "brickBreakerGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1211,
+      "is_full_screen": 1,
+      "module_name": "brickBreakerGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1212,
+      "is_full_screen": 1,
+      "module_name": "signBackSchool",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1213,
+      "is_full_screen": 1,
+      "module_name": "autocardSessionStore",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1214,
+      "is_full_screen": 1,
+      "module_name": "roundgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1215,
+      "is_full_screen": 1,
+      "module_name": "hundunmoshiMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1216,
+      "is_full_screen": 1,
+      "module_name": "akxySummerSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1217,
+      "is_full_screen": 1,
+      "module_name": "hollyWillingShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1218,
+      "is_full_screen": 1,
+      "module_name": "bubbleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1219,
+      "is_full_screen": 1,
+      "module_name": "akexiyaGoods",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1220,
+      "is_full_screen": 1,
+      "module_name": "2026NationalDayPerksPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1221,
+      "is_full_screen": 1,
+      "module_name": "getkehd",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1222,
+      "is_full_screen": 1,
+      "module_name": "getkehd",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1223,
+      "is_full_screen": 1,
+      "module_name": "ShenglingshouhuaosikaMegaPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1224,
+      "is_full_screen": 1,
+      "module_name": "getzksnewskinpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1225,
+      "is_full_screen": 1,
+      "module_name": "rayGaiaUniversalWelfareMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1226,
+      "is_full_screen": 1,
+      "module_name": "activityMineralSorter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1227,
+      "is_full_screen": 1,
+      "module_name": "midAutumnSkinReturnSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1228,
+      "is_full_screen": 1,
+      "module_name": "wargame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1229,
+      "is_full_screen": 1,
+      "module_name": "yanmiezhizhuzhakesiSkinActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1230,
+      "is_full_screen": 1,
+      "module_name": "xingyuankafeitingSkinActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1231,
+      "is_full_screen": 0,
+      "module_name": "dihuangzhirongPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1232,
+      "is_full_screen": 1,
+      "module_name": "organizeFireworkGamePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1233,
+      "is_full_screen": 1,
+      "module_name": "ShenglingzhihunmaiersiMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1234,
+      "is_full_screen": 1,
+      "module_name": "stonebattleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1235,
+      "is_full_screen": 1,
+      "module_name": "ancientThreeMainPets",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1236,
+      "is_full_screen": 1,
+      "module_name": "story2027yearsummon",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1237,
+      "is_full_screen": 0,
+      "module_name": "formaSwtichPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1238,
+      "is_full_screen": 1,
+      "module_name": "farSkyFallingStageMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1239,
+      "is_full_screen": 1,
+      "module_name": "SignInRewardStarBeanPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1240,
+      "is_full_screen": 1,
+      "module_name": "trainGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1241,
+      "is_full_screen": 1,
+      "module_name": "bargainKingMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1242,
+      "is_full_screen": 1,
+      "module_name": "treasureOfKukuSharkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1243,
+      "is_full_screen": 1,
+      "module_name": "henanTravelSubsidy",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1244,
+      "is_full_screen": 1,
+      "module_name": "xfhty",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1245,
+      "is_full_screen": 1,
+      "module_name": "lingyaoqianyouSkinSell1st",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1246,
+      "is_full_screen": 1,
+      "module_name": "jiaguwenGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1247,
+      "is_full_screen": 1,
+      "module_name": "centralPlains",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1248,
+      "is_full_screen": 0,
+      "module_name": "hnldjumppanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1249,
+      "is_full_screen": 1,
+      "module_name": "starBeanShopEnterPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1250,
+      "is_full_screen": 1,
+      "module_name": "csdwmainpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1251,
+      "is_full_screen": 1,
+      "module_name": "hnldmainpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1252,
+      "is_full_screen": 1,
+      "module_name": "starbeanPraemium",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1253,
+      "is_full_screen": 0,
+      "module_name": "SpaceShipPilotLicense",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1254,
+      "is_full_screen": 1,
+      "module_name": "exploreZhongyuanCursus",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1255,
+      "is_full_screen": 1,
+      "module_name": "ShengguanglinghuangFreeGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1256,
+      "is_full_screen": 0,
+      "module_name": "autocardfun",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1257,
+      "is_full_screen": 1,
+      "module_name": "xiaochuGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1258,
+      "is_full_screen": 1,
+      "module_name": "lubbockActivityMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1259,
+      "is_full_screen": 1,
+      "module_name": "lingyaoqianyouSkinSell2nd",
+      "res_config": []
+    }
+  ]
+}

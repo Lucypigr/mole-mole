@@ -1,0 +1,13 @@
+{
+  "item": [
+    {
+      "endtime": "2029_12_23 0:00:00",
+      "gotoaddress": "",
+      "gototype": 1,
+      "id": 1,
+      "pic": "banner01",
+      "sequence": 100,
+      "starttime": "2020_10_23 0:00:00"
+    }
+  ]
+}

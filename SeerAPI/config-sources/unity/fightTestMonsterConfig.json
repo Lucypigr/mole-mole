@@ -1,0 +1,2002 @@
+{
+  "item": [
+    {
+      "base_data": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        1000
+      ],
+      "extra_data": [
+        10,
+        10,
+        10,
+        100,
+        100,
+        100
+      ],
+      "mintmark": [
+        41192,
+        41606,
+        41608
+      ],
+      "mintmark_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "monster_learning": [
+        255,
+        0,
+        255,
+        0,
+        0,
+        0
+      ],
+      "monster_move": [
+        31844,
+        26031,
+        26032,
+        31846,
+        31847
+      ],
+      "id": 1,
+      "monster_character": 2062,
+      "monster_effect_id": 0,
+      "monster_id": 3577,
+      "monster_lv": 100,
+      "monster_nature": 18,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        2000
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40857,
+        41706,
+        41608
+      ],
+      "mintmark_data": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "monster_learning": [
+        0,
+        0,
+        0,
+        128,
+        128,
+        254
+      ],
+      "monster_move": [
+        30376,
+        25294,
+        25295,
+        30380,
+        30381
+      ],
+      "id": 2,
+      "monster_character": 2126,
+      "monster_effect_id": 0,
+      "monster_id": 3291,
+      "monster_lv": 100,
+      "monster_nature": 18,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        1500
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41116,
+        41610,
+        41610
+      ],
+      "mintmark_data": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "monster_learning": [
+        255,
+        0,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        19100,
+        24638,
+        24640,
+        19102,
+        19103
+      ],
+      "id": 3,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 2987,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        800
+      ],
+      "extra_data": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "mintmark": [
+        41333,
+        41116,
+        41116
+      ],
+      "mintmark_data": [
+        50,
+        50,
+        10,
+        100,
+        100,
+        1000
+      ],
+      "monster_learning": [
+        255,
+        0,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        19248,
+        24707,
+        24717,
+        19229,
+        19230
+      ],
+      "id": 4,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 3022,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        500
+      ],
+      "extra_data": [
+        6,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "mintmark": [
+        41759,
+        41700,
+        41700
+      ],
+      "mintmark_data": [
+        100,
+        200,
+        300,
+        400,
+        100,
+        200
+      ],
+      "monster_learning": [
+        0,
+        0,
+        255,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        33981,
+        27061,
+        27062,
+        33983,
+        33984
+      ],
+      "id": 5,
+      "monster_character": 2144,
+      "monster_effect_id": 0,
+      "monster_id": 4002,
+      "monster_lv": 100,
+      "monster_nature": 18,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        500,
+        500,
+        500,
+        500,
+        500,
+        1500
+      ],
+      "extra_data": [
+        100,
+        100,
+        200,
+        100,
+        100,
+        100
+      ],
+      "mintmark": [
+        42245,
+        41611,
+        41611
+      ],
+      "mintmark_data": [
+        500,
+        500,
+        300,
+        300,
+        200,
+        400
+      ],
+      "monster_learning": [
+        0,
+        238,
+        36,
+        0,
+        0,
+        236
+      ],
+      "monster_move": [
+        35375,
+        27723,
+        27724,
+        35377,
+        35378
+      ],
+      "id": 6,
+      "monster_character": 2146,
+      "monster_effect_id": 0,
+      "monster_id": 4275,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        500,
+        500,
+        300,
+        300,
+        600,
+        1500
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "mintmark": [
+        42098,
+        42246,
+        42246
+      ],
+      "mintmark_data": [
+        300,
+        400,
+        500,
+        600,
+        100,
+        100
+      ],
+      "monster_learning": [
+        0,
+        0,
+        0,
+        4,
+        254,
+        252
+      ],
+      "monster_move": [
+        35439,
+        27754,
+        27755,
+        35441,
+        35442
+      ],
+      "id": 7,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 4288,
+      "monster_lv": 100,
+      "monster_nature": 14,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        500,
+        500,
+        500,
+        400,
+        600,
+        2000
+      ],
+      "extra_data": [
+        200,
+        300,
+        400,
+        500,
+        100,
+        100
+      ],
+      "mintmark": [
+        42233,
+        42245,
+        42245
+      ],
+      "mintmark_data": [
+        500,
+        300,
+        100,
+        500,
+        600,
+        800
+      ],
+      "monster_learning": [
+        0,
+        0,
+        158,
+        0,
+        160,
+        192
+      ],
+      "monster_move": [
+        35940,
+        27996,
+        27997,
+        35944,
+        35945
+      ],
+      "id": 8,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 4386,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        500,
+        500,
+        400,
+        400,
+        300,
+        1000
+      ],
+      "extra_data": [
+        10,
+        20,
+        30,
+        50,
+        40,
+        100
+      ],
+      "mintmark": [
+        42212,
+        42217,
+        42217
+      ],
+      "mintmark_data": [
+        100,
+        50,
+        50,
+        50,
+        60,
+        100
+      ],
+      "monster_learning": [
+        0,
+        254,
+        0,
+        0,
+        4,
+        252
+      ],
+      "monster_move": [
+        35911,
+        27982,
+        27983,
+        35915,
+        35916
+      ],
+      "id": 9,
+      "monster_character": 2080,
+      "monster_effect_id": 0,
+      "monster_id": 4377,
+      "monster_lv": 100,
+      "monster_nature": 11,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        427,
+        379,
+        276,
+        276,
+        511
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        42212,
+        42217,
+        42217
+      ],
+      "mintmark_data": [
+        0,
+        165,
+        90,
+        90,
+        90,
+        315
+      ],
+      "monster_learning": [
+        0,
+        255,
+        255,
+        0,
+        0,
+        0
+      ],
+      "monster_move": [
+        35911,
+        27982,
+        27983,
+        35915,
+        35916
+      ],
+      "id": 10,
+      "monster_character": 2080,
+      "monster_effect_id": 0,
+      "monster_id": 4377,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        405,
+        177,
+        286,
+        258,
+        258,
+        672
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40569,
+        41333,
+        41333
+      ],
+      "mintmark_data": [
+        108,
+        0,
+        72,
+        86,
+        86,
+        291
+      ],
+      "monster_learning": [
+        255,
+        0,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        19248,
+        24707,
+        24717,
+        19229,
+        19230
+      ],
+      "id": 11,
+      "monster_character": 2122,
+      "monster_effect_id": 396,
+      "monster_id": 3022,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        405,
+        294,
+        252,
+        256,
+        530
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41046,
+        40864,
+        40864
+      ],
+      "mintmark_data": [
+        0,
+        122,
+        90,
+        79,
+        79,
+        244
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        31236,
+        25727,
+        25728,
+        31238,
+        31239
+      ],
+      "id": 12,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 3460,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        405,
+        168,
+        286,
+        260,
+        260,
+        546
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41201,
+        40916,
+        40916
+      ],
+      "mintmark_data": [
+        140,
+        0,
+        24,
+        24,
+        24,
+        292
+      ],
+      "monster_learning": [
+        255,
+        0,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        31870,
+        26045,
+        26046,
+        31874,
+        31875
+      ],
+      "id": 13,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 3582,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        416,
+        298,
+        266,
+        266,
+        562
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        42006,
+        40647,
+        40647
+      ],
+      "mintmark_data": [
+        0,
+        132,
+        78,
+        72,
+        72,
+        262
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        34977,
+        27536,
+        27537,
+        34981,
+        34982
+      ],
+      "id": 14,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 4202,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        401,
+        300,
+        260,
+        260,
+        546
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41146,
+        41334,
+        41334
+      ],
+      "mintmark_data": [
+        0,
+        108,
+        76,
+        84,
+        84,
+        291
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        31655,
+        25937,
+        25938,
+        31659,
+        31660
+      ],
+      "id": 15,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 3540,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        416,
+        306,
+        264,
+        262,
+        570
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        42090,
+        41334,
+        41334
+      ],
+      "mintmark_data": [
+        0,
+        112,
+        75,
+        86,
+        86,
+        288
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        35395,
+        27734,
+        27735,
+        35399,
+        35400
+      ],
+      "id": 16,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 4279,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        405,
+        294,
+        252,
+        256,
+        530
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41046,
+        40864,
+        40864
+      ],
+      "mintmark_data": [
+        0,
+        122,
+        90,
+        79,
+        79,
+        244
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        31236,
+        31237,
+        25728,
+        31238,
+        31239
+      ],
+      "id": 17,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 3460,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        401,
+        186,
+        267,
+        232,
+        230,
+        514
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41019,
+        41321,
+        41321
+      ],
+      "mintmark_data": [
+        160,
+        0,
+        90,
+        46,
+        46,
+        62
+      ],
+      "monster_learning": [
+        255,
+        0,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        31102,
+        25660,
+        25661,
+        31106,
+        31107
+      ],
+      "id": 18,
+      "monster_character": 2144,
+      "monster_effect_id": 0,
+      "monster_id": 3435,
+      "monster_lv": 100,
+      "monster_nature": 3,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        453,
+        321,
+        281,
+        281,
+        610
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40919,
+        41611,
+        41611
+      ],
+      "mintmark_data": [
+        0,
+        130,
+        50,
+        64,
+        64,
+        375
+      ],
+      "monster_learning": [
+        0,
+        254,
+        4,
+        0,
+        0,
+        252
+      ],
+      "monster_move": [
+        36200,
+        36201,
+        25867,
+        28118,
+        31519
+      ],
+      "id": 19,
+      "monster_character": 2146,
+      "monster_effect_id": 1646,
+      "monster_id": 3514,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        420,
+        186,
+        295,
+        287,
+        287,
+        554
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40854,
+        41290,
+        41290
+      ],
+      "mintmark_data": [
+        139,
+        0,
+        89,
+        91,
+        91,
+        335
+      ],
+      "monster_learning": [
+        254,
+        0,
+        4,
+        0,
+        0,
+        252
+      ],
+      "monster_move": [
+        19100,
+        24640,
+        24638,
+        19102,
+        19103
+      ],
+      "id": 20,
+      "monster_character": 2122,
+      "monster_effect_id": 574,
+      "monster_id": 2987,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        316,
+        168,
+        418,
+        270,
+        270,
+        584
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        42213,
+        41333,
+        41333
+      ],
+      "mintmark_data": [
+        120,
+        0,
+        88,
+        90,
+        90,
+        298
+      ],
+      "monster_learning": [
+        0,
+        0,
+        255,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        35917,
+        27985,
+        27986,
+        35921,
+        35922
+      ],
+      "id": 21,
+      "monster_character": 2154,
+      "monster_effect_id": 0,
+      "monster_id": 4378,
+      "monster_lv": 100,
+      "monster_nature": 18,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        449,
+        168,
+        317,
+        266,
+        266,
+        584
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        42048,
+        41608,
+        41608
+      ],
+      "mintmark_data": [
+        195,
+        0,
+        95,
+        87,
+        87,
+        262
+      ],
+      "monster_learning": [
+        253,
+        0,
+        4,
+        0,
+        0,
+        253
+      ],
+      "monster_move": [
+        35650,
+        27856,
+        27857,
+        35652,
+        35653
+      ],
+      "id": 22,
+      "monster_character": 2102,
+      "monster_effect_id": 0,
+      "monster_id": 4327,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        355,
+        418,
+        272,
+        272,
+        542
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41117,
+        41334,
+        41334
+      ],
+      "mintmark_data": [
+        0,
+        122,
+        76,
+        91,
+        91,
+        331
+      ],
+      "monster_learning": [
+        0,
+        140,
+        254,
+        0,
+        0,
+        116
+      ],
+      "monster_move": [
+        35946,
+        27999,
+        28000,
+        35950,
+        35951
+      ],
+      "id": 23,
+      "monster_character": 2146,
+      "monster_effect_id": 0,
+      "monster_id": 4387,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        326,
+        416,
+        276,
+        276,
+        584
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40878,
+        41334,
+        41334
+      ],
+      "mintmark_data": [
+        0,
+        125,
+        88,
+        94,
+        94,
+        309
+      ],
+      "monster_learning": [
+        0,
+        0,
+        255,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        33977,
+        27059,
+        27060,
+        33979,
+        33980
+      ],
+      "id": 24,
+      "monster_character": 2062,
+      "monster_effect_id": 0,
+      "monster_id": 4001,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        378,
+        427,
+        266,
+        266,
+        543
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41287,
+        41751,
+        41751
+      ],
+      "mintmark_data": [
+        0,
+        138,
+        121,
+        88,
+        88,
+        264
+      ],
+      "monster_learning": [
+        0,
+        128,
+        254,
+        0,
+        0,
+        128
+      ],
+      "monster_move": [
+        36386,
+        28211,
+        28212,
+        36390,
+        36392
+      ],
+      "id": 25,
+      "monster_character": 2078,
+      "monster_effect_id": 0,
+      "monster_id": 4468,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        363,
+        390,
+        272,
+        272,
+        580
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41113,
+        42311,
+        42311
+      ],
+      "mintmark_data": [
+        0,
+        139,
+        121,
+        83,
+        83,
+        258
+      ],
+      "monster_learning": [
+        0,
+        116,
+        142,
+        0,
+        0,
+        252
+      ],
+      "monster_move": [
+        36372,
+        28202,
+        36374,
+        36376,
+        36377
+      ],
+      "id": 26,
+      "monster_character": 2146,
+      "monster_effect_id": 0,
+      "monster_id": 4467,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        177,
+        346,
+        387,
+        306,
+        359,
+        568
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41291,
+        42053,
+        42053
+      ],
+      "mintmark_data": [
+        0,
+        96,
+        84,
+        127,
+        127,
+        298
+      ],
+      "monster_learning": [
+        0,
+        0,
+        110,
+        0,
+        212,
+        188
+      ],
+      "monster_move": [
+        33889,
+        27020,
+        27021,
+        33893,
+        33894
+      ],
+      "id": 27,
+      "monster_character": 2078,
+      "monster_effect_id": 0,
+      "monster_id": 3986,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        357,
+        314,
+        304,
+        304,
+        574
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41119,
+        41004,
+        41004
+      ],
+      "mintmark_data": [
+        0,
+        71,
+        87,
+        125,
+        125,
+        290
+      ],
+      "monster_learning": [
+        0,
+        0,
+        0,
+        136,
+        120,
+        254
+      ],
+      "monster_move": [
+        33648,
+        26899,
+        26900,
+        33652,
+        33653
+      ],
+      "id": 28,
+      "monster_character": 2126,
+      "monster_effect_id": 0,
+      "monster_id": 3932,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        177,
+        401,
+        335,
+        288,
+        286,
+        558
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40988,
+        41609,
+        41609
+      ],
+      "mintmark_data": [
+        0,
+        180,
+        96,
+        92,
+        92,
+        271
+      ],
+      "monster_learning": [
+        0,
+        158,
+        108,
+        0,
+        0,
+        244
+      ],
+      "monster_move": [
+        30992,
+        25604,
+        25605,
+        30994,
+        30995
+      ],
+      "id": 29,
+      "monster_character": 2146,
+      "monster_effect_id": 0,
+      "monster_id": 3414,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        453,
+        321,
+        281,
+        281,
+        610
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40919,
+        41611,
+        41611
+      ],
+      "mintmark_data": [
+        0,
+        130,
+        50,
+        64,
+        64,
+        375
+      ],
+      "monster_learning": [
+        0,
+        254,
+        4,
+        0,
+        0,
+        252
+      ],
+      "monster_move": [
+        31514,
+        25867,
+        25868,
+        31518,
+        31519
+      ],
+      "id": 30,
+      "monster_character": 2146,
+      "monster_effect_id": 0,
+      "monster_id": 3514,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        408,
+        433,
+        281,
+        285,
+        558
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        42049,
+        41609,
+        41609
+      ],
+      "mintmark_data": [
+        0,
+        136,
+        65,
+        59,
+        59,
+        182
+      ],
+      "monster_learning": [
+        0,
+        252,
+        254,
+        0,
+        0,
+        4
+      ],
+      "monster_move": [
+        35826,
+        27941,
+        27942,
+        35830,
+        35831
+      ],
+      "id": 31,
+      "monster_character": 2078,
+      "monster_effect_id": 0,
+      "monster_id": 4361,
+      "monster_lv": 100,
+      "monster_nature": 16,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        325,
+        168,
+        413,
+        281,
+        282,
+        592
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41116,
+        42314,
+        42314
+      ],
+      "mintmark_data": [
+        124,
+        0,
+        78,
+        91,
+        91,
+        341
+      ],
+      "monster_learning": [
+        0,
+        0,
+        254,
+        0,
+        4,
+        252
+      ],
+      "monster_move": [
+        31268,
+        25744,
+        25745,
+        31272,
+        31273
+      ],
+      "id": 32,
+      "monster_character": 2122,
+      "monster_effect_id": 0,
+      "monster_id": 3467,
+      "monster_lv": 100,
+      "monster_nature": 18,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        431,
+        312,
+        285,
+        348,
+        547
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40878,
+        41319,
+        41319
+      ],
+      "mintmark_data": [
+        0,
+        161,
+        38,
+        34,
+        34,
+        323
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        255,
+        0
+      ],
+      "monster_move": [
+        33446,
+        26805,
+        26806,
+        33450,
+        33451
+      ],
+      "id": 33,
+      "monster_character": 2080,
+      "monster_effect_id": 0,
+      "monster_id": 3894,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        186,
+        431,
+        276,
+        268,
+        270,
+        608
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41115,
+        41052,
+        41052
+      ],
+      "mintmark_data": [
+        0,
+        212,
+        30,
+        107,
+        107,
+        79
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        33192,
+        26681,
+        26682,
+        33194,
+        33195
+      ],
+      "id": 34,
+      "monster_character": 2126,
+      "monster_effect_id": 0,
+      "monster_id": 3844,
+      "monster_lv": 100,
+      "monster_nature": 11,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        442,
+        183,
+        306,
+        291,
+        291,
+        584
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        40874,
+        41338,
+        41338
+      ],
+      "mintmark_data": [
+        150,
+        100,
+        30,
+        78,
+        78,
+        306
+      ],
+      "monster_learning": [
+        255,
+        0,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        19356,
+        30546,
+        25379,
+        19360,
+        30548
+      ],
+      "id": 35,
+      "monster_character": 2199,
+      "monster_effect_id": 0,
+      "monster_id": 3328,
+      "monster_lv": 100,
+      "monster_nature": 1,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        164,
+        413,
+        312,
+        250,
+        255,
+        638
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41319,
+        41052,
+        41052
+      ],
+      "mintmark_data": [
+        0,
+        208,
+        0,
+        80,
+        80,
+        115
+      ],
+      "monster_learning": [
+        0,
+        252,
+        2,
+        0,
+        4,
+        252
+      ],
+      "monster_move": [
+        34853,
+        27475,
+        27476,
+        34855,
+        34856
+      ],
+      "id": 36,
+      "monster_character": 2146,
+      "monster_effect_id": 0,
+      "monster_id": 4177,
+      "monster_lv": 100,
+      "monster_nature": 8,
+      "monster_strength": 20,
+      "monster_talent": 31
+    },
+    {
+      "base_data": [
+        168,
+        369,
+        296,
+        266,
+        291,
+        544
+      ],
+      "extra_data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mintmark": [
+        41824,
+        40864,
+        40864
+      ],
+      "mintmark_data": [
+        0,
+        130,
+        86,
+        86,
+        86,
+        262
+      ],
+      "monster_learning": [
+        0,
+        255,
+        0,
+        0,
+        0,
+        255
+      ],
+      "monster_move": [
+        34959,
+        27526,
+        27527,
+        34961,
+        34962
+      ],
+      "id": 37,
+      "monster_character": 2078,
+      "monster_effect_id": 0,
+      "monster_id": 4198,
+      "monster_lv": 100,
+      "monster_nature": 12,
+      "monster_strength": 20,
+      "monster_talent": 31
+    }
+  ]
+}

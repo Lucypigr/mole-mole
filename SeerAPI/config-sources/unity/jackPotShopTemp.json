@@ -1,0 +1,820 @@
+{
+  "root": {
+    "blue_chip_shops": {
+      "bulechip_shop": [
+        {
+          "product_name": "攻击性格转化剂Ω",
+          "product_id": [
+            300675
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13290,
+          "forever": 0,
+          "id": 3,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "特攻性格转化剂Ω",
+          "product_id": [
+            300676
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13291,
+          "forever": 0,
+          "id": 4,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "防御性格转化剂Ω",
+          "product_id": [
+            300677
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13292,
+          "forever": 0,
+          "id": 5,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "特防性格转化剂Ω",
+          "product_id": [
+            300678
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13293,
+          "forever": 0,
+          "id": 6,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "速度性格转化剂Ω",
+          "product_id": [
+            300679
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13294,
+          "forever": 0,
+          "id": 7,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "平衡性格转化剂Ω",
+          "product_id": [
+            300680
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13295,
+          "forever": 0,
+          "id": 8,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "高级活力药剂",
+          "product_id": [
+            300018
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13296,
+          "forever": 0,
+          "id": 9,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "长效体力药剂",
+          "product_id": [
+            300742
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13297,
+          "forever": 0,
+          "id": 10,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "王牌体力药剂Ω",
+          "product_id": [
+            300724
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13429,
+          "forever": 0,
+          "id": 20,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "全能学习力遗忘药剂Ω",
+          "product_id": [
+            300671
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13430,
+          "forever": 0,
+          "id": 21,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "全能学习力注入药剂Ω",
+          "product_id": [
+            300670
+          ],
+          "batch": 50,
+          "endtime": 20281231,
+          "exchange_id": 13431,
+          "forever": 0,
+          "id": 22,
+          "opentime": 20210924,
+          "product_price": 1,
+          "shopkind": 2
+        },
+        {
+          "product_name": "雷暴·利斯塔",
+          "product_id": [
+            3097,
+            34174,
+            5566,
+            41817
+          ],
+          "batch": 1,
+          "endtime": 20260102,
+          "exchange_id": 13970,
+          "forever": 125053,
+          "id": 10001,
+          "opentime": 20240426,
+          "product_price": 25,
+          "shopkind": 1
+        },
+        {
+          "product_name": "利斯塔",
+          "product_id": [
+            3090,
+            34174,
+            5566,
+            41817
+          ],
+          "batch": 1,
+          "endtime": 20260102,
+          "exchange_id": 13971,
+          "forever": 125054,
+          "id": 10002,
+          "opentime": 20240426,
+          "product_price": 20,
+          "shopkind": 1
+        },
+        {
+          "product_name": "利尔",
+          "product_id": [
+            3089,
+            34174,
+            5566,
+            41817
+          ],
+          "batch": 1,
+          "endtime": 20260102,
+          "exchange_id": 14020,
+          "forever": 140035,
+          "id": 10003,
+          "opentime": 20240426,
+          "product_price": 10,
+          "shopkind": 1
+        },
+        {
+          "product_name": "福兽天禄",
+          "product_id": [
+            3313,
+            34174,
+            5566,
+            41817
+          ],
+          "batch": 1,
+          "endtime": 20280426,
+          "exchange_id": 14018,
+          "forever": 140225,
+          "id": 10004,
+          "opentime": 20260102,
+          "product_price": 45,
+          "shopkind": 1
+        },
+        {
+          "product_name": "金瑞福龙",
+          "product_id": [
+            4602,
+            34174,
+            5566,
+            41817
+          ],
+          "batch": 1,
+          "endtime": 20280426,
+          "exchange_id": 14019,
+          "forever": 140226,
+          "id": 10005,
+          "opentime": 20260102,
+          "product_price": 20,
+          "shopkind": 1
+        },
+        {
+          "product_name": "艾拉因子*35",
+          "product_id": [
+            2400476,
+            3501
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 14001,
+          "forever": 0,
+          "id": 20236,
+          "opentime": 20241122,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "苏哥拉底因子*20",
+          "product_id": [
+            2400477,
+            2493
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 14016,
+          "forever": 0,
+          "id": 20237,
+          "opentime": 20241122,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "灵天圣君·萨尔蒙因子*55",
+          "product_id": [
+            2400070,
+            3549
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13732,
+          "forever": 0,
+          "id": 20238,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "X博士奥古斯特因子*55",
+          "product_id": [
+            2400046,
+            3476
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13733,
+          "forever": 0,
+          "id": 20239,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "燃魂巨兽因子*55",
+          "product_id": [
+            2400063,
+            3584
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13734,
+          "forever": 0,
+          "id": 20240,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "诅咒之神·狄修因子*55",
+          "product_id": [
+            2400131,
+            3580
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13735,
+          "forever": 0,
+          "id": 20241,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "狄修因子*40",
+          "product_id": [
+            2400073,
+            3540
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13729,
+          "forever": 0,
+          "id": 20242,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "波西利亚因子*35",
+          "product_id": [
+            2400324,
+            3743
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13730,
+          "forever": 0,
+          "id": 20243,
+          "opentime": 20231229,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "麒麟天女·波西利亚因子*35",
+          "product_id": [
+            2400345,
+            3783
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 13731,
+          "forever": 0,
+          "id": 20244,
+          "opentime": 20240301,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "伽玛·鬼雀因子*35",
+          "product_id": [
+            2400181,
+            3887
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14004,
+          "forever": 0,
+          "id": 20245,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "伽玛·夜煞因子*35",
+          "product_id": [
+            2400182,
+            3893
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14005,
+          "forever": 0,
+          "id": 20246,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "伽玛·悍刀因子*35",
+          "product_id": [
+            2400183,
+            3876
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14006,
+          "forever": 0,
+          "id": 20247,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "怨恚魂王因子*40",
+          "product_id": [
+            2400506,
+            3785
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14007,
+          "forever": 0,
+          "id": 20248,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "魔镰武神因子*35",
+          "product_id": [
+            2400507,
+            3694
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14008,
+          "forever": 0,
+          "id": 20249,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗灵法神因子*35",
+          "product_id": [
+            2400508,
+            3678
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14009,
+          "forever": 0,
+          "id": 20250,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "米修莉因子*35",
+          "product_id": [
+            2400509,
+            3700
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14010,
+          "forever": 0,
+          "id": 20251,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "糖果儿因子*35",
+          "product_id": [
+            2400510,
+            3712
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14011,
+          "forever": 0,
+          "id": 20252,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "狐小媚因子*35",
+          "product_id": [
+            2400511,
+            3717
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14012,
+          "forever": 0,
+          "id": 20253,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "苍天歌因子*35",
+          "product_id": [
+            2400512,
+            3735
+          ],
+          "batch": 20,
+          "endtime": 20261231,
+          "exchange_id": 14013,
+          "forever": 0,
+          "id": 20254,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗岩·格莱奥丹因子*35",
+          "product_id": [
+            2400381,
+            3867
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13977,
+          "forever": 0,
+          "id": 20255,
+          "opentime": 20240705,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗瞳·魔眼凯兮因子*35",
+          "product_id": [
+            2400382,
+            3870
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13978,
+          "forever": 0,
+          "id": 20256,
+          "opentime": 20240705,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗战·艾辛格斯因子*35",
+          "product_id": [
+            2400383,
+            3875
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13979,
+          "forever": 0,
+          "id": 20257,
+          "opentime": 20240705,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗霆·伊修兰迪因子*35",
+          "product_id": [
+            2400384,
+            3879
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13980,
+          "forever": 0,
+          "id": 20258,
+          "opentime": 20240705,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗夜·诺伊尔顿因子*35",
+          "product_id": [
+            2400385,
+            3883
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13981,
+          "forever": 0,
+          "id": 20259,
+          "opentime": 20240705,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗武逆战·艾辛格斯因子*30",
+          "product_id": [
+            2400286,
+            3224
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13972,
+          "forever": 0,
+          "id": 20260,
+          "opentime": 20231006,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗影极夜·诺伊尔顿因子*30",
+          "product_id": [
+            2400287,
+            3261
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13973,
+          "forever": 0,
+          "id": 20261,
+          "opentime": 20231006,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗魇圣瞳·魔眼凯兮因子*30",
+          "product_id": [
+            2400288,
+            3263
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13974,
+          "forever": 0,
+          "id": 20262,
+          "opentime": 20231006,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗地魔影·格莱奥丹因子*30",
+          "product_id": [
+            2400289,
+            3268
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13975,
+          "forever": 0,
+          "id": 20263,
+          "opentime": 20231006,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "暗雷天闪·伊修兰迪因子*30",
+          "product_id": [
+            2400290,
+            3273
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13976,
+          "forever": 0,
+          "id": 20264,
+          "opentime": 20231006,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "鬼蚀豹尊因子*35",
+          "product_id": [
+            2400535,
+            3679
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13992,
+          "forever": 0,
+          "id": 20265,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "恶灵兽因子*50",
+          "product_id": [
+            2400536,
+            1534
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13993,
+          "forever": 0,
+          "id": 20266,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "邪冥兽因子*30",
+          "product_id": [
+            2400537,
+            2620
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13994,
+          "forever": 0,
+          "id": 20267,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "魅·夜翼因子*30",
+          "product_id": [
+            2400538,
+            4057
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13995,
+          "forever": 0,
+          "id": 20268,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "焰·绯云因子*30",
+          "product_id": [
+            2400539,
+            4101
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13996,
+          "forever": 0,
+          "id": 20269,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "冰·寒凌因子*30",
+          "product_id": [
+            2400540,
+            4084
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13997,
+          "forever": 0,
+          "id": 20270,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "清·炫羽因子*30",
+          "product_id": [
+            2400541,
+            4064
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13998,
+          "forever": 0,
+          "id": 20271,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "灵兽·萨尔蒙因子*30",
+          "product_id": [
+            2400542,
+            3303
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13999,
+          "forever": 0,
+          "id": 20272,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "灵宫圣威·萨尔蒙因子*35",
+          "product_id": [
+            2400543,
+            3304
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 14000,
+          "forever": 0,
+          "id": 20273,
+          "opentime": 20260102,
+          "product_price": 1,
+          "shopkind": 5
+        }
+      ],
+      "endday": "1/2",
+      "endtime": "2026/1/2",
+      "openday": "11/28"
+    }
+  }
+}

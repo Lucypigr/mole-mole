@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "草",
+      "pic_id": "grass"
+    },
+    {
+      "id": 2,
+      "name": "水",
+      "pic_id": "water"
+    },
+    {
+      "id": 3,
+      "name": "火",
+      "pic_id": "fire"
+    },
+    {
+      "id": 4,
+      "name": "飞行",
+      "pic_id": "fly"
+    },
+    {
+      "id": 5,
+      "name": "电",
+      "pic_id": "electric"
+    },
+    {
+      "id": 6,
+      "name": "机械",
+      "pic_id": "steel"
+    },
+    {
+      "id": 7,
+      "name": "地面",
+      "pic_id": "ground"
+    },
+    {
+      "id": 9,
+      "name": "冰",
+      "pic_id": "ice"
+    },
+    {
+      "id": 15,
+      "name": "龙",
+      "pic_id": "dragon"
+    },
+    {
+      "id": 999,
+      "name": "无",
+      "pic_id": "none"
+    }
+  ]
+}

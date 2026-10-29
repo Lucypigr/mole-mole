@@ -1,0 +1,222 @@
+{
+  "root": {
+    "red": [
+      {
+        "id": 1,
+        "forwhat": 1
+      },
+      {
+        "id": 3,
+        "forwhat": 1
+      },
+      {
+        "id": 21,
+        "forwhat": 1
+      },
+      {
+        "id": 6,
+        "forwhat": 3
+      },
+      {
+        "id": 2,
+        "forwhat": 1
+      },
+      {
+        "id": 5,
+        "forwhat": 1
+      },
+      {
+        "id": 7,
+        "forwhat": 1
+      },
+      {
+        "id": 8,
+        "forwhat": 1
+      },
+      {
+        "id": 9,
+        "forwhat": 1
+      },
+      {
+        "id": 10,
+        "forwhat": 1
+      },
+      {
+        "id": 11,
+        "forwhat": 1
+      },
+      {
+        "id": 12,
+        "forwhat": 1
+      },
+      {
+        "id": 13,
+        "forwhat": 1
+      },
+      {
+        "id": 14,
+        "forwhat": 1
+      },
+      {
+        "id": 15,
+        "forwhat": 1
+      },
+      {
+        "id": 16,
+        "forwhat": 1
+      },
+      {
+        "id": 17,
+        "forwhat": 1
+      },
+      {
+        "id": 18,
+        "forwhat": 1
+      },
+      {
+        "id": 19,
+        "forwhat": 1
+      },
+      {
+        "id": 45,
+        "forwhat": 1
+      },
+      {
+        "id": 100,
+        "forwhat": 1
+      },
+      {
+        "id": 102,
+        "forwhat": 1
+      },
+      {
+        "id": 27,
+        "forwhat": 3
+      },
+      {
+        "id": 28,
+        "forwhat": 1
+      },
+      {
+        "id": 29,
+        "forwhat": 3
+      },
+      {
+        "id": 30,
+        "forwhat": 1
+      },
+      {
+        "id": 1001,
+        "forwhat": 2
+      },
+      {
+        "id": 1002,
+        "forwhat": 2
+      },
+      {
+        "id": 1003,
+        "forwhat": 2
+      },
+      {
+        "id": 1004,
+        "forwhat": 2
+      },
+      {
+        "id": 1005,
+        "forwhat": 2
+      },
+      {
+        "id": 1006,
+        "forwhat": 2
+      },
+      {
+        "id": 2001,
+        "forwhat": 3
+      },
+      {
+        "id": 2011,
+        "forwhat": 3
+      },
+      {
+        "id": 2012,
+        "forwhat": 3
+      },
+      {
+        "id": 2013,
+        "forwhat": 3
+      },
+      {
+        "id": 2014,
+        "forwhat": 3
+      },
+      {
+        "id": 2018,
+        "forwhat": 3
+      },
+      {
+        "id": 2019,
+        "forwhat": 3
+      },
+      {
+        "id": 2015,
+        "forwhat": 2
+      },
+      {
+        "id": 2016,
+        "forwhat": 2
+      },
+      {
+        "id": 2017,
+        "forwhat": 2
+      },
+      {
+        "id": 3001,
+        "forwhat": 2
+      },
+      {
+        "id": 3002,
+        "forwhat": 2
+      },
+      {
+        "id": 3003,
+        "forwhat": 2
+      },
+      {
+        "id": 3004,
+        "forwhat": 2
+      },
+      {
+        "id": 3005,
+        "forwhat": 2
+      },
+      {
+        "id": 3006,
+        "forwhat": 2
+      },
+      {
+        "id": 3101,
+        "forwhat": 2
+      },
+      {
+        "id": 3102,
+        "forwhat": 2
+      },
+      {
+        "id": 3103,
+        "forwhat": 2
+      },
+      {
+        "id": 3104,
+        "forwhat": 2
+      },
+      {
+        "id": 3105,
+        "forwhat": 2
+      },
+      {
+        "id": 3106,
+        "forwhat": 2
+      }
+    ]
+  }
+}

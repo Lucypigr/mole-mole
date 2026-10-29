@@ -1,0 +1,382 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "index": 1,
+      "monster_data": "400_200_150_200_250_1000",
+      "monster_id": 2525,
+      "monster_intro": "拥有创世圣剑之名的他无视对手的双防能力强化等级，给予敌人重创",
+      "monster_move": "",
+      "monster_newse": "1526"
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "monster_data": "200_300_150_200_250_1000",
+      "monster_id": 2519,
+      "monster_intro": "拥有创世圣盾之名的他创造无穷无尽的护盾，抵挡敌人的攻击伤害",
+      "monster_move": "",
+      "monster_newse": "3221"
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "monster_data": "300_200_150_400_250_1000",
+      "monster_id": 2510,
+      "monster_intro": "拥有创世圣甲之名的他能够减少受到的攻击伤害并反弹致命一击，在猛烈攻势下岿然不动",
+      "monster_move": "",
+      "monster_newse": "1560_2895"
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "monster_data": "300_200_150_200_250_2000",
+      "monster_id": 2497,
+      "monster_intro": "拥有创世圣戒之名的他擅长迅速治疗自身的伤势，消耗敌人的耐力",
+      "monster_move": "",
+      "monster_newse": "3109"
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "monster_data": "300_200_150_200_350_750",
+      "monster_id": 2489,
+      "monster_intro": "拥有创世圣翼之名的他可以与敌人展开周旋，轻易回避对手的攻击",
+      "monster_move": "16216_23422_16217_16218",
+      "monster_newse": "2331"
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "monster_data": "150_200_400_200_250_1500",
+      "monster_id": 2488,
+      "monster_intro": "拥有创世圣弓之名的他拥有百步穿杨的能力，攻击必定命中",
+      "monster_move": "",
+      "monster_newse": "1678"
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "monster_data": "350_180_150_180_251_1200",
+      "monster_id": 2907,
+      "monster_intro": "魔誓军团的将领，久经沙场的他所有攻击都无视对手的防御强化且必定致命",
+      "monster_move": "",
+      "monster_newse": "1526_2292"
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "monster_data": "300_400_150_200_251_1500",
+      "monster_id": 2906,
+      "monster_intro": "魔誓军团的将领，他的攻击可以使敌人烧伤，贸然攻击他会被强雷所麻痹",
+      "monster_move": "",
+      "monster_newse": "2662_1525"
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "monster_data": "300_200_150_400_251_1200",
+      "monster_id": 2912,
+      "monster_intro": "魔誓军团的将领，他隐匿于无尽黑暗之中，普通的攻击无法命中，敌人将逐渐恐惧",
+      "monster_move": "18104_18103_24439_24438_18101",
+      "monster_newse": "2331_1219"
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "monster_data": "300_200_150_200_251_2000",
+      "monster_id": 2922,
+      "monster_intro": "魔誓军团的将领，神光之下对手的行动速度与命中能力会不断下降。",
+      "monster_move": "",
+      "monster_newse": "1595"
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "monster_data": "300_200_150_200_351_1500",
+      "monster_id": 3411,
+      "monster_intro": "魔誓军团曾经的首领，拥有着将对手的属性技能完全无效的恐怖威压",
+      "monster_move": "",
+      "monster_newse": "1832"
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "monster_data": "200_200_350_200_251_1000",
+      "monster_id": 3518,
+      "monster_intro": "魔誓军团的首领，黑暗的魔法千变万化，敌人只能在他的剧本下起舞",
+      "monster_move": "",
+      "monster_newse": "1644_1918_1919"
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "monster_data": "400_200_150_200_350_1500",
+      "monster_id": 2197,
+      "monster_intro": "波克尔的超进化形态，在光与暗的分叉口获得了不同的两种力量",
+      "monster_move": "",
+      "monster_newse": "2450_2508"
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "monster_data": "400_200_150_200_350_1500",
+      "monster_id": 2336,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2331_1219"
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "monster_data": "400_200_150_200_352_1500",
+      "monster_id": 2342,
+      "monster_intro": "史莱姆的突破形态，在烈焰与疾风中获得了全新的蜕变",
+      "monster_move": "",
+      "monster_newse": "2320_2331"
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "monster_data": "150_200_400_200_452_1500",
+      "monster_id": 2358,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2320_2331"
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "monster_data": "400_200_150_200_352_1500",
+      "monster_id": 3442,
+      "monster_intro": "混沌教派的神侍，用灾难与毁灭传达着他们的教义",
+      "monster_move": "",
+      "monster_newse": "2292_2508"
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "monster_data": "400_200_150_200_252_1500",
+      "monster_id": 3446,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2375_2508"
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "monster_data": "400_200_150_200_253_1500",
+      "monster_id": 2580,
+      "monster_intro": "战神与斗神，为贯彻自己的武道而不断精进",
+      "monster_move": "",
+      "monster_newse": "1832"
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "monster_data": "500_200_150_200_253_1000",
+      "monster_id": 2780,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "1469"
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "monster_data": "350_200_150_400_353_1200",
+      "monster_id": 3562,
+      "monster_intro": "咒怨与死魂，在他们的身边围绕，将讨伐者送入坟墓",
+      "monster_move": "",
+      "monster_newse": "2940"
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "monster_data": "150_200_400_200_353_1200",
+      "monster_id": 2648,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2648"
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "monster_data": "400_200_150_200_353_2000",
+      "monster_id": 2652,
+      "monster_intro": "乌云蔽日，大暗黑天。天难齐出，万物恸哭。",
+      "monster_move": "",
+      "monster_newse": "2934"
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "monster_data": "150_200_400_200_353_1000",
+      "monster_id": 2695,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934"
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "monster_data": "150_200_300_200_254_2000",
+      "monster_id": 2597,
+      "monster_intro": "宇宙旅行团又回来啦，让你看看他们如今厉害！",
+      "monster_move": "",
+      "monster_newse": "2934_3109"
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "monster_data": "150_200_350_200_254_1500",
+      "monster_id": 2603,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1832"
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "monster_data": "300_200_150_400_554_2500",
+      "monster_id": 2609,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_2331"
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "monster_data": "350_200_150_200_454_2500",
+      "monster_id": 3473,
+      "monster_intro": "邪恶的X博士，又将开启他那惨无人道的试验。",
+      "monster_move": "",
+      "monster_newse": "2934_1608"
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "monster_data": "400_200_150_200_354_2500",
+      "monster_id": 3472,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1608"
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "monster_data": "150_200_400_200_354_3000",
+      "monster_id": 3476,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1469"
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "monster_data": "400_200_150_200_255_1500",
+      "monster_id": 3709,
+      "monster_intro": "灰之时代，一去不复返。那么妖族的复兴呢？也一样吗？",
+      "monster_move": "",
+      "monster_newse": "2934_3023"
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "monster_data": "300_400_150_200_255_1500",
+      "monster_id": 3698,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_3023"
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "monster_data": "200_200_400_200_300_2000",
+      "monster_id": 3686,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1565"
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "monster_data": "300_200_150_200_255_2000",
+      "monster_id": 3924,
+      "monster_intro": "没人有能力背负起那些逝去的生命，生者只能一如既往负重前行。",
+      "monster_move": "",
+      "monster_newse": "2934_2433"
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "monster_data": "300_200_150_200_355_2000",
+      "monster_id": 3907,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_2375"
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "monster_data": "150_200_400_200_255_2500",
+      "monster_id": 4001,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_3023_1865"
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "monster_data": "400_200_150_200_256_2000",
+      "monster_id": 4048,
+      "monster_intro": "六界神谕归位，斩魔，除魔，净魔，泰坦星域，又将是一片和平。",
+      "monster_move": "",
+      "monster_newse": "2934_2320"
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "monster_data": "300_400_150_200_256_2000",
+      "monster_id": 4050,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1608"
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "monster_data": "300_200_150_400_256_3000",
+      "monster_id": 4032,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1560"
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "monster_data": "300_200_150_200_256_2000",
+      "monster_id": 3437,
+      "monster_intro": "被群星祝福的孩子，来送出她的礼物了。",
+      "monster_move": "",
+      "monster_newse": "2934_219"
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "monster_data": "300_200_150_200_356_4000",
+      "monster_id": 3022,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_3605"
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "monster_data": "150_200_400_200_256_2000",
+      "monster_id": 4338,
+      "monster_intro": "",
+      "monster_move": "",
+      "monster_newse": "2934_1832_1469"
+    }
+  ]
+}

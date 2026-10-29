@@ -1,0 +1,109 @@
+{
+  "id": 1616,
+  "args_num": 0,
+  "info": "当回合使用的技能克制对手时获得本系属性加成",
+  "info_formatting_adjustment": null,
+  "analyze_info": "[sprite name=iconInherent][color=#52a5f2]当回合[/color]使用的技能克制对手时获得本系属性加成",
+  "pve_effective": false,
+  "param": null,
+  "skill": [
+    {
+      "id": 34528,
+      "url": "https://api.seerapi.com/v1/skill/34528"
+    },
+    {
+      "id": 34529,
+      "url": "https://api.seerapi.com/v1/skill/34529"
+    },
+    {
+      "id": 34530,
+      "url": "https://api.seerapi.com/v1/skill/34530"
+    },
+    {
+      "id": 34531,
+      "url": "https://api.seerapi.com/v1/skill/34531"
+    },
+    {
+      "id": 36419,
+      "url": "https://api.seerapi.com/v1/skill/36419"
+    },
+    {
+      "id": 36420,
+      "url": "https://api.seerapi.com/v1/skill/36420"
+    },
+    {
+      "id": 37210,
+      "url": "https://api.seerapi.com/v1/skill/37210"
+    },
+    {
+      "id": 37462,
+      "url": "https://api.seerapi.com/v1/skill/37462"
+    },
+    {
+      "id": 37463,
+      "url": "https://api.seerapi.com/v1/skill/37463"
+    },
+    {
+      "id": 38286,
+      "url": "https://api.seerapi.com/v1/skill/38286"
+    },
+    {
+      "id": 38307,
+      "url": "https://api.seerapi.com/v1/skill/38307"
+    },
+    {
+      "id": 38424,
+      "url": "https://api.seerapi.com/v1/skill/38424"
+    },
+    {
+      "id": 38554,
+      "url": "https://api.seerapi.com/v1/skill/38554"
+    },
+    {
+      "id": 38555,
+      "url": "https://api.seerapi.com/v1/skill/38555"
+    },
+    {
+      "id": 38556,
+      "url": "https://api.seerapi.com/v1/skill/38556"
+    },
+    {
+      "id": 38557,
+      "url": "https://api.seerapi.com/v1/skill/38557"
+    },
+    {
+      "id": 38558,
+      "url": "https://api.seerapi.com/v1/skill/38558"
+    },
+    {
+      "id": 38559,
+      "url": "https://api.seerapi.com/v1/skill/38559"
+    },
+    {
+      "id": 38560,
+      "url": "https://api.seerapi.com/v1/skill/38560"
+    },
+    {
+      "id": 38561,
+      "url": "https://api.seerapi.com/v1/skill/38561"
+    },
+    {
+      "id": 38562,
+      "url": "https://api.seerapi.com/v1/skill/38562"
+    },
+    {
+      "id": 38563,
+      "url": "https://api.seerapi.com/v1/skill/38563"
+    },
+    {
+      "id": 38564,
+      "url": "https://api.seerapi.com/v1/skill/38564"
+    },
+    {
+      "id": 38565,
+      "url": "https://api.seerapi.com/v1/skill/38565"
+    }
+  ],
+  "tag": [],
+  "hash": "e7c4e95d"
+}

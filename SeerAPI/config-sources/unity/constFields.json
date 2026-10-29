@@ -1,0 +1,13 @@
+{
+  "root": {
+    "item": [
+      {
+        "const_class_name": "ChannelConst",
+        "id": 1,
+        "key_field": "name",
+        "table_name": "channel",
+        "value_field": "name"
+      }
+    ]
+  }
+}

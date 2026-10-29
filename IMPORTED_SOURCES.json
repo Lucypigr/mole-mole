@@ -1,0 +1,110 @@
+{
+  "description": "Source snapshots copied without Git history. Original license files are preserved. No changes were made to upstream repositories.",
+  "sources": [
+    {
+      "path": "kose_seer",
+      "url": "https://github.com/BaiSugar/kose_seer.git",
+      "commit": "fda0e32bf16fa73e3cadf0dac94a022a617aa211",
+      "files": 886,
+      "bytes": 8396232
+    },
+    {
+      "path": "SeerAPI/.github",
+      "url": "https://github.com/SeerAPI/.github.git",
+      "commit": "d4b8779014ee20a101b24d5790f63bd588982c75",
+      "files": 2,
+      "bytes": 7921
+    },
+    {
+      "path": "SeerAPI/albi0",
+      "url": "https://github.com/SeerAPI/albi0.git",
+      "commit": "bf66b160492f59f9a7eee88f918c9265bfa69a26",
+      "files": 36,
+      "bytes": 284654
+    },
+    {
+      "path": "SeerAPI/api-data",
+      "url": "https://github.com/SeerAPI/api-data.git",
+      "commit": "344986b895b7c36c240103cec96a23139abb2721",
+      "files": 158412,
+      "bytes": 297919218
+    },
+    {
+      "path": "SeerAPI/config-sources",
+      "url": "https://github.com/SeerAPI/config-sources.git",
+      "commit": "46848ea3c981f9818ca743b2e4a4c82a4c4c553f",
+      "files": 985,
+      "bytes": 178418786
+    },
+    {
+      "path": "SeerAPI/data-update-workflows",
+      "url": "https://github.com/SeerAPI/data-update-workflows.git",
+      "commit": "f8faf8d22e8567a968f41ddcf46217034f4f5e86",
+      "files": 14,
+      "bytes": 67947
+    },
+    {
+      "path": "SeerAPI/eo-seerapi",
+      "url": "https://github.com/SeerAPI/eo-seerapi.git",
+      "commit": "dbfae727ae1143e07e5958a06be35302c38c50b1",
+      "files": 18,
+      "bytes": 524136
+    },
+    {
+      "path": "SeerAPI/patch-sources",
+      "url": "https://github.com/SeerAPI/patch-sources.git",
+      "commit": "c6477623288e3fb7a310a0cc8fe4b83f2f913f31",
+      "files": 19,
+      "bytes": 15596
+    },
+    {
+      "path": "SeerAPI/seer-unity-assets",
+      "url": "https://github.com/SeerAPI/seer-unity-assets.git",
+      "commit": "946f364dbe4835dd47dda3023ec9931f5a772cd2",
+      "files": 42438,
+      "bytes": 3496625403
+    },
+    {
+      "path": "SeerAPI/seer-unity-assets-pet_anim_part",
+      "url": "https://github.com/SeerAPI/seer-unity-assets-pet_anim_part.git",
+      "commit": "10483444c438cc0ff5046886ae939978bf348551",
+      "files": 567,
+      "bytes": 5066115550
+    },
+    {
+      "path": "SeerAPI/seerapi",
+      "url": "https://github.com/SeerAPI/seerapi.git",
+      "commit": "f03370471f9b52004f2fa51002f3d97f5a4f79a9",
+      "files": 481,
+      "bytes": 19626805
+    },
+    {
+      "path": "SeerAPI/seerapi-models",
+      "url": "https://github.com/SeerAPI/seerapi-models.git",
+      "commit": "644231def1f52643394c775ae71975b231455d60",
+      "files": 42,
+      "bytes": 287800
+    },
+    {
+      "path": "SeerAPI/seerapi-python",
+      "url": "https://github.com/SeerAPI/seerapi-python.git",
+      "commit": "000ee94f42eed060c3e6173634a53cc3c3289a87",
+      "files": 17,
+      "bytes": 186777
+    },
+    {
+      "path": "SeerAPI/seerapi-ts",
+      "url": "https://github.com/SeerAPI/seerapi-ts.git",
+      "commit": "963f746fb5288849c3edbc8fec06c353aa027e44",
+      "files": 31,
+      "bytes": 476386
+    },
+    {
+      "path": "SeerAPI/solaris",
+      "url": "https://github.com/SeerAPI/solaris.git",
+      "commit": "01654b35ee0044767000da7d6b0639458b0e10fd",
+      "files": 154,
+      "bytes": 721134
+    }
+  ]
+}

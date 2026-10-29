@@ -1,0 +1,330 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "suit_id": 165,
+      "suit_part_id": [
+        100644,
+        100645,
+        100646,
+        100647,
+        100648
+      ],
+      "suit_price": 3850,
+      "vip_only": 0
+    },
+    {
+      "id": 2,
+      "suit_id": 137,
+      "suit_part_id": [
+        100504,
+        100505,
+        100506,
+        100507
+      ],
+      "suit_price": 7000,
+      "vip_only": 0
+    },
+    {
+      "id": 3,
+      "suit_id": 92,
+      "suit_part_id": [
+        100320,
+        100321,
+        100322,
+        100323
+      ],
+      "suit_price": 0,
+      "vip_only": 0
+    },
+    {
+      "id": 4,
+      "suit_id": 75,
+      "suit_part_id": [
+        100274,
+        100275,
+        100276,
+        100277
+      ],
+      "suit_price": 3350,
+      "vip_only": 0
+    },
+    {
+      "id": 5,
+      "suit_id": 76,
+      "suit_part_id": [
+        100278,
+        100279,
+        100280,
+        100281
+      ],
+      "suit_price": 3400,
+      "vip_only": 0
+    },
+    {
+      "id": 6,
+      "suit_id": 66,
+      "suit_part_id": [
+        100246,
+        100247,
+        100248,
+        100249
+      ],
+      "suit_price": 3100,
+      "vip_only": 0
+    },
+    {
+      "id": 7,
+      "suit_id": 67,
+      "suit_part_id": [
+        100250,
+        100251,
+        100252,
+        100253
+      ],
+      "suit_price": 3600,
+      "vip_only": 0
+    },
+    {
+      "id": 8,
+      "suit_id": 56,
+      "suit_part_id": [
+        100229,
+        100230,
+        100231,
+        100232
+      ],
+      "suit_price": 3300,
+      "vip_only": 0
+    },
+    {
+      "id": 9,
+      "suit_id": 54,
+      "suit_part_id": [
+        100215,
+        100216,
+        100217,
+        100218
+      ],
+      "suit_price": 3400,
+      "vip_only": 0
+    },
+    {
+      "id": 10,
+      "suit_id": 55,
+      "suit_part_id": [
+        100225,
+        100226,
+        100227,
+        100228
+      ],
+      "suit_price": 3200,
+      "vip_only": 0
+    },
+    {
+      "id": 11,
+      "suit_id": 44,
+      "suit_part_id": [
+        100198,
+        100199,
+        100200,
+        100201
+      ],
+      "suit_price": 3200,
+      "vip_only": 0
+    },
+    {
+      "id": 12,
+      "suit_id": 7,
+      "suit_part_id": [
+        100048,
+        100049,
+        100050,
+        100051
+      ],
+      "suit_price": 0,
+      "vip_only": 0
+    },
+    {
+      "id": 13,
+      "suit_id": 111,
+      "suit_part_id": [
+        100801,
+        100802,
+        100803,
+        100804
+      ],
+      "suit_price": 4600,
+      "vip_only": 1
+    },
+    {
+      "id": 14,
+      "suit_id": 112,
+      "suit_part_id": [
+        100805,
+        100806,
+        100807,
+        100808
+      ],
+      "suit_price": 6700,
+      "vip_only": 1
+    },
+    {
+      "id": 15,
+      "suit_id": 110,
+      "suit_part_id": [
+        100797,
+        100798,
+        100799,
+        100800
+      ],
+      "suit_price": 8600,
+      "vip_only": 1
+    },
+    {
+      "id": 16,
+      "suit_id": 144,
+      "suit_part_id": [
+        100809,
+        100810,
+        100811,
+        100812
+      ],
+      "suit_price": 8600,
+      "vip_only": 1
+    },
+    {
+      "id": 17,
+      "suit_id": 93,
+      "suit_part_id": [
+        100793,
+        100794,
+        100795,
+        100796
+      ],
+      "suit_price": 4600,
+      "vip_only": 1
+    },
+    {
+      "id": 18,
+      "suit_id": 30,
+      "suit_part_id": [
+        100780,
+        100781,
+        100782,
+        100783,
+        100784
+      ],
+      "suit_price": 5500,
+      "vip_only": 1
+    },
+    {
+      "id": 19,
+      "suit_id": 89,
+      "suit_part_id": [
+        100785,
+        100786,
+        100787,
+        100788
+      ],
+      "suit_price": 4600,
+      "vip_only": 1
+    },
+    {
+      "id": 20,
+      "suit_id": 91,
+      "suit_part_id": [
+        100789,
+        100790,
+        100791,
+        100792
+      ],
+      "suit_price": 4000,
+      "vip_only": 1
+    },
+    {
+      "id": 21,
+      "suit_id": 79,
+      "suit_part_id": [
+        100772,
+        100773,
+        100774,
+        100775
+      ],
+      "suit_price": 5100,
+      "vip_only": 1
+    },
+    {
+      "id": 22,
+      "suit_id": 78,
+      "suit_part_id": [
+        100768,
+        100769,
+        100770,
+        100771
+      ],
+      "suit_price": 4100,
+      "vip_only": 1
+    },
+    {
+      "id": 23,
+      "suit_id": 77,
+      "suit_part_id": [
+        100764,
+        100765,
+        100766,
+        100767
+      ],
+      "suit_price": 4200,
+      "vip_only": 1
+    },
+    {
+      "id": 24,
+      "suit_id": 68,
+      "suit_part_id": [
+        100751,
+        100752,
+        100753,
+        100754
+      ],
+      "suit_price": 3900,
+      "vip_only": 1
+    },
+    {
+      "id": 25,
+      "suit_id": 70,
+      "suit_part_id": [
+        100759,
+        100760,
+        100761,
+        100762
+      ],
+      "suit_price": 4900,
+      "vip_only": 1
+    },
+    {
+      "id": 26,
+      "suit_id": 69,
+      "suit_part_id": [
+        100755,
+        100756,
+        100757,
+        100758
+      ],
+      "suit_price": 3700,
+      "vip_only": 1
+    },
+    {
+      "id": 27,
+      "suit_id": 57,
+      "suit_part_id": [
+        100727,
+        100728,
+        100729,
+        100730
+      ],
+      "suit_price": 3200,
+      "vip_only": 1
+    }
+  ]
+}

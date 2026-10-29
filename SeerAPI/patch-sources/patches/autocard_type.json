@@ -1,0 +1,12 @@
+{
+  "type": "patch",
+  "target": "autocard_type.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "1": { "id": 1, "name": "精灵卡" },
+    "2": { "id": 2, "name": "魔法卡" },
+    "3": { "id": 3, "name": "衍生精灵卡" },
+    "4": { "id": 4, "name": "衍生魔法卡" }
+  }
+}

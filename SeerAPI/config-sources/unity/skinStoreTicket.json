@@ -1,0 +1,28 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "itemid": 1727936,
+      "para": [],
+      "product_id": 0,
+      "tickettype": 1
+    },
+    {
+      "id": 2,
+      "itemid": 1727937,
+      "para": [
+        701,
+        703
+      ],
+      "product_id": 0,
+      "tickettype": 3
+    },
+    {
+      "id": 3,
+      "itemid": 1727934,
+      "para": [],
+      "product_id": 262337,
+      "tickettype": 0
+    }
+  ]
+}

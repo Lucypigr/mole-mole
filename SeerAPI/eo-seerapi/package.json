@@ -1,0 +1,22 @@
+{
+  "name": "eo-seerapi",
+  "version": "1.0.0",
+  "description": "SeerAPI主服务，部署在腾讯云EdgeOne Pages上",
+  "license": "MIT",
+  "author": "Nattsu39",
+  "type": "module",
+  "scripts": {
+    "generate:cache": "node scripts/build_cache_manifest.js",
+    "postgenerate:cache": "node scripts/check_middleware_bundle.js",
+    "prebuild": "npm run generate:cache",
+    "build": "node scripts/build_api_reference.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.13"
+  },
+  "dependencies": {
+    "edgeone": "^1.6.14"
+  }
+}

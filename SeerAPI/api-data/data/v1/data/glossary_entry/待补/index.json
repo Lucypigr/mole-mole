@@ -1,0 +1,169 @@
+{
+  "data": {
+    "55": {
+      "id": 55,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 4004,
+          "url": "https://api.seerapi.com/v1/pet/4004"
+        }
+      ]
+    },
+    "92": {
+      "id": 92,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 3661,
+          "url": "https://api.seerapi.com/v1/pet/3661"
+        }
+      ]
+    },
+    "101": {
+      "id": 101,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 3577,
+          "url": "https://api.seerapi.com/v1/pet/3577"
+        }
+      ]
+    },
+    "109": {
+      "id": 109,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": null
+    },
+    "115": {
+      "id": 115,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 2,
+      "link": null,
+      "pet": null
+    },
+    "157": {
+      "id": 157,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 4321,
+          "url": "https://api.seerapi.com/v1/pet/4321"
+        }
+      ]
+    },
+    "158": {
+      "id": 158,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 4321,
+          "url": "https://api.seerapi.com/v1/pet/4321"
+        },
+        {
+          "id": 4400,
+          "url": "https://api.seerapi.com/v1/pet/4400"
+        }
+      ]
+    },
+    "164": {
+      "id": 164,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 4361,
+          "url": "https://api.seerapi.com/v1/pet/4361"
+        }
+      ]
+    },
+    "165": {
+      "id": 165,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": null
+    },
+    "168": {
+      "id": 168,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 4355,
+          "url": "https://api.seerapi.com/v1/pet/4355"
+        }
+      ]
+    },
+    "169": {
+      "id": 169,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": [
+        {
+          "id": 4355,
+          "url": "https://api.seerapi.com/v1/pet/4355"
+        }
+      ]
+    },
+    "172": {
+      "id": 172,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": null
+    },
+    "225": {
+      "id": 225,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": null
+    },
+    "314": {
+      "id": 314,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 4,
+      "link": null,
+      "pet": null
+    },
+    "384": {
+      "id": 384,
+      "name": "待补",
+      "desc": "待补",
+      "kind": 1,
+      "link": null,
+      "pet": null
+    }
+  },
+  "hash": "51b7d533"
+}

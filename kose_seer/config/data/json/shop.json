@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productID": 240035,
+      "itemID": 300001,
+      "price": 100,
+      "vip": 0.8,
+      "gold": 0,
+      "description": "示例商品1 - 普通商品"
+    },
+    {
+      "productID": 240036,
+      "itemID": 300002,
+      "price": 200,
+      "vip": 0.7,
+      "gold": 50,
+      "description": "示例商品2 - 赠送50赛尔豆"
+    },
+    {
+      "productID": 240037,
+      "itemID": 300003,
+      "price": 500,
+      "vip": 0.6,
+      "gold": 100,
+      "description": "示例商品3 - VIP 6折，赠送100赛尔豆"
+    }
+  ]
+}

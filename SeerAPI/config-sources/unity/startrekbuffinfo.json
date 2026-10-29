@@ -1,0 +1,344 @@
+{
+  "item": [
+    {
+      "buff_desc": "增加所有精灵%s防御",
+      "buff_name": "铁壁Ⅰ",
+      "basic_value": [
+        100
+      ],
+      "buff_id": 1,
+      "buff_pond_id": 1,
+      "id": 1
+    },
+    {
+      "buff_desc": "增加所有精灵%s特防",
+      "buff_name": "魔盾Ⅰ",
+      "basic_value": [
+        100
+      ],
+      "buff_id": 2,
+      "buff_pond_id": 1,
+      "id": 2
+    },
+    {
+      "buff_desc": "增加所有精灵%s速度",
+      "buff_name": "神速Ⅰ",
+      "basic_value": [
+        200
+      ],
+      "buff_id": 3,
+      "buff_pond_id": 1,
+      "id": 3
+    },
+    {
+      "buff_desc": "增加所有精灵%s攻击",
+      "buff_name": "力量号角Ⅰ",
+      "basic_value": [
+        500
+      ],
+      "buff_id": 4,
+      "buff_pond_id": 1,
+      "id": 4
+    },
+    {
+      "buff_desc": "增加所有精灵%s特攻",
+      "buff_name": "魔法号角Ⅰ",
+      "basic_value": [
+        500
+      ],
+      "buff_id": 5,
+      "buff_pond_id": 1,
+      "id": 5
+    },
+    {
+      "buff_desc": "增加所有精灵%s体力",
+      "buff_name": "体魄Ⅰ",
+      "basic_value": [
+        1000
+      ],
+      "buff_id": 6,
+      "buff_pond_id": 1,
+      "id": 6
+    },
+    {
+      "buff_desc": "战斗开始前，恢复所有精灵1/4体力",
+      "buff_name": "战斗意志",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 7,
+      "buff_pond_id": 1,
+      "id": 7
+    },
+    {
+      "buff_desc": "战斗结束后，恢复所有精灵1/4体力",
+      "buff_name": "战斗续行",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 8,
+      "buff_pond_id": 1,
+      "id": 8
+    },
+    {
+      "buff_desc": "每次战斗胜利后，增加所有精灵%s%攻击、特攻",
+      "buff_name": "吞噬者",
+      "basic_value": [
+        10
+      ],
+      "buff_id": 9,
+      "buff_pond_id": 1,
+      "id": 9
+    },
+    {
+      "buff_desc": "每次战斗胜利后，增加所有精灵%s%防御、特防",
+      "buff_name": "铁骑士",
+      "basic_value": [
+        5
+      ],
+      "buff_id": 10,
+      "buff_pond_id": 1,
+      "id": 10
+    },
+    {
+      "buff_desc": "战斗结束后，恢复所有精灵3点PP",
+      "buff_name": "补给箱",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 11,
+      "buff_pond_id": 1,
+      "id": 11
+    },
+    {
+      "buff_desc": "增加所有精灵%s防御",
+      "buff_name": "铁壁Ⅱ",
+      "basic_value": [
+        200
+      ],
+      "buff_id": 12,
+      "buff_pond_id": 2,
+      "id": 12
+    },
+    {
+      "buff_desc": "增加所有精灵%s特防",
+      "buff_name": "魔盾Ⅱ",
+      "basic_value": [
+        200
+      ],
+      "buff_id": 13,
+      "buff_pond_id": 2,
+      "id": 13
+    },
+    {
+      "buff_desc": "增加所有精灵%s速度",
+      "buff_name": "神速Ⅱ",
+      "basic_value": [
+        500
+      ],
+      "buff_id": 14,
+      "buff_pond_id": 2,
+      "id": 14
+    },
+    {
+      "buff_desc": "增加所有精灵%s攻击",
+      "buff_name": "力量号角Ⅱ",
+      "basic_value": [
+        1200
+      ],
+      "buff_id": 15,
+      "buff_pond_id": 2,
+      "id": 15
+    },
+    {
+      "buff_desc": "增加所有精灵%s特攻",
+      "buff_name": "魔法号角Ⅱ",
+      "basic_value": [
+        1200
+      ],
+      "buff_id": 16,
+      "buff_pond_id": 2,
+      "id": 16
+    },
+    {
+      "buff_desc": "增加所有精灵%s体力",
+      "buff_name": "体魄Ⅱ",
+      "basic_value": [
+        3000
+      ],
+      "buff_id": 17,
+      "buff_pond_id": 2,
+      "id": 17
+    },
+    {
+      "buff_desc": "增加所有精灵%s%体力",
+      "buff_name": "小巨人",
+      "basic_value": [
+        200
+      ],
+      "buff_id": 18,
+      "buff_pond_id": 2,
+      "id": 18
+    },
+    {
+      "buff_desc": "每次战斗胜利后，增加所有精灵%s体力",
+      "buff_name": "血魔石",
+      "basic_value": [
+        1000
+      ],
+      "buff_id": 19,
+      "buff_pond_id": 2,
+      "id": 19
+    },
+    {
+      "buff_desc": "增加我方战败所有精灵属性总和20%的对应属性",
+      "buff_name": "继承者",
+      "basic_value": [
+        10
+      ],
+      "buff_id": 20,
+      "buff_pond_id": 2,
+      "id": 20
+    },
+    {
+      "buff_desc": "每次战斗胜利后，恢复所有精灵1/4体力、2点PP",
+      "buff_name": "能源补给",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 21,
+      "buff_pond_id": 2,
+      "id": 21
+    },
+    {
+      "buff_desc": "战斗开始前，恢复所有精灵1/3体力，若玩家持有月之石，则恢复效果翻倍",
+      "buff_name": "日之石",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 22,
+      "buff_pond_id": 2,
+      "id": 22
+    },
+    {
+      "buff_desc": "战斗结束后，恢复所有精灵5点PP，若玩家持有日之石，则恢复效果翻倍",
+      "buff_name": "月之石",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 23,
+      "buff_pond_id": 2,
+      "id": 23
+    },
+    {
+      "buff_desc": "增加所有精灵%s防御",
+      "buff_name": "铁壁Ⅲ",
+      "basic_value": [
+        300
+      ],
+      "buff_id": 24,
+      "buff_pond_id": 3,
+      "id": 24
+    },
+    {
+      "buff_desc": "增加所有精灵%s特防",
+      "buff_name": "魔盾Ⅲ",
+      "basic_value": [
+        300
+      ],
+      "buff_id": 25,
+      "buff_pond_id": 3,
+      "id": 25
+    },
+    {
+      "buff_desc": "增加所有精灵%s速度",
+      "buff_name": "神速Ⅲ",
+      "basic_value": [
+        2000
+      ],
+      "buff_id": 26,
+      "buff_pond_id": 3,
+      "id": 26
+    },
+    {
+      "buff_desc": "增加所有精灵%s攻击",
+      "buff_name": "力量号角Ⅲ",
+      "basic_value": [
+        3000
+      ],
+      "buff_id": 27,
+      "buff_pond_id": 3,
+      "id": 27
+    },
+    {
+      "buff_desc": "增加所有精灵%s特攻",
+      "buff_name": "魔法号角Ⅲ",
+      "basic_value": [
+        3000
+      ],
+      "buff_id": 28,
+      "buff_pond_id": 3,
+      "id": 28
+    },
+    {
+      "buff_desc": "增加所有精灵%s体力",
+      "buff_name": "体魄Ⅲ",
+      "basic_value": [
+        10000
+      ],
+      "buff_id": 29,
+      "buff_pond_id": 3,
+      "id": 29
+    },
+    {
+      "buff_desc": "增加所有精灵%s%防御、特防",
+      "buff_name": "坚如磐石",
+      "basic_value": [
+        50
+      ],
+      "buff_id": 30,
+      "buff_pond_id": 3,
+      "id": 30
+    },
+    {
+      "buff_desc": "每次战斗胜利后，增加所有出战精灵10%体力",
+      "buff_name": "长者",
+      "basic_value": [
+        500
+      ],
+      "buff_id": 31,
+      "buff_pond_id": 3,
+      "id": 31
+    },
+    {
+      "buff_desc": "每次战斗胜利后，随机复活1名已战败的精灵",
+      "buff_name": "天使赞歌",
+      "basic_value": [
+        1
+      ],
+      "buff_id": 32,
+      "buff_pond_id": 3,
+      "id": 32
+    },
+    {
+      "buff_desc": "每次战斗胜利后，恢复所有精灵全部体力、PP值",
+      "buff_name": "生命源泉",
+      "basic_value": [
+        0
+      ],
+      "buff_id": 33,
+      "buff_pond_id": 3,
+      "id": 33
+    },
+    {
+      "buff_desc": "每次战斗胜利后，增加所有精灵%s点所有属性",
+      "buff_name": "收割者",
+      "basic_value": [
+        50
+      ],
+      "buff_id": 34,
+      "buff_pond_id": 3,
+      "id": 34
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+packages:
+  - "packages/seerapi-ts"
+allowBuilds:
+  esbuild: true

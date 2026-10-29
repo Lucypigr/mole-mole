@@ -1,0 +1,104 @@
+name: '检出仓库'
+description: '检出仓库并配置 Git 用户，用于数据处理流水线'
+author: 'SeerAPI'
+
+inputs:
+  repository:
+    description: '仓库名称（格式：owner/repo）'
+    required: true
+
+  path:
+    description: '检出到的本地路径'
+    required: false
+    default: 'data-repo'
+
+  ssh-key:
+    description: 'SSH 私钥（可选，用于 SSH 方式克隆）'
+    required: false
+    default: ''
+
+  token:
+    description: 'GitHub token（用于推送）'
+    required: false
+    default: ${{ github.token }}
+  
+  fetch-depth:
+    description: 'Git 历史深度（1 表示浅克隆）'
+    required: false
+    default: '1'
+
+  branch:
+    description: '要检出的分支'
+    required: false
+    default: 'main'
+
+  username:
+    description: 'Git 用户名'
+    required: false
+    default: 'github-actions[bot]'
+  
+  email:
+    description: 'Git 邮箱'
+    required: false
+    default: 'github-actions[bot]@users.noreply.github.com'
+
+  init-if-empty:
+    description: '仓库为空时自动初始化并推送初始提交'
+    required: false
+    default: 'false'
+
+outputs:
+  repo-path:
+    description: '仓库的本地路径'
+    value: ${{ inputs.path }}
+
+runs:
+  using: 'composite'
+  steps:
+    - name: 检出仓库
+      id: checkout
+      uses: actions/checkout@v4
+      continue-on-error: ${{ inputs.init-if-empty == 'true' }}
+      with:
+        repository: ${{ inputs.repository }}
+        path: ${{ inputs.path }}
+        ssh-key: ${{ inputs.ssh-key }}
+        token: ${{ inputs.token }}
+        fetch-depth: ${{ inputs.fetch-depth }}
+        ref: ${{ inputs.branch }}
+
+    - name: 初始化空仓库
+      if: inputs.init-if-empty == 'true' && steps.checkout.outcome == 'failure'
+      shell: bash
+      env:
+        REPO_URL: https://x-access-token:${{ inputs.token }}@github.com/${{ inputs.repository }}.git
+      run: |
+        echo "📦 仓库为空，正在初始化..."
+        mkdir -p "${{ inputs.path }}"
+        cd "${{ inputs.path }}"
+        git init
+        git config user.name "${{ inputs.username }}"
+        git config user.email "${{ inputs.email }}"
+        git remote add origin "$REPO_URL"
+        git checkout -b "${{ inputs.branch }}"
+        git commit --allow-empty -m "chore: initialize repository"
+        git push -u origin "${{ inputs.branch }}"
+
+    - name: 配置 Git 用户
+      shell: bash
+      working-directory: ${{ inputs.path }}
+      run: |
+        echo "⚙️  配置 Git 用户信息..."
+        git config user.name "${{ inputs.username }}"
+        git config user.email "${{ inputs.email }}"
+        echo "✅ Git 配置完成"
+    
+    - name: 显示仓库信息
+      shell: bash
+      working-directory: ${{ inputs.path }}
+      run: |
+        echo "=== 仓库信息 ==="
+        echo "仓库: ${{ inputs.repository }}"
+        echo "分支: $(git branch --show-current)"
+        echo "最新提交: $(git log -1 --oneline)"
+        echo "工作目录: ${{ inputs.path }}"

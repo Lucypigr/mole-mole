@@ -1,0 +1,292 @@
+{
+  "root": {
+    "item": [
+      {
+        "arg_1": 1714414,
+        "arg_2": "100",
+        "level_lock": "",
+        "data_key": 1,
+        "id": 1,
+        "monsterid": 3463,
+        "name": "时空界皇",
+        "order": 1,
+        "type": 2
+      },
+      {
+        "arg_1": 1714415,
+        "arg_2": "100",
+        "level_lock": "",
+        "data_key": 1,
+        "id": 2,
+        "monsterid": 3460,
+        "name": "幻境界皇",
+        "order": 2,
+        "type": 2
+      },
+      {
+        "arg_1": 1726848,
+        "arg_2": "500_200_100",
+        "level_lock": "",
+        "data_key": 2,
+        "id": 3,
+        "monsterid": 4731,
+        "name": "皮神",
+        "order": 1,
+        "type": 2
+      },
+      {
+        "arg_1": 1726848,
+        "arg_2": "1000_200_100",
+        "level_lock": "",
+        "data_key": 2,
+        "id": 4,
+        "monsterid": 4732,
+        "name": "闪光皮神",
+        "order": 2,
+        "type": 2
+      },
+      {
+        "arg_1": 3,
+        "arg_2": "3",
+        "level_lock": "",
+        "data_key": 3,
+        "id": 5,
+        "monsterid": 3329,
+        "name": "六界帝神",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 5,
+        "arg_2": "2_4",
+        "level_lock": "",
+        "data_key": 4,
+        "id": 6,
+        "monsterid": 3022,
+        "name": "王之哈莫",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 3,
+        "arg_2": "2_3",
+        "level_lock": "",
+        "data_key": 5,
+        "id": 7,
+        "monsterid": 3577,
+        "name": "光之惩戒·英卡洛斯",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 125237,
+        "arg_2": "宿命之火_30000",
+        "level_lock": "",
+        "data_key": 6,
+        "id": 8,
+        "monsterid": 4757,
+        "name": "神裁·雷伊",
+        "order": 0,
+        "type": 3
+      },
+      {
+        "arg_1": 125237,
+        "arg_2": "宿命之火_30000",
+        "level_lock": "",
+        "data_key": 6,
+        "id": 9,
+        "monsterid": 4758,
+        "name": "神决盖亚",
+        "order": 0,
+        "type": 3
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 7,
+        "id": 10,
+        "monsterid": 4765,
+        "name": "怒雷神裁·雷伊",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 8,
+        "id": 11,
+        "monsterid": 3056,
+        "name": "圣甲盖亚",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 9,
+        "id": 12,
+        "monsterid": 3482,
+        "name": "圣战瑞尔斯",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 3,
+        "arg_2": "3",
+        "level_lock": "1_2_3",
+        "data_key": 10,
+        "id": 13,
+        "monsterid": 3524,
+        "name": "乔列尼德",
+        "order": 0,
+        "type": 4
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 11,
+        "id": 14,
+        "monsterid": 4676,
+        "name": "神觉·米斯蒂克",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 3,
+        "arg_2": "3",
+        "level_lock": "",
+        "data_key": 12,
+        "id": 15,
+        "monsterid": 3613,
+        "name": "芳馨·茉蕊儿",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 2,
+        "arg_2": "1_2",
+        "level_lock": "",
+        "data_key": 14,
+        "id": 16,
+        "monsterid": 3697,
+        "name": "擎空凡尔斯",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 3,
+        "arg_2": "3",
+        "level_lock": "",
+        "data_key": 13,
+        "id": 17,
+        "monsterid": 3886,
+        "name": "冰魄科尔德",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 1715396,
+        "arg_2": "40",
+        "level_lock": "",
+        "data_key": 15,
+        "id": 18,
+        "monsterid": 3534,
+        "name": "玛洛恩",
+        "order": 0,
+        "type": 2
+      },
+      {
+        "arg_1": 3,
+        "arg_2": "3",
+        "level_lock": "",
+        "data_key": 16,
+        "id": 19,
+        "monsterid": 3554,
+        "name": "风殇影翼·飞镰",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "2_3",
+        "level_lock": "",
+        "data_key": 17,
+        "id": 20,
+        "monsterid": 3686,
+        "name": "妖族元皇·兰蒂斯",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "2",
+        "level_lock": "",
+        "data_key": 18,
+        "id": 21,
+        "monsterid": 4001,
+        "name": "无上·万魔天尊",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "3",
+        "level_lock": "",
+        "data_key": 19,
+        "id": 22,
+        "monsterid": 3442,
+        "name": "混沌埃兰",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 20,
+        "id": 23,
+        "monsterid": 3532,
+        "name": "堕落泰坦",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "3",
+        "level_lock": "",
+        "data_key": 21,
+        "id": 24,
+        "monsterid": 3446,
+        "name": "混沌蒂亚斯",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 22,
+        "id": 25,
+        "monsterid": 3162,
+        "name": "天邪龙皇",
+        "order": 0,
+        "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 23,
+        "id": 26,
+        "monsterid": 3932,
+        "name": "墨影星魂",
+        "order": 0,
+        "type": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "item": [
+    {
+      "atlas": "mallMainpanel",
+      "id": 1,
+      "jump": "133200",
+      "name": "特性限时礼包",
+      "poster": "ing_blog",
+      "show": 1,
+      "sort": 4
+    },
+    {
+      "atlas": "mallMainpanel",
+      "id": 2,
+      "jump": "120000",
+      "name": "永耀之光",
+      "poster": "Yearvip_blog",
+      "show": 1,
+      "sort": 3
+    },
+    {
+      "atlas": "mallMainpanel",
+      "id": 3,
+      "jump": "111500",
+      "name": "英雄圣殿",
+      "poster": "TempleHeroes_blog",
+      "show": 1,
+      "sort": 2
+    },
+    {
+      "atlas": "mallMainpanel",
+      "id": 3,
+      "jump": "111700",
+      "name": "莱达神祇",
+      "poster": "LightAndDark_blog",
+      "show": 1,
+      "sort": 1
+    }
+  ]
+}

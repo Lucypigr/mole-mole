@@ -1,0 +1,14 @@
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+!.edgeone/project.json
+.tef_dist/*
+
+node_modules/*
+
+build/*
+
+# Downloaded release data and generated middleware module
+data/
+.tmp/
+generated/

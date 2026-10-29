@@ -1,0 +1,108 @@
+{
+  "item": [
+    {
+      "discount": 0,
+      "discountprice": [
+        0
+      ],
+      "gift": [
+        19626,
+        2318,
+        40627
+      ],
+      "id": 1,
+      "miditem": 1726696,
+      "name": "索比斯",
+      "price": [
+        1,
+        5,
+        298
+      ],
+      "prop": 261369,
+      "quota": 4,
+      "recommend": 1,
+      "reward": "3118",
+      "show": 1,
+      "sort": 1,
+      "type": 2
+    },
+    {
+      "discount": 0,
+      "discountprice": [
+        0
+      ],
+      "gift": [
+        31245,
+        2694,
+        41047
+      ],
+      "id": 2,
+      "miditem": 1726697,
+      "name": "伶谣",
+      "price": [
+        1,
+        5,
+        498
+      ],
+      "prop": 261370,
+      "quota": 4,
+      "recommend": 0,
+      "reward": "3461",
+      "show": 1,
+      "sort": 1,
+      "type": 1
+    },
+    {
+      "discount": 0,
+      "discountprice": [
+        0
+      ],
+      "gift": [
+        19312,
+        2231,
+        40574
+      ],
+      "id": 3,
+      "miditem": 1726698,
+      "name": "库贝萨隆",
+      "price": [
+        1,
+        5,
+        398
+      ],
+      "prop": 261371,
+      "quota": 4,
+      "recommend": 0,
+      "reward": "3044",
+      "show": 1,
+      "sort": 1,
+      "type": 1
+    },
+    {
+      "discount": 0,
+      "discountprice": [
+        0
+      ],
+      "gift": [
+        19318,
+        2227,
+        40571
+      ],
+      "id": 4,
+      "miditem": 1726699,
+      "name": "六界神王",
+      "price": [
+        1,
+        5,
+        598
+      ],
+      "prop": 261372,
+      "quota": 4,
+      "recommend": 1,
+      "reward": "3045",
+      "show": 1,
+      "sort": 1,
+      "type": 2
+    }
+  ]
+}

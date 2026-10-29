@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "des": "在场时会在达成触发条件时反复生效对应的效果",
+      "name": "持续生效",
+      "resource_name": "effectIcon_1",
+      "id": 1
+    },
+    {
+      "des": "该精灵在战斗中阵亡时触发对应的效果",
+      "name": "阵亡",
+      "resource_name": "effectIcon_2",
+      "id": 2
+    },
+    {
+      "des": "可以连续进行两次攻击",
+      "name": "连击",
+      "resource_name": "effectIcon_3",
+      "id": 3
+    },
+    {
+      "des": "首次受到其伤害的精灵将被直接消灭",
+      "name": "强毒",
+      "resource_name": "effectIcon_4",
+      "id": 4
+    },
+    {
+      "des": "该精灵阵亡后以特定状态回到场上",
+      "name": "复活",
+      "resource_name": "effectIcon_5",
+      "id": 5
+    },
+    {
+      "des": "商店开始阶段触发对应效果",
+      "name": "生长",
+      "resource_name": "effectIcon_7",
+      "id": 7
+    },
+    {
+      "des": "冰系精灵达成条件后增加层数，达到指定层数后触发对应效果",
+      "name": "寒潮",
+      "resource_name": "effectIcon_8",
+      "id": 8
+    },
+    {
+      "des": "对方精灵必须优先攻击带有嘲讽的精灵",
+      "name": "嘲讽",
+      "resource_name": "effectIcon_11",
+      "id": 11
+    },
+    {
+      "des": "可以抵消受到的首次伤害",
+      "name": "护盾",
+      "resource_name": "effectIcon_12",
+      "id": 12
+    },
+    {
+      "des": "放置于机械系精灵左侧时将属性值和特效附加给该精灵",
+      "name": "吸附",
+      "resource_name": "",
+      "id": 13
+    },
+    {
+      "des": "攻击前与己方下一个没有冻伤的精灵交换位置，并由该精灵发动攻击",
+      "name": "冻伤",
+      "resource_name": "effectIcon_13",
+      "id": 14
+    },
+    {
+      "des": "下个攻击轮次无法行动",
+      "name": "冰封",
+      "resource_name": "effectIcon_14",
+      "id": 15
+    }
+  ]
+}

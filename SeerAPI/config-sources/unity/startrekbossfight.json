@@ -1,0 +1,404 @@
+{
+  "item": [
+    {
+      "monster_ids": [
+        2211
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        1,
+        1,
+        1706928,
+        1
+      ],
+      "bossfight_id": 101,
+      "boss_type": 11,
+      "id": 1,
+      "win_reward_num": 10
+    },
+    {
+      "monster_ids": [
+        2227
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        1,
+        1,
+        1706928,
+        1
+      ],
+      "bossfight_id": 102,
+      "boss_type": 11,
+      "id": 2,
+      "win_reward_num": 10
+    },
+    {
+      "monster_ids": [
+        2285
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        1,
+        1,
+        1706928,
+        1
+      ],
+      "bossfight_id": 103,
+      "boss_type": 11,
+      "id": 3,
+      "win_reward_num": 10
+    },
+    {
+      "monster_ids": [
+        2252
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        1,
+        1,
+        1706928,
+        1
+      ],
+      "bossfight_id": 104,
+      "boss_type": 11,
+      "id": 4,
+      "win_reward_num": 10
+    },
+    {
+      "monster_ids": [
+        2227,
+        2264,
+        2211
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        2,
+        1,
+        1706928,
+        2
+      ],
+      "bossfight_id": 105,
+      "boss_type": 12,
+      "id": 5,
+      "win_reward_num": 20
+    },
+    {
+      "monster_ids": [
+        2285,
+        2253,
+        2252
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        2,
+        1,
+        1706928,
+        2
+      ],
+      "bossfight_id": 106,
+      "boss_type": 12,
+      "id": 6,
+      "win_reward_num": 20
+    },
+    {
+      "monster_ids": [
+        4346
+      ],
+      "rewardinfo": [
+        1,
+        1,
+        1000000,
+        1,
+        1723854,
+        100,
+        1,
+        1723855,
+        1000
+      ],
+      "bossfight_id": 107,
+      "boss_type": 12,
+      "id": 7,
+      "win_reward_num": 99
+    },
+    {
+      "monster_ids": [
+        3522
+      ],
+      "rewardinfo": [
+        1,
+        1706924,
+        1
+      ],
+      "bossfight_id": 108,
+      "boss_type": 13,
+      "id": 8,
+      "win_reward_num": 100
+    },
+    {
+      "monster_ids": [
+        2949,
+        2955
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        3,
+        1,
+        1706928,
+        3
+      ],
+      "bossfight_id": 109,
+      "boss_type": 11,
+      "id": 9,
+      "win_reward_num": 30
+    },
+    {
+      "monster_ids": [
+        2949,
+        3952
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        3,
+        1,
+        1706928,
+        3
+      ],
+      "bossfight_id": 110,
+      "boss_type": 11,
+      "id": 10,
+      "win_reward_num": 30
+    },
+    {
+      "monster_ids": [
+        4346
+      ],
+      "rewardinfo": [
+        1,
+        1,
+        1000000,
+        1,
+        1723854,
+        500,
+        1,
+        1723855,
+        5000
+      ],
+      "bossfight_id": 111,
+      "boss_type": 11,
+      "id": 11,
+      "win_reward_num": 99
+    },
+    {
+      "monster_ids": [
+        2955,
+        3952
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        3,
+        1,
+        1706928,
+        3
+      ],
+      "bossfight_id": 112,
+      "boss_type": 11,
+      "id": 12,
+      "win_reward_num": 30
+    },
+    {
+      "monster_ids": [
+        2949,
+        2955,
+        3952,
+        3956
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        5,
+        1,
+        1706928,
+        5
+      ],
+      "bossfight_id": 113,
+      "boss_type": 12,
+      "id": 13,
+      "win_reward_num": 50
+    },
+    {
+      "monster_ids": [
+        3853,
+        3849,
+        3772
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        5,
+        1,
+        1706928,
+        5
+      ],
+      "bossfight_id": 114,
+      "boss_type": 12,
+      "id": 14,
+      "win_reward_num": 50
+    },
+    {
+      "monster_ids": [
+        3575
+      ],
+      "rewardinfo": [
+        1,
+        1706927,
+        5,
+        1,
+        1706928,
+        5
+      ],
+      "bossfight_id": 115,
+      "boss_type": 12,
+      "id": 15,
+      "win_reward_num": 50
+    },
+    {
+      "monster_ids": [
+        3960
+      ],
+      "rewardinfo": [
+        1,
+        1706925,
+        1
+      ],
+      "bossfight_id": 116,
+      "boss_type": 13,
+      "id": 16,
+      "win_reward_num": 150
+    },
+    {
+      "monster_ids": [
+        3654,
+        3640
+      ],
+      "rewardinfo": [
+        1,
+        1723854,
+        200
+      ],
+      "bossfight_id": 117,
+      "boss_type": 11,
+      "id": 17,
+      "win_reward_num": 60
+    },
+    {
+      "monster_ids": [
+        3634,
+        4323
+      ],
+      "rewardinfo": [
+        1,
+        1723854,
+        200
+      ],
+      "bossfight_id": 118,
+      "boss_type": 11,
+      "id": 18,
+      "win_reward_num": 60
+    },
+    {
+      "monster_ids": [
+        4264
+      ],
+      "rewardinfo": [
+        1,
+        1723854,
+        200
+      ],
+      "bossfight_id": 119,
+      "boss_type": 11,
+      "id": 19,
+      "win_reward_num": 60
+    },
+    {
+      "monster_ids": [
+        4346
+      ],
+      "rewardinfo": [
+        1,
+        1,
+        1000000,
+        1,
+        1723854,
+        1000,
+        1,
+        1723855,
+        30000
+      ],
+      "bossfight_id": 120,
+      "boss_type": 11,
+      "id": 20,
+      "win_reward_num": 99
+    },
+    {
+      "monster_ids": [
+        3654,
+        3640,
+        3634,
+        4323,
+        4264
+      ],
+      "rewardinfo": [
+        1,
+        1723855,
+        10000
+      ],
+      "bossfight_id": 121,
+      "boss_type": 12,
+      "id": 21,
+      "win_reward_num": 80
+    },
+    {
+      "monster_ids": [
+        3584
+      ],
+      "rewardinfo": [
+        1,
+        1723855,
+        10000
+      ],
+      "bossfight_id": 122,
+      "boss_type": 12,
+      "id": 22,
+      "win_reward_num": 80
+    },
+    {
+      "monster_ids": [
+        3814
+      ],
+      "rewardinfo": [
+        1,
+        1706926,
+        1,
+        1,
+        1723854,
+        500,
+        1,
+        1723855,
+        50000
+      ],
+      "bossfight_id": 123,
+      "boss_type": 13,
+      "id": 23,
+      "win_reward_num": 0
+    }
+  ]
+}

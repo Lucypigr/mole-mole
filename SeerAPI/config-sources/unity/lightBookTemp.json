@@ -1,0 +1,2076 @@
+{
+  "data": [
+    {
+      "coin_id": "1725705",
+      "id": 1,
+      "monster_id": "2738",
+      "need_mon_id": "2739",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 2,
+      "monster_id": "3110",
+      "need_mon_id": "3105",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 3,
+      "monster_id": "3321",
+      "need_mon_id": "3322",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 4,
+      "monster_id": "2997",
+      "need_mon_id": "2988",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 5,
+      "monster_id": "2843",
+      "need_mon_id": "2844",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 6,
+      "monster_id": "2880",
+      "need_mon_id": "3381",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 7,
+      "monster_id": "2881",
+      "need_mon_id": "3386",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 8,
+      "monster_id": "2882",
+      "need_mon_id": "3390",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 9,
+      "monster_id": "3173",
+      "need_mon_id": "3174",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 10,
+      "monster_id": "3339",
+      "need_mon_id": "3340",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 11,
+      "monster_id": "3149",
+      "need_mon_id": "3150",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 12,
+      "monster_id": "3210",
+      "need_mon_id": "3211",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 13,
+      "monster_id": "3232",
+      "need_mon_id": "3223",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 14,
+      "monster_id": "3035",
+      "need_mon_id": "3036",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 15,
+      "monster_id": "2786",
+      "need_mon_id": "2787",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 16,
+      "monster_id": "3199",
+      "need_mon_id": "3200",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 17,
+      "monster_id": "2963",
+      "need_mon_id": "2959",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 18,
+      "monster_id": "3081",
+      "need_mon_id": "3082",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 19,
+      "monster_id": "3371",
+      "need_mon_id": "3372",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 20,
+      "monster_id": "3354",
+      "need_mon_id": "3355",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 21,
+      "monster_id": "2470",
+      "need_mon_id": "125",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 22,
+      "monster_id": "2781",
+      "need_mon_id": "2782",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 23,
+      "monster_id": "596",
+      "need_mon_id": "597",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 24,
+      "monster_id": "597",
+      "need_mon_id": "1779",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 25,
+      "monster_id": "598",
+      "need_mon_id": "599",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 26,
+      "monster_id": "599",
+      "need_mon_id": "1868",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 27,
+      "monster_id": "870",
+      "need_mon_id": "871",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 28,
+      "monster_id": "939",
+      "need_mon_id": "940",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 29,
+      "monster_id": "1114",
+      "need_mon_id": "1115",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 30,
+      "monster_id": "1155",
+      "need_mon_id": "1156",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 31,
+      "monster_id": "1178",
+      "need_mon_id": "1179",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 32,
+      "monster_id": "1179",
+      "need_mon_id": "2727",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 33,
+      "monster_id": "1226",
+      "need_mon_id": "1227",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 34,
+      "monster_id": "1259",
+      "need_mon_id": "1260",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 35,
+      "monster_id": "1260",
+      "need_mon_id": "3462",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 36,
+      "monster_id": "346",
+      "need_mon_id": "347",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 37,
+      "monster_id": "392",
+      "need_mon_id": "393",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 38,
+      "monster_id": "393",
+      "need_mon_id": "760",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 39,
+      "monster_id": "261",
+      "need_mon_id": "1845",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 40,
+      "monster_id": "1045",
+      "need_mon_id": "2580",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 41,
+      "monster_id": "70",
+      "need_mon_id": "2394",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 42,
+      "monster_id": "3054",
+      "need_mon_id": "3328",
+      "newest": 0,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 43,
+      "monster_id": "3106",
+      "need_mon_id": "3221",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 44,
+      "monster_id": "1295",
+      "need_mon_id": "1296",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 45,
+      "monster_id": "1438",
+      "need_mon_id": "1439",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 46,
+      "monster_id": "1439",
+      "need_mon_id": "3942",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 47,
+      "monster_id": "1372",
+      "need_mon_id": "1373",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 48,
+      "monster_id": "1373",
+      "need_mon_id": "3553",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 49,
+      "monster_id": "971",
+      "need_mon_id": "972",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 50,
+      "monster_id": "1054",
+      "need_mon_id": "1055",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 51,
+      "monster_id": "1055",
+      "need_mon_id": "3779",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 52,
+      "monster_id": "526",
+      "need_mon_id": "527",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 53,
+      "monster_id": "527",
+      "need_mon_id": "2584",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 54,
+      "monster_id": "397",
+      "need_mon_id": "398",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 55,
+      "monster_id": "398",
+      "need_mon_id": "432",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 56,
+      "monster_id": "2018",
+      "need_mon_id": "2019",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 57,
+      "monster_id": "2019",
+      "need_mon_id": "2839",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 58,
+      "monster_id": "1115",
+      "need_mon_id": "1956",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 59,
+      "monster_id": "1156",
+      "need_mon_id": "1956",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 60,
+      "monster_id": "2524",
+      "need_mon_id": "3054",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 61,
+      "monster_id": "2516",
+      "need_mon_id": "3054",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 62,
+      "monster_id": "2782",
+      "need_mon_id": "3054",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 63,
+      "monster_id": "1854",
+      "need_mon_id": "1855",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 64,
+      "monster_id": "1855",
+      "need_mon_id": "3769",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 65,
+      "monster_id": "669",
+      "need_mon_id": "670",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 66,
+      "monster_id": "670",
+      "need_mon_id": "1906",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 67,
+      "monster_id": "1638",
+      "need_mon_id": "1639",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 68,
+      "monster_id": "1639",
+      "need_mon_id": "3519",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 69,
+      "monster_id": "1524",
+      "need_mon_id": "1525",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 70,
+      "monster_id": "1525",
+      "need_mon_id": "2915",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 71,
+      "monster_id": "1498",
+      "need_mon_id": "1499",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 72,
+      "monster_id": "1499",
+      "need_mon_id": "3342",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 73,
+      "monster_id": "3342",
+      "need_mon_id": "3347",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 74,
+      "monster_id": "1481",
+      "need_mon_id": "1482",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 75,
+      "monster_id": "1482",
+      "need_mon_id": "3344",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 76,
+      "monster_id": "3344",
+      "need_mon_id": "3347",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 77,
+      "monster_id": "1589",
+      "need_mon_id": "1590",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 78,
+      "monster_id": "2549",
+      "need_mon_id": "2562",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 79,
+      "monster_id": "2562",
+      "need_mon_id": "3107",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 80,
+      "monster_id": "2873",
+      "need_mon_id": "3311",
+      "newest": 0,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 81,
+      "monster_id": "2607",
+      "need_mon_id": "2873",
+      "newest": 0,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 82,
+      "monster_id": "2573",
+      "need_mon_id": "2574",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 83,
+      "monster_id": "2574",
+      "need_mon_id": "3055",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 84,
+      "monster_id": "2522",
+      "need_mon_id": "2523",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 85,
+      "monster_id": "2523",
+      "need_mon_id": "3048",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 86,
+      "monster_id": "2479",
+      "need_mon_id": "3051",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 87,
+      "monster_id": "3051",
+      "need_mon_id": "3965",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 88,
+      "monster_id": "2449",
+      "need_mon_id": "2450",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 89,
+      "monster_id": "2450",
+      "need_mon_id": "3066",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 90,
+      "monster_id": "2770",
+      "need_mon_id": "3290",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 91,
+      "monster_id": "1928",
+      "need_mon_id": "1929",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 92,
+      "monster_id": "1929",
+      "need_mon_id": "2520",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 93,
+      "monster_id": "2520",
+      "need_mon_id": "3087",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 94,
+      "monster_id": "1969",
+      "need_mon_id": "1970",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 95,
+      "monster_id": "1970",
+      "need_mon_id": "2530",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 96,
+      "monster_id": "2530",
+      "need_mon_id": "3060",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 97,
+      "monster_id": "1940",
+      "need_mon_id": "1941",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 98,
+      "monster_id": "1941",
+      "need_mon_id": "2512",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 99,
+      "monster_id": "2512",
+      "need_mon_id": "3074",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 100,
+      "monster_id": "2166",
+      "need_mon_id": "2167",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 101,
+      "monster_id": "2167",
+      "need_mon_id": "2800",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 102,
+      "monster_id": "2800",
+      "need_mon_id": "3256",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 103,
+      "monster_id": "2178",
+      "need_mon_id": "2179",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 104,
+      "monster_id": "2179",
+      "need_mon_id": "2937",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 105,
+      "monster_id": "2937",
+      "need_mon_id": "3262",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 106,
+      "monster_id": "1454",
+      "need_mon_id": "1455",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 107,
+      "monster_id": "1455",
+      "need_mon_id": "1456",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 108,
+      "monster_id": "1456",
+      "need_mon_id": "2619",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 109,
+      "monster_id": "2198",
+      "need_mon_id": "2199",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 110,
+      "monster_id": "2199",
+      "need_mon_id": "3248",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 111,
+      "monster_id": "2154",
+      "need_mon_id": "2155",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 112,
+      "monster_id": "2155",
+      "need_mon_id": "3254",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 113,
+      "monster_id": "2085",
+      "need_mon_id": "2086",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 114,
+      "monster_id": "2964",
+      "need_mon_id": "4021",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 115,
+      "monster_id": "111",
+      "need_mon_id": "112",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 116,
+      "monster_id": "112",
+      "need_mon_id": "113",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 117,
+      "monster_id": "113",
+      "need_mon_id": "1277",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 118,
+      "monster_id": "86",
+      "need_mon_id": "87",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 119,
+      "monster_id": "87",
+      "need_mon_id": "88",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 120,
+      "monster_id": "88",
+      "need_mon_id": "2865",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 121,
+      "monster_id": "2706",
+      "need_mon_id": "2707",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 122,
+      "monster_id": "2707",
+      "need_mon_id": "3750",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 123,
+      "monster_id": "2673",
+      "need_mon_id": "2693",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 124,
+      "monster_id": "3189",
+      "need_mon_id": "4120",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 125,
+      "monster_id": "3077",
+      "need_mon_id": "4027",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 126,
+      "monster_id": "1864",
+      "need_mon_id": "1865",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 127,
+      "monster_id": "1865",
+      "need_mon_id": "2476",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 128,
+      "monster_id": "2476",
+      "need_mon_id": "3276",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 129,
+      "monster_id": "1526",
+      "need_mon_id": "1527",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 130,
+      "monster_id": "1527",
+      "need_mon_id": "2674",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 131,
+      "monster_id": "2674",
+      "need_mon_id": "3220",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 132,
+      "monster_id": "1731",
+      "need_mon_id": "1732",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 133,
+      "monster_id": "1732",
+      "need_mon_id": "2713",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 134,
+      "monster_id": "2713",
+      "need_mon_id": "3141",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 135,
+      "monster_id": "1678",
+      "need_mon_id": "1679",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 136,
+      "monster_id": "1679",
+      "need_mon_id": "1680",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 137,
+      "monster_id": "1680",
+      "need_mon_id": "1681",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 138,
+      "monster_id": "2334",
+      "need_mon_id": "2335",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 139,
+      "monster_id": "2335",
+      "need_mon_id": "4195",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 140,
+      "monster_id": "2767",
+      "need_mon_id": "2777",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 141,
+      "monster_id": "2777",
+      "need_mon_id": "3249",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 142,
+      "monster_id": "3249",
+      "need_mon_id": "3686",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 143,
+      "monster_id": "2731",
+      "need_mon_id": "2744",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 144,
+      "monster_id": "2744",
+      "need_mon_id": "3246",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 145,
+      "monster_id": "3246",
+      "need_mon_id": "3709",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 146,
+      "monster_id": "2741",
+      "need_mon_id": "2752",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 147,
+      "monster_id": "2752",
+      "need_mon_id": "3251",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 148,
+      "monster_id": "3251",
+      "need_mon_id": "3704",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 149,
+      "monster_id": "2749",
+      "need_mon_id": "2757",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 150,
+      "monster_id": "2757",
+      "need_mon_id": "3243",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 151,
+      "monster_id": "3243",
+      "need_mon_id": "3698",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 152,
+      "monster_id": "46",
+      "need_mon_id": "47",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 153,
+      "monster_id": "47",
+      "need_mon_id": "1192",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 154,
+      "monster_id": "41",
+      "need_mon_id": "42",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 155,
+      "monster_id": "42",
+      "need_mon_id": "1298",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 156,
+      "monster_id": "1298",
+      "need_mon_id": "3786",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 157,
+      "monster_id": "186",
+      "need_mon_id": "187",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 158,
+      "monster_id": "187",
+      "need_mon_id": "1877",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 159,
+      "monster_id": "2348",
+      "need_mon_id": "2349",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 160,
+      "monster_id": "2349",
+      "need_mon_id": "2906",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 161,
+      "monster_id": "2906",
+      "need_mon_id": "3490",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 162,
+      "monster_id": "2337",
+      "need_mon_id": "2338",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 163,
+      "monster_id": "2338",
+      "need_mon_id": "2907",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 164,
+      "monster_id": "2907",
+      "need_mon_id": "3497",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 165,
+      "monster_id": "2365",
+      "need_mon_id": "2366",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 166,
+      "monster_id": "2366",
+      "need_mon_id": "2912",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 167,
+      "monster_id": "2912",
+      "need_mon_id": "3502",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 168,
+      "monster_id": "2378",
+      "need_mon_id": "2379",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 169,
+      "monster_id": "2379",
+      "need_mon_id": "2922",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 170,
+      "monster_id": "2922",
+      "need_mon_id": "3510",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 171,
+      "monster_id": "68",
+      "need_mon_id": "69",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 172,
+      "monster_id": "69",
+      "need_mon_id": "2616",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 173,
+      "monster_id": "131",
+      "need_mon_id": "132",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 174,
+      "monster_id": "132",
+      "need_mon_id": "2596",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 175,
+      "monster_id": "854",
+      "need_mon_id": "855",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 176,
+      "monster_id": "855",
+      "need_mon_id": "4117",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 177,
+      "monster_id": "262",
+      "need_mon_id": "263",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 178,
+      "monster_id": "263",
+      "need_mon_id": "264",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 179,
+      "monster_id": "264",
+      "need_mon_id": "2304",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 180,
+      "monster_id": "2132",
+      "need_mon_id": "2878",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 181,
+      "monster_id": "2878",
+      "need_mon_id": "3558",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 182,
+      "monster_id": "2190",
+      "need_mon_id": "2868",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 183,
+      "monster_id": "2868",
+      "need_mon_id": "3565",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 184,
+      "monster_id": "2163",
+      "need_mon_id": "2863",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 185,
+      "monster_id": "2863",
+      "need_mon_id": "3566",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 186,
+      "monster_id": "1203",
+      "need_mon_id": "1204",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 187,
+      "monster_id": "1204",
+      "need_mon_id": "2347",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 188,
+      "monster_id": "2347",
+      "need_mon_id": "2910",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 189,
+      "monster_id": "2910",
+      "need_mon_id": "3421",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 190,
+      "monster_id": "2006",
+      "need_mon_id": "2377",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 191,
+      "monster_id": "2377",
+      "need_mon_id": "2916",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 192,
+      "monster_id": "2916",
+      "need_mon_id": "3425",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 193,
+      "monster_id": "419",
+      "need_mon_id": "420",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 194,
+      "monster_id": "420",
+      "need_mon_id": "421",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 195,
+      "monster_id": "421",
+      "need_mon_id": "2526",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 196,
+      "monster_id": "2526",
+      "need_mon_id": "3728",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 197,
+      "monster_id": "1851",
+      "need_mon_id": "2499",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 198,
+      "monster_id": "2499",
+      "need_mon_id": "3268",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 199,
+      "monster_id": "3268",
+      "need_mon_id": "3867",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 200,
+      "monster_id": "2401",
+      "need_mon_id": "2402",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 201,
+      "monster_id": "2402",
+      "need_mon_id": "2521",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 202,
+      "monster_id": "2521",
+      "need_mon_id": "3263",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 203,
+      "monster_id": "3263",
+      "need_mon_id": "3870",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 204,
+      "monster_id": "2001",
+      "need_mon_id": "3224",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 205,
+      "monster_id": "3224",
+      "need_mon_id": "3875",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 206,
+      "monster_id": "1850",
+      "need_mon_id": "2465",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 207,
+      "monster_id": "2465",
+      "need_mon_id": "3273",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 208,
+      "monster_id": "3273",
+      "need_mon_id": "3879",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 209,
+      "monster_id": "1837",
+      "need_mon_id": "2509",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 210,
+      "monster_id": "2509",
+      "need_mon_id": "3261",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 211,
+      "monster_id": "3261",
+      "need_mon_id": "3883",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 212,
+      "monster_id": "754",
+      "need_mon_id": "755",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 213,
+      "monster_id": "755",
+      "need_mon_id": "2814",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 214,
+      "monster_id": "2407",
+      "need_mon_id": "2408",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 215,
+      "monster_id": "2408",
+      "need_mon_id": "2409",
+      "newest": 0,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 216,
+      "monster_id": "2409",
+      "need_mon_id": "3518",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 217,
+      "monster_id": "3518",
+      "need_mon_id": "3541",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 218,
+      "monster_id": "2000",
+      "need_mon_id": "3312",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 219,
+      "monster_id": "3312",
+      "need_mon_id": "3414",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 220,
+      "monster_id": "1728",
+      "need_mon_id": "1729",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 221,
+      "monster_id": "1729",
+      "need_mon_id": "1730",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 222,
+      "monster_id": "1730",
+      "need_mon_id": "3044",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 223,
+      "monster_id": "3044",
+      "need_mon_id": "3741",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 224,
+      "monster_id": "1587",
+      "need_mon_id": "1588",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 225,
+      "monster_id": "1588",
+      "need_mon_id": "2851",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 226,
+      "monster_id": "2851",
+      "need_mon_id": "3632",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 227,
+      "monster_id": "864",
+      "need_mon_id": "865",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 228,
+      "monster_id": "865",
+      "need_mon_id": "2861",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 229,
+      "monster_id": "2861",
+      "need_mon_id": "3642",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 230,
+      "monster_id": "1688",
+      "need_mon_id": "1689",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 231,
+      "monster_id": "1689",
+      "need_mon_id": "2891",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 232,
+      "monster_id": "2891",
+      "need_mon_id": "3662",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 233,
+      "monster_id": "897",
+      "need_mon_id": "898",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 234,
+      "monster_id": "898",
+      "need_mon_id": "2866",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 235,
+      "monster_id": "2866",
+      "need_mon_id": "3652",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 236,
+      "monster_id": "928",
+      "need_mon_id": "929",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 237,
+      "monster_id": "929",
+      "need_mon_id": "2856",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 238,
+      "monster_id": "2856",
+      "need_mon_id": "3637",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 239,
+      "monster_id": "1755",
+      "need_mon_id": "1756",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 240,
+      "monster_id": "1756",
+      "need_mon_id": "2898",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 241,
+      "monster_id": "2898",
+      "need_mon_id": "3657",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 242,
+      "monster_id": "2596",
+      "need_mon_id": "4717",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 243,
+      "monster_id": "48",
+      "need_mon_id": "49",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 244,
+      "monster_id": "49",
+      "need_mon_id": "50",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 245,
+      "monster_id": "50",
+      "need_mon_id": "1361",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 246,
+      "monster_id": "1361",
+      "need_mon_id": "3293",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 247,
+      "monster_id": "3293",
+      "need_mon_id": "3699",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 248,
+      "monster_id": "488",
+      "need_mon_id": "489",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 249,
+      "monster_id": "489",
+      "need_mon_id": "490",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 250,
+      "monster_id": "490",
+      "need_mon_id": "2610",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 251,
+      "monster_id": "536",
+      "need_mon_id": "537",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 252,
+      "monster_id": "537",
+      "need_mon_id": "538",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 253,
+      "monster_id": "538",
+      "need_mon_id": "3030",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 254,
+      "monster_id": "585",
+      "need_mon_id": "586",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 255,
+      "monster_id": "586",
+      "need_mon_id": "587",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 256,
+      "monster_id": "587",
+      "need_mon_id": "2590",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 257,
+      "monster_id": "615",
+      "need_mon_id": "616",
+      "newest": 1,
+      "price": "3"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 258,
+      "monster_id": "616",
+      "need_mon_id": "617",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 259,
+      "monster_id": "617",
+      "need_mon_id": "3768",
+      "newest": 1,
+      "price": "3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "23": {
+      "id": 23,
+      "name": "至臻典藏",
+      "skins": [
+        {
+          "id": 837,
+          "url": "https://api.seerapi.com/v1/pet_skin/837"
+        },
+        {
+          "id": 871,
+          "url": "https://api.seerapi.com/v1/pet_skin/871"
+        }
+      ],
+      "sub_types": []
+    }
+  },
+  "hash": "14d5677e"
+}

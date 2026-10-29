@@ -1,0 +1,677 @@
+{
+  "root": {
+    "level": [
+      {
+        "exp_need": 100,
+        "id": 1,
+        "reward_id": 1,
+        "use_bit": 1,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 200,
+        "id": 2,
+        "reward_id": 1,
+        "use_bit": 2,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 300,
+        "id": 3,
+        "reward_id": 1,
+        "use_bit": 3,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 400,
+        "id": 4,
+        "reward_id": 1,
+        "use_bit": 4,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 500,
+        "id": 5,
+        "reward_id": 2,
+        "use_bit": 5,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 1000,
+        "id": 6,
+        "reward_id": 1,
+        "use_bit": 6,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 1500,
+        "id": 7,
+        "reward_id": 1,
+        "use_bit": 7,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 2000,
+        "id": 8,
+        "reward_id": 1,
+        "use_bit": 8,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 2500,
+        "id": 9,
+        "reward_id": 1,
+        "use_bit": 9,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 3000,
+        "id": 10,
+        "reward_id": 3,
+        "use_bit": 10,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 3500,
+        "id": 11,
+        "reward_id": 1,
+        "use_bit": 11,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 4000,
+        "id": 12,
+        "reward_id": 1,
+        "use_bit": 12,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 4500,
+        "id": 13,
+        "reward_id": 1,
+        "use_bit": 13,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 5000,
+        "id": 14,
+        "reward_id": 1,
+        "use_bit": 14,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 5500,
+        "id": 15,
+        "reward_id": 4,
+        "use_bit": 15,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 6500,
+        "id": 16,
+        "reward_id": 1,
+        "use_bit": 16,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 7500,
+        "id": 17,
+        "reward_id": 1,
+        "use_bit": 17,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 8500,
+        "id": 18,
+        "reward_id": 1,
+        "use_bit": 18,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 9500,
+        "id": 19,
+        "reward_id": 1,
+        "use_bit": 19,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 10500,
+        "id": 20,
+        "reward_id": 5,
+        "use_bit": 20,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 11500,
+        "id": 21,
+        "reward_id": 1,
+        "use_bit": 21,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 12500,
+        "id": 22,
+        "reward_id": 1,
+        "use_bit": 22,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 13500,
+        "id": 23,
+        "reward_id": 1,
+        "use_bit": 23,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 14500,
+        "id": 24,
+        "reward_id": 1,
+        "use_bit": 24,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 16000,
+        "id": 25,
+        "reward_id": 7,
+        "use_bit": 25,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 17000,
+        "id": 26,
+        "reward_id": 1,
+        "use_bit": 26,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 18000,
+        "id": 27,
+        "reward_id": 1,
+        "use_bit": 27,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 19000,
+        "id": 28,
+        "reward_id": 1,
+        "use_bit": 28,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 20000,
+        "id": 29,
+        "reward_id": 1,
+        "use_bit": 29,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 21000,
+        "id": 30,
+        "reward_id": 9,
+        "use_bit": 30,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 22000,
+        "id": 31,
+        "reward_id": 1,
+        "use_bit": 31,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 23000,
+        "id": 32,
+        "reward_id": 1,
+        "use_bit": 32,
+        "use_value": 107554
+      },
+      {
+        "exp_need": 24000,
+        "id": 33,
+        "reward_id": 1,
+        "use_bit": 1,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 25000,
+        "id": 34,
+        "reward_id": 1,
+        "use_bit": 2,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 26000,
+        "id": 35,
+        "reward_id": 8,
+        "use_bit": 3,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 27000,
+        "id": 36,
+        "reward_id": 1,
+        "use_bit": 4,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 28000,
+        "id": 37,
+        "reward_id": 1,
+        "use_bit": 5,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 29000,
+        "id": 38,
+        "reward_id": 1,
+        "use_bit": 6,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 30000,
+        "id": 39,
+        "reward_id": 1,
+        "use_bit": 7,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 31000,
+        "id": 40,
+        "reward_id": 11,
+        "use_bit": 8,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 32000,
+        "id": 41,
+        "reward_id": 1,
+        "use_bit": 9,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 33000,
+        "id": 42,
+        "reward_id": 1,
+        "use_bit": 10,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 34000,
+        "id": 43,
+        "reward_id": 1,
+        "use_bit": 11,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 35000,
+        "id": 44,
+        "reward_id": 1,
+        "use_bit": 12,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 36000,
+        "id": 45,
+        "reward_id": 10,
+        "use_bit": 13,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 37000,
+        "id": 46,
+        "reward_id": 1,
+        "use_bit": 14,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 38000,
+        "id": 47,
+        "reward_id": 1,
+        "use_bit": 15,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 39000,
+        "id": 48,
+        "reward_id": 1,
+        "use_bit": 16,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 40000,
+        "id": 49,
+        "reward_id": 1,
+        "use_bit": 17,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 41000,
+        "id": 50,
+        "reward_id": 13,
+        "use_bit": 18,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 42000,
+        "id": 51,
+        "reward_id": 1,
+        "use_bit": 19,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 43000,
+        "id": 52,
+        "reward_id": 1,
+        "use_bit": 20,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 44000,
+        "id": 53,
+        "reward_id": 1,
+        "use_bit": 21,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 45000,
+        "id": 54,
+        "reward_id": 1,
+        "use_bit": 22,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 46000,
+        "id": 55,
+        "reward_id": 14,
+        "use_bit": 23,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 47000,
+        "id": 56,
+        "reward_id": 1,
+        "use_bit": 24,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 48000,
+        "id": 57,
+        "reward_id": 1,
+        "use_bit": 25,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 49000,
+        "id": 58,
+        "reward_id": 1,
+        "use_bit": 26,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 50000,
+        "id": 59,
+        "reward_id": 1,
+        "use_bit": 27,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 51000,
+        "id": 60,
+        "reward_id": 15,
+        "use_bit": 28,
+        "use_value": 107555
+      },
+      {
+        "exp_need": 999999,
+        "id": 61,
+        "reward_id": 1,
+        "use_bit": 29,
+        "use_value": 107555
+      }
+    ],
+    "reward": [
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 1,
+        "item": [
+          {
+            "count": 1000,
+            "id": 1
+          },
+          {
+            "count": 1000,
+            "id": 1400352
+          }
+        ],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 2,
+        "item": [],
+        "mintmark": [],
+        "monster": [
+          {
+            "id": 1
+          },
+          {
+            "id": 7
+          },
+          {
+            "id": 4
+          }
+        ],
+        "skin": null,
+        "type": 2,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 3,
+        "item": [],
+        "mintmark": [],
+        "monster": [
+          {
+            "id": 669
+          },
+          {
+            "id": 969
+          }
+        ],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 4,
+        "item": [],
+        "mintmark": [],
+        "monster": [
+          {
+            "id": 1195
+          },
+          {
+            "id": 275
+          },
+          {
+            "id": 71
+          }
+        ],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 5,
+        "item": [],
+        "mintmark": [],
+        "monster": [
+          {
+            "id": 1771
+          },
+          {
+            "id": 4148
+          }
+        ],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 7,
+        "item": [
+          {
+            "count": 2,
+            "id": 300772
+          }
+        ],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 8,
+        "item": [],
+        "mintmark": [
+          {
+            "count": 1,
+            "id": 41942
+          },
+          {
+            "count": 1,
+            "id": 41943
+          }
+        ],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 9,
+        "item": [],
+        "mintmark": [
+          {
+            "count": 1,
+            "id": 41945
+          }
+        ],
+        "monster": [
+          {
+            "id": 4159
+          }
+        ],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 10,
+        "item": [],
+        "mintmark": [],
+        "monster": [],
+        "skin": {
+          "id": 401
+        },
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 11,
+        "item": [],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": {
+          "branch_id": 143,
+          "rule_id": 1
+        }
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 12,
+        "item": [],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": {
+          "branch_id": 143,
+          "rule_id": 2
+        }
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 13,
+        "item": [
+          {
+            "count": 1,
+            "id": 700827
+          }
+        ],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": null,
+        "head_frame": null,
+        "id": 14,
+        "item": [
+          {
+            "count": 1,
+            "id": 1300943
+          }
+        ],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      },
+      {
+        "head": {
+          "id": 41
+        },
+        "head_frame": {
+          "id": 42
+        },
+        "id": 15,
+        "item": [],
+        "mintmark": [],
+        "monster": [],
+        "skin": null,
+        "type": 1,
+        "ach": null
+      }
+    ]
+  }
+}

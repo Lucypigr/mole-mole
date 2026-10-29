@@ -1,0 +1,3394 @@
+{
+  "mintmarks": {
+    "menu": [
+      {
+        "level": 5,
+        "mint_mark": [
+          {
+            "des": "V8-01",
+            "id": 41112,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-02",
+            "id": 41113,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-03",
+            "id": 41114,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-04",
+            "id": 41115,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-05",
+            "id": 41116,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-06",
+            "id": 41117,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-07",
+            "id": 41118,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V8-08",
+            "id": 41119,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "苍魂之魄",
+            "id": 40817,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "天尊之灵",
+            "id": 40843,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "麒麟圣辉",
+            "id": 40854,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "北冥之甲",
+            "id": 40877,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "炽凰火羽",
+            "id": 40878,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔君暗舞",
+            "id": 40855,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣灵之章",
+            "id": 40856,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "皇权之印",
+            "id": 40857,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "飞升之翎",
+            "id": 40858,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "轮回之镜",
+            "id": 41473,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "堕世之翼",
+            "id": 41727,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "九天之疾",
+            "id": 41286,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九天之速",
+            "id": 41287,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九曲之刃",
+            "id": 41288,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九曲之光",
+            "id": 41289,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九霄之钟",
+            "id": 41290,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九霄之灵",
+            "id": 41291,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九鼎之承",
+            "id": 41292,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "九鼎之重",
+            "id": 41293,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 1
+          },
+          {
+            "des": "十年·筑梦",
+            "id": 41606,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·磨砺",
+            "id": 41607,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·光阴",
+            "id": 41608,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·成长",
+            "id": 41609,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·新生",
+            "id": 41610,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·同舟",
+            "id": 41611,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·热爱",
+            "id": 41612,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "十年·再续",
+            "id": 41613,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-01",
+            "id": 41700,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-02",
+            "id": 41701,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-03",
+            "id": 41702,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-04",
+            "id": 41703,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-05",
+            "id": 41704,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-06",
+            "id": 41705,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-07",
+            "id": 41706,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "V10-08",
+            "id": 41707,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "穷奇之邪",
+            "id": 42046,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "穷奇之魅",
+            "id": 42047,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "梼杌之狂",
+            "id": 42048,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "梼杌之傲",
+            "id": 42049,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "饕餮之吞",
+            "id": 42050,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "饕餮之噬",
+            "id": 42051,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "混沌之隐",
+            "id": 42052,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          },
+          {
+            "des": "混沌之匿",
+            "id": 42053,
+            "level": 5,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 2
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "mint_mark": [
+          {
+            "des": "古堡记忆·猎魔",
+            "id": 42458,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "古堡记忆·蝶语",
+            "id": 42459,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "古堡记忆·入梦",
+            "id": 42460,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "古堡记忆·炼狱",
+            "id": 42461,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "古堡记忆·幻兽",
+            "id": 42462,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·万木苍翠",
+            "id": 42153,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·湛蓝星河",
+            "id": 42154,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·炎舞九天",
+            "id": 42155,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·福虎祥瑞",
+            "id": 42156,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·无垠青空",
+            "id": 42157,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·金玉锦绣",
+            "id": 42158,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·紫气东来",
+            "id": 42159,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "焰火·华光流彩",
+            "id": 42160,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·海妖之歌",
+            "id": 42279,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·七彩蝶舞",
+            "id": 42280,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·残破玉盘",
+            "id": 42281,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·赤色之尾",
+            "id": 42282,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·极夜独角",
+            "id": 42283,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·幸运浣熊",
+            "id": 42284,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·尘封战甲",
+            "id": 42285,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "珍宝·异维晶核",
+            "id": 42286,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "异元之铭·判",
+            "id": 42330,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "异元之铭·阵",
+            "id": 42331,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "异元之铭·极",
+            "id": 42332,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "异元之铭·破",
+            "id": 42333,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "异元之铭·堕",
+            "id": 42334,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·虚无",
+            "id": 40757,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·元素",
+            "id": 40758,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·能量",
+            "id": 40759,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·生命",
+            "id": 40760,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·轮回",
+            "id": 40761,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·永恒",
+            "id": 40762,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·圣洁",
+            "id": 40763,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣·真我",
+            "id": 41929,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣灵罪罚",
+            "id": 41001,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣芒闪空",
+            "id": 41002,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣威灵光",
+            "id": 41003,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "圣光普照",
+            "id": 41004,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "混沌诅咒",
+            "id": 41040,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "混沌初拥",
+            "id": 41041,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "魔君圣威",
+            "id": 41042,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "魔君遗怨",
+            "id": 41751,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "des": "火之狂野",
+            "id": 40646,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "海之浩瀚",
+            "id": 40647,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "光之辉煌",
+            "id": 40648,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "风之轻灵",
+            "id": 40649,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "冰之严寒",
+            "id": 40650,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "龙之狂猛",
+            "id": 40651,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "秘之无踪",
+            "id": 40652,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "空之轨迹",
+            "id": 40653,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "钢之狂威",
+            "id": 40693,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "钢之不摧",
+            "id": 40694,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "钢之云霄",
+            "id": 40695,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "凡之净明",
+            "id": 40894,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "邪之灰烬",
+            "id": 41077,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "茵之不息",
+            "id": 41078,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "芳之无暇",
+            "id": 41079,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "古之磐礴",
+            "id": 41080,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "雷之霆威",
+            "id": 40747,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "战之圣勇",
+            "id": 40748,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "瞳之炽烈",
+            "id": 40749,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "夜之永恒",
+            "id": 40750,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "地之无尽",
+            "id": 40751,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "难之皇怒",
+            "id": 40752,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "命之无常",
+            "id": 40753,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "违之梦魇",
+            "id": 40754,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "世之戾决",
+            "id": 40755,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "道之邪锋",
+            "id": 40756,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "沦之幽罹",
+            "id": 41159,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "天之羁绊",
+            "id": 41195,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "常之绝念",
+            "id": 41944,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "焚世之炎",
+            "id": 41057,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "沧海之笙",
+            "id": 41400,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "卡兰守护",
+            "id": 41196,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "罗格守护",
+            "id": 41197,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "裂空守护",
+            "id": 41198,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "帕诺守护",
+            "id": 41199,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "螺旋守护",
+            "id": 41200,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之巅",
+            "id": 41329,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之绝",
+            "id": 41330,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之锋",
+            "id": 41331,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之舞",
+            "id": 41332,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之渊",
+            "id": 41333,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之鸿",
+            "id": 41334,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之界",
+            "id": 41335,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之阵",
+            "id": 41336,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之究极",
+            "id": 41337,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "圣战之无限",
+            "id": 41338,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "宇宙之眼",
+            "id": 41724,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "四九神光",
+            "id": 41739,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "四九威能",
+            "id": 41740,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔·战之振奋",
+            "id": 41752,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔·战之离群",
+            "id": 41753,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔·战之庇佑",
+            "id": 41754,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔·战之生长",
+            "id": 41755,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "春之契约",
+            "id": 41828,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "秋之契约",
+            "id": 41830,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "星愿·奇迹",
+            "id": 41849,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "星愿·守护",
+            "id": 41850,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "星愿·梦想",
+            "id": 41851,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "星愿·永恒",
+            "id": 41852,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "星愿·羁绊",
+            "id": 41853,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "星愿·觉醒",
+            "id": 41854,
+            "level": 4,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "mint_mark": [
+          {
+            "des": "征战之天威",
+            "id": 40711,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之断钢",
+            "id": 40712,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之意志",
+            "id": 40713,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之奥法",
+            "id": 40714,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之神盾",
+            "id": 40715,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之地罚",
+            "id": 41005,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之精华",
+            "id": 41006,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "征战之圣铠",
+            "id": 41007,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之力α",
+            "id": 40861,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之心α",
+            "id": 40862,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之光α",
+            "id": 40863,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之魂α",
+            "id": 40864,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之魄α",
+            "id": 41533,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之威α",
+            "id": 41534,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏光阴",
+            "id": 41339,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏年华",
+            "id": 41340,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏赤日",
+            "id": 41341,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏明月",
+            "id": 41342,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏骄阳",
+            "id": 41343,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏红云",
+            "id": 41344,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏烈火",
+            "id": 41345,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盛夏轰雷",
+            "id": 41346,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "麒之祥",
+            "id": 41408,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "麒之瑞",
+            "id": 41409,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "决战之怒火",
+            "id": 41486,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "决战之意志",
+            "id": 41487,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "决战之狩猎",
+            "id": 41488,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "决战之裁决",
+            "id": 41489,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "决战之庇护",
+            "id": 41490,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "决战之觉醒",
+            "id": 41491,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "青翠山野",
+            "id": 41528,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "枝繁叶茂",
+            "id": 41529,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "遮天蔽日",
+            "id": 41530,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "蔚然成林",
+            "id": 41531,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "欣欣向荣",
+            "id": 41532,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "智慧龙纹",
+            "id": 41549,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "威仪龙纹",
+            "id": 41550,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "狂猛龙纹",
+            "id": 41551,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "狂石绝影",
+            "id": 41573,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "凝神归元",
+            "id": 41574,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "厄夜惊雷",
+            "id": 41575,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "血魄契印",
+            "id": 41576,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "极影暗光",
+            "id": 41577,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "灯神祝福",
+            "id": 41676,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "鹰眼祝福",
+            "id": 41677,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "昆仑祝福",
+            "id": 41678,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "寒冰祝福",
+            "id": 41679,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "愚人祝福",
+            "id": 41680,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "沙人祝福",
+            "id": 41681,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔界沉溺",
+            "id": 41716,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔坠九幽",
+            "id": 41717,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔音悠扬",
+            "id": 41718,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔道迷途",
+            "id": 41719,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔噬苍生",
+            "id": 41720,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "魔心不屈",
+            "id": 41721,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "缪斯印记",
+            "id": 41746,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "雷伊印记",
+            "id": 41747,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盖亚印记",
+            "id": 41748,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "布莱克印记",
+            "id": 41749,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "卡修斯印记",
+            "id": 41750,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "花市灯如昼",
+            "id": 41764,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "千门万灯明",
+            "id": 41765,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "行歌尽落梅",
+            "id": 41766,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "元宵欢游好",
+            "id": 41767,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·烟雨叹",
+            "id": 41809,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·流霞引",
+            "id": 41810,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·萧暮愁",
+            "id": 41811,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·云归书",
+            "id": 41812,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·枫落华",
+            "id": 41813,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "异空·堕世",
+            "id": 41819,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "异空·宿命",
+            "id": 41820,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "异空·幻影",
+            "id": 41821,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "异空·深渊",
+            "id": 41822,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "异空·回响",
+            "id": 41823,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "异空·执念",
+            "id": 41824,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "夏·甘雨",
+            "id": 41872,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "夏·爽风",
+            "id": 41873,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "夏·烈日",
+            "id": 41874,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "夏·惊雷",
+            "id": 41875,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "瀚宇·寒川之心",
+            "id": 41884,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "天启·寒川之心",
+            "id": 41888,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "炎蛇之鳞",
+            "id": 41901,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "巨蟹之钳",
+            "id": 41902,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "沙城之甲",
+            "id": 41903,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "狮灵之吼",
+            "id": 41904,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "晓·勇气之光",
+            "id": 41932,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "晓·净化之心",
+            "id": 41933,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "晓·誓言之约",
+            "id": 41934,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "晓·永恒之月",
+            "id": 41935,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "月光·灵羽风暴",
+            "id": 42269,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "月光·闪耀祝福",
+            "id": 42270,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "月影·幽冥疾行",
+            "id": 42271,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "月影·暗魂诅咒",
+            "id": 42272,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "地葬印记",
+            "id": 41959,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "瀚海印记",
+            "id": 41960,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "天玄印记",
+            "id": 41961,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "幻境印记",
+            "id": 41962,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "时空印记",
+            "id": 41963,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "混沌印记",
+            "id": 41964,
+            "level": 3,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "mint_mark": [
+          {
+            "des": "庆·战决天下",
+            "id": 40512,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·狂天啸日",
+            "id": 40513,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·锋华无双",
+            "id": 40514,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·斗影长虹",
+            "id": 40515,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·魂祭之舞",
+            "id": 40516,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·岳尊冥灭",
+            "id": 40517,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "素白清风",
+            "id": 40706,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "靛青罗刹",
+            "id": 40707,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "玄黑混元",
+            "id": 40708,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "怒炎赤火",
+            "id": 40709,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "盏金轩辕",
+            "id": 40710,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之力",
+            "id": 40802,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之心",
+            "id": 40803,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之光",
+            "id": 40804,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之魂",
+            "id": 40805,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "军团之令·洋",
+            "id": 41165,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "军团之令·炎",
+            "id": 41166,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "军团之令·雷",
+            "id": 41167,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "军团之令·地",
+            "id": 41168,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "戴斯星之海",
+            "id": 41227,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "拉铂尔之雾",
+            "id": 41228,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "贝塔星之骸",
+            "id": 41229,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "卡酷星之魂",
+            "id": 41230,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·时雨",
+            "id": 41236,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·寒霜",
+            "id": 41237,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·春露",
+            "id": 41238,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "清·梅雾",
+            "id": 41239,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "帕诺战争印记",
+            "id": 41247,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "罗格战争印记",
+            "id": 41248,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "欢乐之心",
+            "id": 41278,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "一眼永恒",
+            "id": 41373,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "凝固记忆",
+            "id": 41374,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "命世之才",
+            "id": 41382,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "命世之体",
+            "id": 41383,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "命世之魂",
+            "id": 41384,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "命世之魄",
+            "id": 41385,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "挽·荒城守护",
+            "id": 41634,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "挽·无色废墟",
+            "id": 41635,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "挽·草木知威",
+            "id": 41636,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "挽·无恙之处",
+            "id": 41637,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "挽·不逝之殇",
+            "id": 41638,
+            "level": 2,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "mint_mark": [
+          {
+            "des": "神耀·齐天",
+            "id": 40025,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·惊天",
+            "id": 40026,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·浑天",
+            "id": 40027,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·斗天",
+            "id": 40028,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·灭天",
+            "id": 40029,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·战天",
+            "id": 40030,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·擎天",
+            "id": 40031,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·破天",
+            "id": 40032,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "神耀·霸天",
+            "id": 40303,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40126,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40127,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40128,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40129,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40130,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40131,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "特级全能刻印",
+            "id": 40132,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳•时空",
+            "id": 40455,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳•魔宗",
+            "id": 40456,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳•刃舞",
+            "id": 40457,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳·精卫",
+            "id": 40489,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳·魂卫",
+            "id": 40490,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳·灵犀",
+            "id": 40491,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳·不息",
+            "id": 40492,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳·不朽",
+            "id": 40493,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "阳•利刃",
+            "id": 40818,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·战决",
+            "id": 40506,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·狂天",
+            "id": 40507,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·锋华",
+            "id": 40508,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·斗影",
+            "id": 40509,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·魂祭",
+            "id": 40510,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "庆·岳尊",
+            "id": 40511,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之力β",
+            "id": 41793,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之心β",
+            "id": 41794,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之光β",
+            "id": 41795,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之魂β",
+            "id": 41796,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之魄β",
+            "id": 41797,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "泰坦之威β",
+            "id": 41798,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "伽罗八部",
+            "id": 40885,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "des": "太玄九天",
+            "id": 40886,
+            "level": 1,
+            "exchange_id": 0,
+            "max_num": 0,
+            "price": 0,
+            "puton": 0
+          }
+        ]
+      }
+    ],
+    "shop": {
+      "mint_mark": [
+        {
+          "des": "穷奇之邪",
+          "id": 42046,
+          "level": 5,
+          "exchange_id": 14686,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "穷奇之魅",
+          "id": 42047,
+          "level": 5,
+          "exchange_id": 14687,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "梼杌之狂",
+          "id": 42048,
+          "level": 5,
+          "exchange_id": 14688,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "梼杌之傲",
+          "id": 42049,
+          "level": 5,
+          "exchange_id": 14689,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "饕餮之吞",
+          "id": 42050,
+          "level": 5,
+          "exchange_id": 14690,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "饕餮之噬",
+          "id": 42051,
+          "level": 5,
+          "exchange_id": 14691,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "混沌之隐",
+          "id": 42052,
+          "level": 5,
+          "exchange_id": 14692,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "混沌之匿",
+          "id": 42053,
+          "level": 5,
+          "exchange_id": 14693,
+          "max_num": 1,
+          "price": 700,
+          "puton": 1
+        },
+        {
+          "des": "九天之疾",
+          "id": 41286,
+          "level": 5,
+          "exchange_id": 13260,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九天之速",
+          "id": 41287,
+          "level": 5,
+          "exchange_id": 13261,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九曲之刃",
+          "id": 41288,
+          "level": 5,
+          "exchange_id": 13262,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九曲之光",
+          "id": 41289,
+          "level": 5,
+          "exchange_id": 13263,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九霄之钟",
+          "id": 41290,
+          "level": 5,
+          "exchange_id": 13264,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九霄之灵",
+          "id": 41291,
+          "level": 5,
+          "exchange_id": 13265,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九鼎之承",
+          "id": 41292,
+          "level": 5,
+          "exchange_id": 13266,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "九鼎之重",
+          "id": 41293,
+          "level": 5,
+          "exchange_id": 13267,
+          "max_num": 2,
+          "price": 500,
+          "puton": 1
+        },
+        {
+          "des": "V8-01",
+          "id": 41112,
+          "level": 5,
+          "exchange_id": 13260,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-02",
+          "id": 41113,
+          "level": 5,
+          "exchange_id": 13261,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-03",
+          "id": 41114,
+          "level": 5,
+          "exchange_id": 13262,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-04",
+          "id": 41115,
+          "level": 5,
+          "exchange_id": 13263,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-05",
+          "id": 41116,
+          "level": 5,
+          "exchange_id": 13264,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-06",
+          "id": 41117,
+          "level": 5,
+          "exchange_id": 13265,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-07",
+          "id": 41118,
+          "level": 5,
+          "exchange_id": 13266,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "V8-08",
+          "id": 41119,
+          "level": 5,
+          "exchange_id": 13267,
+          "max_num": 1,
+          "price": 500,
+          "puton": 0
+        },
+        {
+          "des": "圣·虚无",
+          "id": 40757,
+          "level": 4,
+          "exchange_id": 14245,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·元素",
+          "id": 40758,
+          "level": 4,
+          "exchange_id": 14246,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·能量",
+          "id": 40759,
+          "level": 4,
+          "exchange_id": 14247,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·生命",
+          "id": 40760,
+          "level": 4,
+          "exchange_id": 14248,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·轮回",
+          "id": 40761,
+          "level": 4,
+          "exchange_id": 14249,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·永恒",
+          "id": 40762,
+          "level": 4,
+          "exchange_id": 14250,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·圣洁",
+          "id": 40763,
+          "level": 4,
+          "exchange_id": 14251,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣·真我",
+          "id": 41929,
+          "level": 4,
+          "exchange_id": 14252,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣灵罪罚",
+          "id": 41001,
+          "level": 4,
+          "exchange_id": 14253,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣芒闪空",
+          "id": 41002,
+          "level": 4,
+          "exchange_id": 14254,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣威灵光",
+          "id": 41003,
+          "level": 4,
+          "exchange_id": 14255,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "圣光普照",
+          "id": 41004,
+          "level": 4,
+          "exchange_id": 14256,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "混沌诅咒",
+          "id": 41040,
+          "level": 4,
+          "exchange_id": 14257,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "混沌初拥",
+          "id": 41041,
+          "level": 4,
+          "exchange_id": 14258,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "魔君圣威",
+          "id": 41042,
+          "level": 4,
+          "exchange_id": 14259,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        },
+        {
+          "des": "魔君遗怨",
+          "id": 41751,
+          "level": 4,
+          "exchange_id": 14260,
+          "max_num": 2,
+          "price": 300,
+          "puton": 1
+        }
+      ],
+      "name": "商店",
+      "num": 1
+    }
+  }
+}

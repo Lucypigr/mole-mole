@@ -1,0 +1,44 @@
+{
+  "item": [
+    {
+      "a_item": 0,
+      "b_item": 0,
+      "ss_item": 1727667,
+      "s_item": 1727666,
+      "tips": 377,
+      "cost1": 262138,
+      "discost": 262140,
+      "disitem": 1727696,
+      "endtime": "2026-12-04 10:00:00",
+      "exchange_num": 0,
+      "id": 1,
+      "miditem": 1727693,
+      "name": "传奇扭蛋机",
+      "poolid": 1,
+      "starttime": "2026-09-04 10:00:00",
+      "taskred": 342011,
+      "ticket": 1727665,
+      "videotype": 1
+    },
+    {
+      "a_item": 1727745,
+      "b_item": 1727746,
+      "ss_item": 1727743,
+      "s_item": 1727744,
+      "tips": 392,
+      "cost1": 262175,
+      "discost": 262177,
+      "disitem": 1727749,
+      "endtime": "2026-03-06 10:00:00",
+      "exchange_num": 4,
+      "id": 2,
+      "miditem": 1727747,
+      "name": "新春扭蛋机",
+      "poolid": 2,
+      "starttime": "2026-02-13 10:00:00",
+      "taskred": 342021,
+      "ticket": 1727742,
+      "videotype": 2
+    }
+  ]
+}

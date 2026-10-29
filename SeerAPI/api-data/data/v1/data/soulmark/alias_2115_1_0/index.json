@@ -1,0 +1,48 @@
+{
+  "data": {
+    "1724": {
+      "id": 1724,
+      "desc": "自身位于出战背包时，双方场下的精灵体力、PP值均不会减少|自身的龙系技能获得本系加成|自身首次出战登场时获得红色龙鳞、黄色龙鳞、蓝色龙鳞，自身失去所有龙鳞时，自身获得3回合的白色龙鳞，同时解封第五技能|（boss无效）",
+      "desc_formatting_adjustment": "<indent=0><sprite=0><indent=16>常驻效果：\r\n<indent=16><sprite=3><indent=32>武心婵身为瓏域公主：\r\n<indent=32><sprite=4><indent=48>拥有着神秘的感知：位于出战背包时，双方<b>不在场精灵</b>的体力与PP值均不会减少\r\n<indent=32><sprite=4><indent=48>流淌着龙族的血脉：使用龙系技能时会获得<b>本系属性加成</b>\r\n<indent=32><sprite=4><indent=48>受制于皇家的戒律：<color=#64F9FA>无法选择使用</color><b>第五技能</b>\r\n\r\n<indent=0><sprite=0><indent=16>登场效果：\r\n<indent=16><sprite=3><indent=32>武心婵首次出战的当次登场时会获得<color=#FFF779>红、黄、蓝三色龙鳞</color>，该三色龙鳞在满足特定的条件而消失之前持续存在\r\n\r\n<indent=0><sprite=0><indent=16>限定效果（每场战斗限1次）：\r\n<indent=16><sprite=3><indent=32>回合结束后，若红、黄、蓝三色龙鳞均已消失，则：\r\n<indent=32><sprite=4><indent=48>获得持续3回合的<color=#FFF779>白色龙鳞</color>\r\n<indent=32><sprite=4><indent=48>本场战斗内<b>第五技能</b><color=#64F9FA>开放选择使用</color>\r\n\r\n<indent=0><sprite=5><indent=15>红色龙鳞（下场保留）：\r\n<indent=16><sprite=6><indent=32><color=#64F9FA>免疫</color>受到的<b>攻击伤害、固定伤害、百分比伤害</b>\r\n<indent=32><sprite=4><indent=48>成功触发免疫后，若自身未被击败则龙鳞消失，消失时<color=#64F9FA>消除</color>对手<b>回合类效果</b>\r\n\r\n<indent=0><sprite=5><indent=15>黄色龙鳞（下场保留）：\r\n<indent=16><sprite=6><indent=32>持有精灵<color=#64F9FA>免疫</color>受到的<b>异常状态</b>\r\n<indent=32><sprite=4><indent=48>成功触发免疫后，若自身未被击败则龙鳞消失，消失时<color=#64F9FA>消除</color>对手<b>能力提升状态</b>\r\n\r\n<indent=0><sprite=5><indent=15>蓝色龙鳞（下场保留）：\r\n<indent=16><sprite=6><indent=32>持有精灵<color=#64F9FA>免疫</color>受到的<b>能力下降状态</b>\r\n<indent=32><sprite=4><indent=48>成功触发免疫后，若自身未被击败则龙鳞消失，消失时<color=#64F9FA>消除</color>对手<b>护盾、护罩类效果</b>\r\n\r\n<indent=0><sprite=5><indent=15>白色龙鳞：\r\n<indent=16><sprite=6><indent=32><color=#64F9FA>免疫</color>受到的<b>攻击伤害、固定伤害、百分比伤害、异常状态、能力下降</b>状态\r\n<indent=16><sprite=6><indent=32>每个战斗阶段结束时，根据本回合内成功免疫的项目，触发<b>对应</b>的效果：\r\n<indent=32><sprite=4><indent=48>成功免疫了<b>攻击伤害</b>：令自身下1次造成的<b>攻击伤害</b><color=#64F9FA>提升</color>100%\r\n<indent=32><sprite=4><indent=48>成功免疫了<b>固定伤害</b>：<color=#64F9FA>附加</color>给对手300点<b>固定伤害</b>\r\n<indent=32><sprite=4><indent=48>成功免疫了<b>百分比伤害</b>：<color=#64F9FA>附加</color>给对手自身最大体力30%的<b>百分比伤害</b>\r\n<indent=32><sprite=4><indent=48>成功免疫了<b>异常状态</b>：随机<color=#64F9FA>附加</color>2种<b>控制类异常状态</b>\r\n<indent=32><sprite=4><indent=48>成功免疫了<b>能力下降状态</b>：<color=#64F9FA>令对手全属性-2</color>\r\n<indent=16><sprite=6><indent=32>消失时<color=#64F9FA>消除</color>对手<b>回合类效果、能力提升状态、护盾类效果、护罩类效果</b>",
+      "analyze_desc": "[sprite name=dot4]自身位于出战背包时，双方场下的精灵体力、PP值均不会减少|[sprite name=dot4]自身的龙系技能获得[color=#52a5f2]本系加成[/color]|[sprite name=dot4]自身[color=#52a5f2]首次[/color]出战[color=#57c975]登场时[/color]获得[color=#f35555]红色龙鳞[/color]、[color=#f35555]黄色龙鳞[/color]、[color=#f35555]蓝色龙鳞[/color]，自身失去所有龙鳞时，自身获得3回合的[color=#f35555]白色龙鳞[/color]，同时解封第五技能",
+      "pve_effective": false,
+      "intensified": false,
+      "is_adv": false,
+      "pet": [
+        {
+          "id": 4500,
+          "url": "https://api.seerapi.com/v1/pet/4500"
+        }
+      ],
+      "effect": {
+        "effect_args": [
+          1,
+          0
+        ],
+        "effect": {
+          "id": 2115,
+          "url": "https://api.seerapi.com/v1/eid_effect/2115"
+        }
+      },
+      "effect_alias": "alias_2115_1_0",
+      "tag": [
+        {
+          "id": 2,
+          "url": "https://api.seerapi.com/v1/soulmark_tag/2"
+        },
+        {
+          "id": 5,
+          "url": "https://api.seerapi.com/v1/soulmark_tag/5"
+        },
+        {
+          "id": 19,
+          "url": "https://api.seerapi.com/v1/soulmark_tag/19"
+        }
+      ],
+      "intensified_to": null,
+      "from": null,
+      "advance": null
+    }
+  },
+  "hash": "82b6a278"
+}
