@@ -45,6 +45,13 @@ button:disabled { opacity: .45; cursor: default; }
 #battle .me .sprite { transform: scaleX(-1); }
 #battle .sprite.hit { animation: hit .35s; }
 #battle .sprite.faint { opacity: 0; }
+#battle .arena { grid-row: 1 / 3; grid-column: 1; width: 100%; height: 100%; pointer-events: none; transition: opacity .6s; }
+#battle .arena.faint { opacity: 0; }
+#battle .side { grid-column: 1; z-index: 1; }
+#battle .side.foe { grid-row: 1; }
+#battle .side.me { grid-row: 2; }
+#battle .sprite.hidden-by-anim { visibility: hidden; }
+#battle .info { z-index: 2; }
 @keyframes hit { 0%,100% { filter: none; } 30% { filter: brightness(3); } 60% { translate: 6px 0; } }
 #battle .info { background: #14223de6; border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px;
   min-width: 230px; font-size: 14px; }
@@ -54,9 +61,9 @@ button:disabled { opacity: .45; cursor: default; }
 .bar i { display: block; height: 100%; width: 100%; background: var(--hp); transition: width .4s, background .4s; }
 .bar.exp { height: 4px; }
 .bar.exp i { background: var(--exp); }
-#log { min-height: 48px; max-height: 64px; overflow: hidden; padding: 6px 14px; background: #0b1426e6;
+#log { grid-row: 3; grid-column: 1; min-height: 48px; max-height: 64px; overflow: hidden; padding: 6px 14px; background: #0b1426e6;
   border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
-#cmd { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: 8px; background: var(--panel); }
+#cmd { grid-row: 4; grid-column: 1; display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: 8px; background: var(--panel); }
 #cmd button { padding: 8px 6px; font-size: 14px; text-align: left; line-height: 1.3; }
 #cmd button small { display: block; color: var(--dim); font-size: 11px; }
 #cmd .wide { grid-column: span 4; text-align: center; }

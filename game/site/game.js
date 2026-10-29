@@ -139,24 +139,41 @@ function zonePool(zi) {
   const ok = [];
   for (const [k, p] of Object.entries(D.pets)) {
     const id = +k;
-    if (p.rare || p.catch <= 0 || !fits(id)) continue;
+    if (p.rare || p.anim || p.catch <= 0 || !fits(id)) continue;
     const minLv = prevEvo[id] || 0;
     if (minLv > z.lv[1]) continue;
     if (p.evo && p.evo[0] < z.lv[0] - 2) continue;
     if (!p.evo && !minLv && p.base.reduce((a, b) => a + b) > 480) continue;
     ok.push(id);
   }
+  if (ok.length < 5) {
+    // thin zone: also allow any ordinary pet of the zone's types regardless of evolution stage
+    for (const [k, p] of Object.entries(D.pets)) {
+      const id = +k;
+      if (!ok.includes(id) && !p.rare && !p.anim && p.catch > 0 && fits(id) && p.base.reduce((a, b) => a + b) <= 520) ok.push(id);
+    }
+  }
   poolCache[zi] = ok.length ? ok : Object.keys(D.pets).map(Number).filter(id => fits(id) && pet(id).first);
   return poolCache[zi];
+}
+
+// Animated pets of the zone's types: guardian aces and rare wild encounters.
+function animPool(zi) {
+  const z = ZONES[zi];
+  const all = Object.keys(D.pets).map(Number).filter(id => pet(id).anim);
+  const fit = all.filter(id => D.combos[pet(id).type].t.some(t => z.types.includes(t)));
+  return fit.length ? fit : all;
 }
 
 function bossTeam(zi) {
   const z = ZONES[zi];
   const cands = Object.entries(D.pets).map(([k, p]) => [+k, p])
-    .filter(([id, p]) => !p.rare && !p.evo && D.combos[p.type].t.some(t => z.types.includes(t)))
+    .filter(([id, p]) => !p.rare && !p.anim && !p.evo && D.combos[p.type].t.some(t => z.types.includes(t)))
     .sort((a, b) => b[1].base.reduce((x, y) => x + y) - a[1].base.reduce((x, y) => x + y));
   const strongest = cands.filter(([, p]) => p.base.reduce((x, y) => x + y) <= 560);
-  const team = (strongest.length ? strongest : cands).slice(0, 3).map(([id]) => id);
+  const team = (strongest.length ? strongest : cands).slice(0, 2).map(([id]) => id);
+  const aces = animPool(zi);
+  if (aces.length) team.push(aces[(zi * 7) % aces.length]);
   return team.map((id, i) => makeMon(id, z.boss - (team.length - 1 - i) * 2));
 }
 
@@ -498,6 +515,10 @@ function fighter(m, side) {
 function startWild() {
   if (ZONES[S.zone].safe) return;
   const z = ZONES[S.zone];
+  if (Math.random() < 0.06) {
+    const rare = pick(animPool(S.zone));
+    if (rare) { toast('發現稀有精靈！'); return startBattle([makeMon(rare, z.lv[1] + 2)], { wild: true }); }
+  }
   const id = pick(zonePool(S.zone));
   let lv = rnd(z.lv[0], z.lv[1]);
   // a wild pet below its evolution level would not exist: evolve forward
@@ -512,6 +533,7 @@ function startBattle(foes, opts) {
   battle = { ...opts, foes, foeIdx: 0, me: fighter(S.party[lead], 'me'), foe: fighter(foes[0], 'foe'),
     participants: new Set([S.party[lead]]), busy: false, over: false };
   foes.forEach(f => S.seen[f.id] = 1);
+  clearAnims();
   $('#battle').hidden = false;
   $('#log').innerHTML = '';
   renderBattle();
@@ -520,7 +542,53 @@ function startBattle(foes, opts) {
   showCommands();
 }
 
+// Animated pets are drawn on a full-arena canvas per side; others use the static body image.
+const ANIM_HOME = { me: { x: .26, y: .94, w: .34, h: .42 }, foe: { x: .74, y: .46, w: .3, h: .38 } };
+function setAnim(f) {
+  const cv = $(`#anim-${f.side}`), img = $(`#battle .${f.side} .sprite`);
+  const animId = pet(f.m.id).anim;
+  const cur = cv._anim;
+  if (cur && cur.petId === f.m.id) { f.anim = cur; return; }
+  if (cur) { cur.destroy(); cv._anim = null; cv.getContext('2d').clearRect(0, 0, cv.width, cv.height); }
+  f.anim = null;
+  cv.classList.remove('faint');
+  img.classList.remove('hidden-by-anim');
+  if (!animId) return;
+  img.classList.add('hidden-by-anim');
+  const want = f.m.id;
+  loadAnim(animId).then(data => {
+    if (!battle || battle[f.side] !== f || f.m.id !== want) return;
+    const a = new PetAnim(cv, data, { flip: f.side === 'foe', home: ANIM_HOME[f.side] });
+    a.petId = want; cv._anim = a; f.anim = a;
+    if (a.has('appear')) a.play('appear');
+  }).catch(() => img.classList.remove('hidden-by-anim'));
+}
+function clearAnims() {
+  for (const side of ['me', 'foe']) {
+    const cv = $(`#anim-${side}`);
+    if (cv._anim) { cv._anim.destroy(); cv._anim = null; }
+    cv.getContext('2d').clearRect(0, 0, cv.width, cv.height);
+    cv.classList.remove('faint');
+  }
+}
+// Plays the attacker's move animation; resolves at the hit frame (or at once without animation).
+function attackAnim(f, k) {
+  if (!f.anim) return Promise.resolve();
+  const seq = k.cat === 1 || !f.anim.has('sa') ? 'attack' : 'sa';
+  return new Promise(res => { f.anim.play(seq, res); setTimeout(res, 4000); });
+}
+function hitAnim(f) {
+  const img = $(`#battle .${f.side} .sprite`);
+  img.classList.remove('hit'); void img.offsetWidth; img.classList.add('hit');
+  if (f.anim) f.anim.play('hited');
+}
+function faintAnim(f) {
+  $(`#battle .${f.side} .sprite`).classList.add('faint');
+  $(`#anim-${f.side}`).classList.add('faint');
+}
+
 function renderSide(f) {
+  if (f.anim === undefined || (f.anim && f.anim.petId !== f.m.id)) setAnim(f);
   const el = $(`#battle .${f.side}`), m = f.m, p = pet(m.id);
   const img = $('.sprite', el);
   if (!img.src.endsWith(bodyImg(m.id))) { img.src = bodyImg(m.id); img.classList.remove('faint'); }
@@ -629,7 +697,7 @@ async function runTurn(action) {
     S.bag[action.item]--;
     await log(`扔出了${ITEM_NAMES[action.item]}！`);
     if (tryCatch(foe, action.item === 'superCapsule' ? 2 : 1)) {
-      $('#battle .foe .sprite').classList.add('faint');
+      faintAnim(foe);
       await log(`捕捉成功！${pet(foe.m.id).name} 成為了你的夥伴！`);
       return endBattle('catch');
     }
@@ -678,7 +746,9 @@ function tryCatch(f, mult) {
   const m = f.m, p = pet(m.id);
   const hpF = (3 * m.stats[0] - 2 * m.hp) / (3 * m.stats[0]);
   const statusF = f.status ? 1.5 : 1;
-  const chance = clamp((Math.max(p.catch, 3) * mult * hpF * statusF) / 255, 0.02, 1);
+  // animated pets are endgame species with catch rate 0 in the source data; keep them catchable
+  const base = Math.max(p.catch, p.anim ? 25 : 3);
+  const chance = clamp((base * mult * hpF * statusF) / 255, 0.02, 1);
   return Math.random() < chance;
 }
 
@@ -701,6 +771,7 @@ async function useSkill(a, idx, d) {
   // consecutive power-up
   if (slot && a.streak.id === slot.id) a.streak.n++; else a.streak = { id: slot ? slot.id : 0, n: 0 };
 
+  await attackAnim(a, k);
   if (k.cat !== 4 && k.pow > 0) {
     let pow = k.pow;
     if (fx[2] && d.m.hp < d.m.stats[0] / 2) pow *= 2;
@@ -720,8 +791,7 @@ async function useSkill(a, idx, d) {
       if (fx[29]) dmg += fx[29][0] || 0;
       if (fx[8] && dmg >= d.m.hp) dmg = d.m.hp - 1;
       d.m.hp = Math.max(0, d.m.hp - dmg); total += dmg;
-      $(`#battle .${d.side} .sprite`).classList.remove('hit'); void $(`#battle .${d.side} .sprite`).offsetWidth;
-      $(`#battle .${d.side} .sprite`).classList.add('hit');
+      hitAnim(d);
       renderBattle();
       if (crit) await log('擊中要害！');
       if (h === 0) { if (tm >= 2) await log('效果拔群！'); else if (tm === 0) await log('完全沒有效果……'); else if (tm < 1) await log('效果不太好……'); }
@@ -760,7 +830,7 @@ async function applyStatFx(eid, args, a, d) {
 async function checkFaint() {
   const { me, foe } = battle;
   if (foe.m.hp <= 0) {
-    $('#battle .foe .sprite').classList.add('faint');
+    faintAnim(foe);
     await log(`${pet(foe.m.id).name} 倒下了！`);
     await giveExp(foe.m);
     battle.foeIdx++;
@@ -773,7 +843,7 @@ async function checkFaint() {
     await endBattle('win'); return true;
   }
   if (me.m.hp <= 0) {
-    $('#battle .me .sprite').classList.add('faint');
+    faintAnim(me);
     await log(`${pet(me.m.id).name} 倒下了！`);
     if (!S.party.some(m => m.hp > 0)) { await endBattle('lose'); return true; }
     const i = await openParty({ pick: true, title: '派出下一隻精靈', cancel: '（必須選擇）', filter: m => m.hp > 0, filterMsg: '這隻精靈無法出戰' });
@@ -835,6 +905,7 @@ async function endBattle(result) {
   }
   await sleep(500);
   $('#battle').hidden = true;
+  clearAnims();
   battle = null;
   if (result === 'lose') { healAll(); enterZone(0, 9, 9); }
   // evolutions
@@ -878,6 +949,8 @@ document.querySelectorAll('#hud [data-act]').forEach(b => b.onclick = () => {
   if (battle || !S) return;
   ({ party: () => openParty(), bag: openBag, dex: openDex, save: () => save() })[b.dataset.act]();
 });
+
+addEventListener('resize', () => document.querySelectorAll('#battle .arena').forEach(cv => cv._anim && cv._anim.fit()));
 
 function loop(t) {
   if (S) {
