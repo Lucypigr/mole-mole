@@ -49,8 +49,20 @@ def main():
             a = n['attributes']
             natures.append({'name': n['name'], 'des': n['des2'], 'm': [0, a['atk'], a['def'], a['sp_atk'], a['sp_def'], a['spd']]})
 
+    # pets that have a converted animation (game/tools/build_anims.py) are always included
+    anim_dir = os.path.join(OUT, 'anim')
+    anims = {int(f[:-5]) for f in os.listdir(anim_dir) if f.endswith('.json')} if os.path.isdir(anim_dir) else set()
+    anim_pet = {}
+    for d in os.listdir(os.path.join(DATA, 'pet')):
+        if d.isdigit():
+            r = load('pet', d)['resource_id']
+            if r in anims and (r not in anim_pet or int(d) < anim_pet[r]):
+                anim_pet[r] = int(d)
+    wanted = sorted(set(range(1, MAX_ID + 1)) | set(anim_pet.values()))
+    pet_anim = {v: k for k, v in anim_pet.items()}
+
     pets, skills, classes = {}, {}, {}
-    for i in range(1, MAX_ID + 1):
+    for i in wanted:
         p = load('pet', i)
         if not p or p['type']['id'] not in combos:
             continue
@@ -88,6 +100,8 @@ def main():
             'exp': p['yielding_exp'], 'catch': p['catch_rate'], 'evo': [p['evolving_lv'], nxt] if nxt else None,
             'learn': sorted(learn), 'first': chain[0] == i, 'rare': rare,
         }
+        if i in pet_anim:
+            pets[i]['anim'] = pet_anim[i]
         for kind, src, size in (('body', body, 260), ('head', head, 96)):
             dst = os.path.join(OUT, 'img', kind, f'{i}.webp')
             if not os.path.exists(dst):

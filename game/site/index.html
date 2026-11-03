@@ -25,6 +25,8 @@
     <button data-dir="act" class="act">A</button>
   </div>
   <div id="battle" hidden>
+    <canvas class="arena" id="anim-foe"></canvas>
+    <canvas class="arena" id="anim-me"></canvas>
     <div class="side foe">
       <div class="info"><b class="name"></b> <span class="lv"></span> <span class="type"></span> <span class="status"></span>
         <div class="bar"><i></i></div><small class="hp"></small></div>
@@ -42,6 +44,7 @@
   <div id="modal" hidden><div class="box"></div></div>
   <div id="toast"></div>
 </div>
+<script src="anim.js"></script>
 <script src="game.js"></script>
 </body>
 </html>
